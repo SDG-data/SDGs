@@ -1,0 +1,2370 @@
+{"indicators" :[
+  {
+    "goal":1,
+    "indicator":" Proportion of population below $1.25 (PPP) per day (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" World Bank",
+    "other goals":"8",
+    "category":" "
+  },
+  {
+    "goal":1,
+    "indicator":"Proportion of population living below national poverty line, by urban/rural (modified MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"World Bank, UN DESA",
+    "other goals":"11",
+    "category":" "
+  },
+  {
+    "goal":1,
+    "indicator":" Multidimensional Poverty Index",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UNDP, World Bank, UNSD, UNICEF",
+    "other goals":"2, 3, 4, 8, 11",
+    "category":" "
+  },
+  {
+    "goal":1,
+    "indicator":"Percentage of eligible population covered by national social protection programs",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ILO",
+    "other goals":"8, 10, 11",
+    "category":" "
+  },
+  {
+    "goal":1,
+    "indicator":"Percentage of women, men, indigenous peoples, and local communities with secure rights to land, property, and natural resources, measured by (i) percentage with documented or recognized evidence of tenure, and (ii) percentage who perceive their rights are recognized and protected.",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"FAO, UNDP, UN- Habitat",
+    "other goals":"2, 5, 10, 11",
+    "category":" "
+  },
+  {
+    "goal":1,
+    "indicator":"Losses from natural disasters, by climate and non-climate-related events (in US$ and lives lost)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UNISDR, FAO, WHO, CRED",
+    "other goals":"2, 6, 11, 13",
+    "category":" "
+  },
+  {
+    "goal":1,
+    "indicator":" Total fertility rate",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UN Population Division, UNFPA",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":1,
+    "indicator":" Complementary National Indicators: 1. Poverty gap ratio (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":1,
+    "indicator":" 2. Percentage of population using banking services (including mobile banking)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":1,
+    "indicator":" 3. [Indicator on equal access to inheritance]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":1,
+    "indicator":" 4. [Disaster Risk Reduction Indicator]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ",
+    "other goals":" ",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":2,
+    "indicator":"Proportion of population below minimum level of dietary energy consumption (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"FAO, WHO",
+    "other goals":"3",
+    "category":" "
+  },
+  {
+    "goal":2,
+    "indicator":" Percentage of women of reproductive age (15-49) with anemia",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"FAO, WHO",
+    "other goals":"3",
+    "category":" "
+  },
+  {
+    "goal":2,
+    "indicator":" Prevalence of stunting and wasting in children under 5 years of age",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"WHO, UNICEF",
+    "other goals":"1, 3",
+    "category":" "
+  },
+  {
+    "goal":2,
+    "indicator":" Percentage of infants under 6 months who are exclusively breast fed",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"WHO, UNICEF",
+    "other goals":"3",
+    "category":" "
+  },
+  {
+    "goal":2,
+    "indicator":"Percentage of women, 15-49 years of age, who consume at least 5 out of 10 defined food groups",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"FAO, WHO",
+    "other goals":"3, 5",
+    "category":" "
+  },
+  {
+    "goal":2,
+    "indicator":" Crop yield gap (actual yield as % of attainable yield)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" FAO",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":2,
+    "indicator":" Number of agricultural extension workers per 1000 farmers [or share of farmers covered by agricultural extension programs and services]",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" FAO",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":2,
+    "indicator":" Nitrogen use efficiency in food systems",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"FAO, International",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":,
+    "indicator":"",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":2,
+    "indicator":"Fertilizer Industry Association (IFA)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ",
+    "other goals":" ",
+    "category":""
+  },
+  {
+    "goal":2,
+    "indicator":"[Crop water productivity (tons of harvested product per unit irrigation water)]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" FAO",
+    "other goals":"6",
+    "category":" "
+  },
+  {
+    "goal":2,
+    "indicator":" Complementary National Indicators:",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":2,
+    "indicator":"Percentage of population with shortfalls of: iron, zinc, iodine, vitamin A, folate, vitamin B12, [and vitamin D]",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":2,
+    "indicator":" Proportion of infants 6‚Äì23 months of age who receive a minimum acceptable diet",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":2,
+    "indicator":" Percentage children born with low birth weight",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":2,
+    "indicator":" Cereal yield growth rate (% p.a.)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":2,
+    "indicator":" Livestock yield gap (actual yield as % of attainable yield)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":2,
+    "indicator":" [Phosphorus use efficiency in food systems]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":2,
+    "indicator":" Share of calories from non-staple crops",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":2,
+    "indicator":" Percentage of total daily energy intake from protein in adults",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":2,
+    "indicator":"[Access to drying, storage and processing facilities]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":2,
+    "indicator":" [Indicator on genetic diversity in agriculture]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":2,
+    "indicator":" [Indicator on irrigation access gap]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":2,
+    "indicator":" [Farmers with nationally appropriate crop insurance (%)]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":2,
+    "indicator":" Public and private R&D expenditure on agriculture and rural development (% of GNI)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":2,
+    "indicator":"[Indicator on food price volatility]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":3,
+    "indicator":" Maternal mortality ratio (MDG Indicator) and rate",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"WHO, UN Population Division, UNICEF, World Bank",
+    "other goals":"5",
+    "category":" "
+  },
+  {
+    "goal":3,
+    "indicator":"Neonatal, infant, and under-5 mortality rates (modified MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"WHO, UNICEF, UN Population Division",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":3,
+    "indicator":" Percent of children receiving full immunization (as recommended by national vaccination schedules)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UNICEF, GAVI, WHO",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":3,
+    "indicator":"HIV incidence, treatment rate, and mortality (modified MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"WHO, UNAIDS",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":3,
+    "indicator":"Incidence, prevalence, and death rates associated with all forms of TB (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" WHO",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":3,
+    "indicator":" Incidence and death rates associated with malaria (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" WHO",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":3,
+    "indicator":"Probability of dying between exact ages 30 and 70 from any of cardiovascular disease, cancer, diabetes, chronic respiratory disease, [or suicide]",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" WHO",
+    "other goals":"11",
+    "category":" "
+  },
+  {
+    "goal":3,
+    "indicator":"Percent of population overweight and obese, including children under 5",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" WHO",
+    "other goals":"12",
+    "category":" "
+  },
+  {
+    "goal":3,
+    "indicator":"Road traffic deaths per 100, 000 population",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"WHO, UN- Habitat",
+    "other goals":"9, 11",
+    "category":" "
+  },
+  {
+    "goal":3,
+    "indicator":"[Consultations with a licensed provider in a health facility or the community per person, per year]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" WHO",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":3,
+    "indicator":" [Percentage of population without effective financial protection for health care]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" WHO",
+    "other goals":"11",
+    "category":" "
+  },
+  {
+    "goal":3,
+    "indicator":"Proportion of persons with a severe mental disorder (psychosis, bipolar affective disorder, or moderate-severe depression) who are using services",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" WHO",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":3,
+    "indicator":" Contraceptive prevalence rate (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UN Population Division and UNFPA",
+    "other goals":"5",
+    "category":" "
+  },
+  {
+    "goal":3,
+    "indicator":" Current use of any tobacco product (age-standardized rate)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" WHO",
+    "other goals":"12",
+    "category":" "
+  },
+  {
+    "goal":3,
+    "indicator":" Complementary National Indicators:",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":3,
+    "indicator":" 1. Percentage of births attended by skilled health personnel (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 2. Antenatal care coverage (at least one visit and at least four visits) (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 3. Post-natal care coverage (one visit) (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 4. Coverage of iron-folic acid supplements for pregnant women (%)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 5. Incidence rate of diarrheal disease in children under 5 years",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 6. Percentage of 1 year-old children immunized against measles (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 7. Percent HIV+ pregnant women receiving PMTCT",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 8. Condom use at last high-risk sex (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 9. Percentage of tuberculosis cases detected and cured under directly observed treatment short course (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 10. Percentage of children under 5 with fever who are treated with appropriate anti-malarial drugs (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 11. Percentage of people in malaria-endemic areas sleeping under insecticide-treated bed nets (modified MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 12. Percentage of confirmed malaria cases that receive first-line antimalarial therapy according to national policy",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 13. Percentage of suspected malaria cases that receive a parasitological test",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 14. Percentage of pregnant women receiving malaria IPT (in endemic areas)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 15. Neglected Tropical Disease (NTD) cure rate",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 16. Incidence and death rates associated with hepatitis",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 17. Percentage of women with cervical cancer screening",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 18. Percentage of adults with hypertension diagnosed & receiving treatment",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 19. Harmful use of alcohol",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 20. Healthy life expectancy at birth",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 21. Waiting time for elective surgery",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 22. Prevalence of insufficient physical activity",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 23. Fraction of calories from added saturated fats and sugars",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 24. Age-standardized mean population intake of salt (sodium chloride) per day in grams in persons aged 18+ years",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 25. Prevalence of persons (aged 18+ years) consuming less than five total servings (400 grams) of fruit and vegetables per day",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 26. Percentage change in per capita [red] meat consumption relative to a 2015 baseline",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":"27. Age-standardized (to world population age distribution) prevalence of diabetes (preferably based on HbA1c), hypertension, cardiovascular disease, and chronic respiratory disease",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 28. [Mortality from indoor air pollution]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 29. Percentage of health facilities meeting service specific readiness requirements",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 30. Percentage of population with access to affordable essential drugs and commodities on a sustainable basis",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 31. Percentage of new health care facilities built in compliance with building codes and standards",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 32. Public and private R&D expenditure on health (% GNP)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":"33. Ratio of health professionals to population (MDs, nurse midwives, nurses, community health workers, EmOC caregivers)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":" 34. Percentage of women and men aged 15‚Äì49 who report discriminatory attitudes towards people living with HIV",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":3,
+    "indicator":"35. Stillbirth rate",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ",
+    "other goals":" ",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":4,
+    "indicator":" Percentage of children (36-59 months) receiving at least one year of a quality pre-primary education program",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UNESCO, UNICEF, World Bank",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":4,
+    "indicator":" Early Child Development Index (ECDI)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UNICEF, UNESCO",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":4,
+    "indicator":" Primary completion rates for girls and boys",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" UNESCO",
+    "other goals":"5",
+    "category":" "
+  },
+  {
+    "goal":4,
+    "indicator":"[Percentage of girls and boys who master a broad range of foundational skills, including in literacy and mathematics by the end of the primary school cycle",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" UNESCO",
+    "other goals":"5,4",
+    "category":""
+  },
+  {
+    "goal":4,
+    "indicator":" Secondary completion rates for girls and boys",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" UNESCO",
+    "other goals":"5, 8",
+    "category":" "
+  },
+  {
+    "goal":4,
+    "indicator":"[Percentage of girls and boys who achieve proficiency across a broad range of learning outcomes, including in literacy and in mathematics by end of lower secondary schooling cycle (based on credibly established national benchmarks)]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" UNESCO",
+    "other goals":"5",
+    "category":" "
+  },
+  {
+    "goal":4,
+    "indicator":" Tertiary enrollment rates for women and men",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" UNESCO",
+    "other goals":"5, 8",
+    "category":" "
+  },
+  {
+    "goal":4,
+    "indicator":" Complementary National Indicators:",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":4,
+    "indicator":" 1. [Percentage of girls and boys who acquire skills and values needed for global citizenship and sustainable development (national benchmarks to be developed) by the end of lower secondary]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":4,
+    "indicator":"2. Percentage of children under 5 experiencing responsive, stimulating parenting in safe environments",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":4,
+    "indicator":" 3. Number of children out of school",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":4,
+    "indicator":" 4. [Percentage of adolescents (15-19 years) with access to school-to-work programs]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":4,
+    "indicator":"5. Literacy rate of 15-24 year-olds, women and men (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":4,
+    "indicator":" 6. [Percentage of young adults (18-24 years) with access to a learning program]-to be developed",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":4,
+    "indicator":" 7. [Indicator on share of education facilities that provide an effective learning environment]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":4,
+    "indicator":" 8. Pupil to computer ratio in primary and secondary education",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":4,
+    "indicator":" 9. [Indicator on scholarships for students from developing countries]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":4,
+    "indicator":" 10. [Indicator on supply of qualified teachers]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":4,
+    "indicator":"11. Presence of legal frameworks that guarantee the right to education for all children for early childhood and basic education, and that guarantee a minimum age of entry to employment not below the years of basic education.",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ",
+    "other goals":" ",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":5,
+    "indicator":" Prevalence of girls and women 15-49 who have experienced physical or sexual violence [by an intimate partner] in the last 12 months",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"WHO, UNSD",
+    "other goals":"3",
+    "category":" "
+  },
+  {
+    "goal":5,
+    "indicator":" Percentage of referred cases of sexual and gender-based violence against women and children that are investigated and sentenced",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" UN Women",
+    "other goals":"16",
+    "category":" "
+  },
+  {
+    "goal":5,
+    "indicator":" Percentage of women aged 20-24 who were married or in a union by age 18",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" UNICEF",
+    "other goals":"3",
+    "category":" "
+  },
+  {
+    "goal":5,
+    "indicator":" Percentage of girls and women aged 15-49 years who have undergone FGM/C",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" UNICEF",
+    "other goals":"3",
+    "category":" "
+  },
+  {
+    "goal":5,
+    "indicator":"Average number of hours spent on paid and unpaid work combined (total work burden), by sex",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ILO with IAEG- GS (UNSD)",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":5,
+    "indicator":"Percentage of seats held by women and minorities in national parliament and/or sub-national elected office according to their respective share of the population (modified MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"Inter- Parliamentary Union (IPU)",
+    "other goals":"10, 16",
+    "category":" "
+  },
+  {
+    "goal":5,
+    "indicator":" Met demand for family planning (modified MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UN Population Division, UNFPA",
+    "other goals":"3",
+    "category":" "
+  },
+  {
+    "goal":5,
+    "indicator":"1. Gender gap in wages, by sector of economic activity",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":5,
+    "indicator":" 2. Share of women on corporate boards of national / multi-national corporations (MNCs)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":5,
+    "indicator":" 3. Percentage of women without incomes of their own",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":5,
+    "indicator":" 4. Adolescent birth rate (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":5,
+    "indicator":"5. Percentage of young people receiving comprehensive sexuality education",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ",
+    "other goals":" ",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":6,
+    "indicator":"Percentage of population using safely managed water services, by urban/rural (modified MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"WHO/UNICEF Joint Monitoring Programme (JMP)",
+    "other goals":"1, 2, 3, 9, 11",
+    "category":" "
+  },
+  {
+    "goal":6,
+    "indicator":"Percentage of population using safely managed sanitation services, by urban/rural (modified MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"WHO/UNICEF JMP",
+    "other goals":"1, 2, 3, 9, 11",
+    "category":" "
+  },
+  {
+    "goal":6,
+    "indicator":"Percentage of wastewater flows treated to national standards [and reused]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"WHO/UNICEF JMP",
+    "other goals":"3, 9, 11, 12, 14",
+    "category":" "
+  },
+  {
+    "goal":6,
+    "indicator":" [Indicator on water resource management]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" UN Water",
+    "other goals":"12, 14, 15",
+    "category":" "
+  },
+  {
+    "goal":6,
+    "indicator":" Proportion of total water resources used (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"FAO, UNEP",
+    "other goals":"2, 9, 11, 12",
+    "category":" "
+  },
+  {
+    "goal":6,
+    "indicator":" 1. Percentage of population practicing open defecation",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":6,
+    "indicator":" 2. Percentage of population with basic hand washing facilities with soap and water at home",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":6,
+    "indicator":" 3. Proportion of the population connected to collective sewers or with on-site storage of all domestic wastewaters",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":6,
+    "indicator":"4. Percentage of pupils enrolled in primary schools and secondary schools providing basic drinking water, adequate sanitation, and adequate hygiene services",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":6,
+    "indicator":"5. Percentage of beneficiaries using hospitals, health centers and clinics providing basic drinking water, adequate sanitation, and adequate hygiene",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":6,
+    "indicator":" 6. Proportion of the flows of treated municipal wastewater that are directly and safely reused",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":6,
+    "indicator":" 7. [Reporting of international river shed authorities on transboundary river-shed management]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":6,
+    "indicator":" 8. [Indicator on international cooperation and capacity building in water and sanitation-related activities]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":6,
+    "indicator":"9. [Indicator on participation of local communities for improving water and sanitation management]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ",
+    "other goals":" ",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":7,
+    "indicator":"Share of the population using modern cooking solutions, by urban/rural",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"Sustainable Energy for All, IEA, WHO",
+    "other goals":"1, 3, 5, 9, 11, 12",
+    "category":" "
+  },
+  {
+    "goal":7,
+    "indicator":"Share of the population using reliable electricity, by urban/rural",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"Sustainable Energy for All, IEA, World Bank",
+    "other goals":"1, 3, 5, 9, 11, 12",
+    "category":" "
+  },
+  {
+    "goal":7,
+    "indicator":"Implicit incentives for low-carbon energy in the electricity sector (measured as US$/MWh or US$ per ton avoided CO2)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"IEA, UNFCCC",
+    "other goals":"11, 13",
+    "category":" "
+  },
+  {
+    "goal":7,
+    "indicator":" Rate of primary energy intensity improvement",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"Sustainable Energy for All, IEA",
+    "other goals":"11, 13",
+    "category":" "
+  },
+  {
+    "goal":7.1,
+    "indicator":"  Primary energy by type",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":7,
+    "indicator":" 2. Fossil fuel subsidies ($ or %GNI)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":7,
+    "indicator":"3. Share of energy from renewables",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ",
+    "other goals":" ",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":8,
+    "indicator":"GNI per capita (PPP, current US$ Atlas method)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"IMF, World Bank, UNSD",
+    "other goals":"11",
+    "category":" "
+  },
+  {
+    "goal":8,
+    "indicator":"Country implements and reports on System of Environmental-Economic Accounting (SEEA) accounts",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" UNSD",
+    "other goals":"12, 17",
+    "category":" "
+  },
+  {
+    "goal":8,
+    "indicator":"Youth employment rate, by formal and informal sector",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ILO",
+    "other goals":"11",
+    "category":" "
+  },
+  {
+    "goal":8,
+    "indicator":" Ratification and implementation of fundamental ILO labor standards and compliance in law and practice",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ILO",
+    "other goals":"5, 9, 10, 11, 17",
+    "category":" "
+  },
+  {
+    "goal":8,
+    "indicator":" 1. Growth rate of GDP per person employed (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":8,
+    "indicator":" 2. Working poverty rate measured at $2 PPP per capita per day",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":8,
+    "indicator":" 3. [Indicator of decent work]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":8,
+    "indicator":"4. Household income, including in-kind services (PPP, current US$)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":8,
+    "indicator":" 5. Employment to population ratio (EPR) by gender and age group (15‚Äì64)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":8,
+    "indicator":" 6. Share of informal employment in total employment",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":8,
+    "indicator":" 7. Percentage of own-account and contributing family workers in total employment",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":8,
+    "indicator":"8. Percentage of young people not in education, employment or training (NEET)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":8,
+    "indicator":"9. [Indicator on implementation of 10-year framework of programs on sustainable consumption and production]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ",
+    "other goals":" ",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":9,
+    "indicator":" Access to all-weather road (% access within [x] km distance to road)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" World Bank",
+    "other goals":"2, 7, 11",
+    "category":" "
+  },
+  {
+    "goal":9,
+    "indicator":"Mobile broadband subscriptions per 100 inhabitants, by urban/rural",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ITU",
+    "other goals":"2, 11, 17",
+    "category":" "
+  },
+  {
+    "goal":9,
+    "indicator":" Index on ICT maturity",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ITU",
+    "other goals":"17",
+    "category":" "
+  },
+  {
+    "goal":9,
+    "indicator":" Manufacturing value added (MVA) as percent of GDP",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"World Bank, OECD, UNIDO",
+    "other goals":"8, 11",
+    "category":" "
+  },
+  {
+    "goal":9,
+    "indicator":"Total energy and industry-related GHG emissions by gas and sector, expressed as production and demand-based emissions (tCO2e)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UNFCCC, OECD, UNIDO",
+    "other goals":"7, 11, 13",
+    "category":" "
+  },
+  {
+    "goal":9,
+    "indicator":" Personnel in R&D (per million inhabitants)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"OECD, UNESCO",
+    "other goals":"8, 17",
+    "category":" "
+  },
+  {
+    "goal":9,
+    "indicator":"1. Percentage of households with Internet, by type of service by urban/rural areas",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":9,
+    "indicator":"2. Employment in industry (% of total employment)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ",
+    "other goals":" ",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":10,
+    "indicator":"[Indicator on inequality at top end of income distribution: GNI share of richest 10% or Palma ratio]",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UNSD, World Bank, OECD",
+    "other goals":"1, 8",
+    "category":" "
+  },
+  {
+    "goal":10,
+    "indicator":"Percentage of households with incomes below 50% of median income (\"relative poverty\")",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"World Bank, OECD, UNSD",
+    "other goals":"1, 8",
+    "category":" "
+  },
+  {
+    "goal":10,
+    "indicator":" 1. Gini Coefficient",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":10,
+    "indicator":" 2. Income/wage persistence (intergenerational socioeconomic mobility)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":10,
+    "indicator":" 3. Human Mobility Governance Index",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":10,
+    "indicator":" 4. Net ODA to LDCs as percentage of high-income countries' GNI (modified from MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":10,
+    "indicator":" 5. Indicator on share of LDCs / LIC representatives on boards of IMF / WB (and other institutions of governance)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":10,
+    "indicator":"6. [Remittance transfer costs]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ",
+    "other goals":" ",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":11,
+    "indicator":" Percentage of urban population living in slums or informal settlements (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UN-Habitat, Global City Indicators Facility",
+    "other goals":"1, 6",
+    "category":" "
+  },
+  {
+    "goal":11,
+    "indicator":"Percentage of people within 0.5km of public transit running at least every 20 minutes.",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" UN-Habitat",
+    "other goals":"9",
+    "category":" "
+  },
+  {
+    "goal":11,
+    "indicator":"[Ratio of land consumption rate to population growth rate, at comparable scale]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UN-Habitat, World Bank",
+    "other goals":"3, 12",
+    "category":" "
+  },
+  {
+    "goal":11,
+    "indicator":"Losses from natural disasters, by climate and non-climate-related events (in US$ and lives lost)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UNISDR, FAO, WHO, CRED",
+    "other goals":"1, 2, 6, 13",
+    "category":" "
+  },
+  {
+    "goal":11,
+    "indicator":" Mean urban air pollution of particulate matter (PM10 and PM2.5)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UN-Habitat, UNEP, WHO",
+    "other goals":"9, 11, 12",
+    "category":" "
+  },
+  {
+    "goal":11,
+    "indicator":" Area of public and green space as a proportion of total city space",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" UN-Habitat",
+    "other goals":"13, 17",
+    "category":" "
+  },
+  {
+    "goal":11,
+    "indicator":" Percentage of urban solid waste regularly collected and well managed",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UN-Habitat, WHO",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":11,
+    "indicator":" Domestic revenues allocated to sustainable development as percent of GNI - by sector",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":11,
+    "indicator":" 1. Number of street intersections per square kilometer",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":11,
+    "indicator":" 2. Existence and implementation of a national urban and human settlements policy framework",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":11,
+    "indicator":"3. Percentage of cities with more than 100, 000 inhabitants that are implementing risk reduction and resilience strategies informed by accepted international frameworks (such as forthcoming Hyogo-2 Framework)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":11,
+    "indicator":" 4. Presence of urban building codes stipulating either the use of local materials and/or new energy efficient technologies or with incentives for the same",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":11,
+    "indicator":" 5. City biodiversity index (Singapore index)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":11,
+    "indicator":"6. Percentage of consumption of food and raw materials within urban areas that are produced and delivered in/from rural areas within the country",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ",
+    "other goals":" ",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":12,
+    "indicator":" Disclosure of Natural Resource Rights Holdings",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"EITI, UNCTAD, UN Global Compact",
+    "other goals":"15, 16, 17",
+    "category":" "
+  },
+  {
+    "goal":12,
+    "indicator":" Global Food Loss Indicator [or other indicator to be developed to track the share of food lost or wasted in the value chain after harvest]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" FAO",
+    "other goals":"2, 11",
+    "category":" "
+  },
+  {
+    "goal":12,
+    "indicator":" Consumption of ozone-depleting substances (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UNEP Ozone Secretariat",
+    "other goals":"9",
+    "category":" "
+  },
+  {
+    "goal":12,
+    "indicator":" Aerosol optical depth (AOD)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" UNEP",
+    "other goals":"9, 11, 13",
+    "category":" "
+  },
+  {
+    "goal":12,
+    "indicator":" ",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":12,
+    "indicator":" [Share of companies valued at more than [$1 billion] that publish integrated monitoring]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"Global Compact, WBCSD, GRI, IIRC",
+    "other goals":"8, 17",
+    "category":" "
+  },
+  {
+    "goal":12,
+    "indicator":" 1. [Strategic environmental and social impact assessments required]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":12,
+    "indicator":" 2. [Legislative branch oversight role regarding resource-based contracts and licenses]-to be developed",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":12,
+    "indicator":" 3. [Indicator on chemical pollution]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":12,
+    "indicator":" 4. CO2 intensity of the building sector and of new buildings (KgCO2/m2/year)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":12,
+    "indicator":" 5. [Indicator on policies for sustainable tourism]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":12,
+    "indicator":"6. [Indicator on sustainable public procurement processes]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ",
+    "other goals":" ",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":13,
+    "indicator":"Availability and implementation of a transparent and detailed deep decarbonization strategy, consistent with the 2¬∞C - or below - global carbon budget, and with GHG emission targets for 2020, 2030 and 2050.",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" UNFCCC",
+    "other goals":"9, 11, 12, 17",
+    "category":" "
+  },
+  {
+    "goal":13,
+    "indicator":"CO2 intensity of new power generation capacity installed (gCO2 per kWh), and of new cars (gCO2/pkm) and trucks (gCO2/tkm)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UNFCCC, IEA",
+    "other goals":"7, 8, 9, 11",
+    "category":" "
+  },
+  {
+    "goal":13,
+    "indicator":"Net GHG emissions in the Agriculture, Forest and other Land Use (AFOLU) sector\n(tCO2e)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" UNFCCC",
+    "other goals":"2, 15",
+    "category":" "
+  },
+  {
+    "goal":13,
+    "indicator":" Official climate financing from developed countries that is incremental to ODA (in US$)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"OECD DAC, UNFCCC, IEA",
+    "other goals":"17",
+    "category":" "
+  },
+  {
+    "goal":13,
+    "indicator":" 1. [Climate Change Action Index]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":13,
+    "indicator":"2. GHG emissions intensity of areas under forest management (GtCO2e / ha)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ",
+    "other goals":" ",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":14,
+    "indicator":" Share of coastal and marine areas that are protected",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UNEP-WCMC, IUCN",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":14,
+    "indicator":" Percentage of fish tonnage landed within Maximum Sustainable Yield (MSY)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" FAO",
+    "other goals":"2, 12",
+    "category":" "
+  },
+  {
+    "goal":14,
+    "indicator":" 1. Eutrophication of major estuaries",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":14,
+    "indicator":" 2. Ocean acidity (measured as surface pH)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":14,
+    "indicator":" 3. [Indicator on the implementation of spatial planning strategies for coastal and marine areas]‚Äì to be developed",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":14,
+    "indicator":" 4. Area of coral reef ecosystems and percentage live cover",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":14,
+    "indicator":" 5. Proportion of fish stocks within safe biological limits (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":14,
+    "indicator":" 6. Percentage of fisheries with a sustainable certification",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":14,
+    "indicator":" 7. Does flag state require International Maritime Organization (IMO) numbers and transponders for all fishing vessels more than 24 meters or 100 tons?",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":14,
+    "indicator":" 8. Has Regional Fisheries Management Organizations (RFMO) established satellite- monitoring program?",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":14,
+    "indicator":" 9. [Use of destructive fishing techniques]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":14,
+    "indicator":" 10. [Indicator on access to marine resources for small-scale artisanal fishers]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":14,
+    "indicator":" 11. [Indicator on transferring marine technology]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":14,
+    "indicator":"12. Area of mangrove deforestation (hectares and as % of total mangrove area)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ",
+    "other goals":" ",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":15,
+    "indicator":" Annual change in forest area and land under cultivation (modified MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"FAO, UNEP",
+    "other goals":"2, 12, 13",
+    "category":" "
+  },
+  {
+    "goal":15,
+    "indicator":" Area of forest under sustainable forest management as a percent of forest area",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"FAO, UNEP",
+    "other goals":"12",
+    "category":" "
+  },
+  {
+    "goal":15,
+    "indicator":" Annual change in degraded or desertified arable land (% or ha)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"FAO, UNEP",
+    "other goals":"2",
+    "category":" "
+  },
+  {
+    "goal":15,
+    "indicator":" Red List Index",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" IUCN",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":15,
+    "indicator":" Protected areas overlay with biodiversity",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" UNEP-WCMC",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":15,
+    "indicator":" Complementary National Indicators:",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":15,
+    "indicator":" 1. Improved tenure security and governance of forests",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":15,
+    "indicator":" 2. [Indicator on the conservation of mountain ecosystems]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":15,
+    "indicator":" 3. Vitality Index of Traditional Environmental Knowledge",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":15,
+    "indicator":"4. [Indicator on access to genetic resources]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ",
+    "other goals":" ",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":15,
+    "indicator":" 5.  Abundance of invasive alien species",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":15,
+    "indicator":" 6. [Indicator on financial resources for biodiversity and ecosystems]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":15,
+    "indicator":" 7. [Indicator on financial resources for sustainable forest management]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":15,
+    "indicator":" 8. [Indicator on global support to combat poaching and trafficking of protected species]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":15,
+    "indicator":"9. Living Planet Index",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ",
+    "other goals":" ",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":16,
+    "indicator":"Violent injuries and deaths per 100, 000 population",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UNODC, WHO, UNOCHA",
+    "other goals":"3, 5, 11",
+    "category":" "
+  },
+  {
+    "goal":16,
+    "indicator":" Number of refugees",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UNHCR, OCHA, IOM",
+    "other goals":"3",
+    "category":" "
+  },
+  {
+    "goal":16,
+    "indicator":" Proportion of legal persons and arrangements for which beneficial ownership information is publicly available",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" OECD",
+    "other goals":"17",
+    "category":" "
+  },
+  {
+    "goal":16,
+    "indicator":"Revenues, expenditures, and financing of all central government entities are presented on a gross basis in public budget documentation and authorized by the legislature",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UN Global Compact, EITI, and/or UNCTAD",
+    "other goals":"17",
+    "category":" "
+  },
+  {
+    "goal":16,
+    "indicator":"Percentage of children under age 5 whose birth is registered with a civil authority",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" UNICEF",
+    "other goals":"3, 5, 10",
+    "category":" "
+  },
+  {
+    "goal":16,
+    "indicator":" Existence and implementation of a national law and/or constitutional guarantee on the right to information",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" UNESCO",
+    "other goals":"10",
+    "category":" "
+  },
+  {
+    "goal":16,
+    "indicator":" Perception of public sector corruption",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"Transparency International",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":16,
+    "indicator":" 1. Percentage of women and men who report feeling safe walking alone at night in the city or area where they live",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":16,
+    "indicator":" 2. Compliance with recommendations from the Universal Periodic Review and UN Treaties",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":16,
+    "indicator":" 3. Frequency of payment of salaries within security forces",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":16,
+    "indicator":"4. Percentage of people and businesses that paid a bribe to a public official, or were asked for a bribe by a public official, during the last 12 months",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":16,
+    "indicator":" 5. Percentage of total detainees who have been held in detention for more than 12 months while awaiting sentencing or a final disposition of their case",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":16,
+    "indicator":" 6. [Indicator on illicit financial flows]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":16,
+    "indicator":" 7. [Indicator on international cooperation in preventing violence and combating terrorism and crime]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":16,
+    "indicator":"8. Representation of women among mediators, negotiators and technical experts in formal peace negotiations",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":16,
+    "indicator":"9. Number of journalists and associated media personnel that are physically attacked, unlawfully detained or killed as a result of pursuing their legitimate activities",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ",
+    "other goals":" ",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":17,
+    "indicator":"Domestic revenues allocated to sustainable development as percent of GNI, by sector",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" IMF",
+    "other goals":"10",
+    "category":" "
+  },
+  {
+    "goal":17,
+    "indicator":"Official development assistance and net private grants as percent of GNI",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" OECD",
+    "other goals":"10",
+    "category":" "
+  },
+  {
+    "goal":17,
+    "indicator":"Private net flows for sustainable development at market rates as share of high-income country GNI, by sector",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" OECD DAC",
+    "other goals":"10",
+    "category":" "
+  },
+  {
+    "goal":17,
+    "indicator":"Annual report by Bank for International Settlements (BIS), International Accounting Standards Board (IASB), International Financial Reporting Standards (IFRS), International Monetary Fund (IMF), World Intellectual Property Organization (WIPO), and World Trade Organization (WTO)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"BIS, IASB, IFRS, IMF, WIPO, WTO",
+    "other goals":"2, 10",
+    "category":" "
+  },
+  {
+    "goal":17,
+    "indicator":"[other organizations to be added] on the relationship between international rules and the SDGs and the implementation of relevant SDG targets",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":" ",
+    "other goals":" ",
+    "category":" "
+  },
+  {
+    "goal":17,
+    "indicator":" Share of SDG Indicators that are reported annually",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"UNSD, OECD World Bank",
+    "other goals":"10, 11",
+    "category":" "
+  },
+  {
+    "goal":17,
+    "indicator":" Evaluative Wellbeing and Positive Mood Affect",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"SDSN, OECD",
+    "other goals":"3",
+    "category":" "
+  },
+  {
+    "goal":17,
+    "indicator":" Complementary National Indicators:",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":""
+  },
+  {
+    "goal":17,
+    "indicator":" 1. Total Official Support for Development",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":17,
+    "indicator":" 2. Country Programmable Aid",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":17,
+    "indicator":" 3. [Indicator on debt sustainability]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":17,
+    "indicator":" 4. Gross domestic expenditure on R&D as share of GDP",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":17,
+    "indicator":" 5. [Indicator on technology sharing and diffusion]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":17,
+    "indicator":"6. [Indicator on the creation of / subscription to the Technology Bank and STI (Science, Technology and Innovation) Capacity Building Mechanism for LDCs by 2017]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":17,
+    "indicator":" 7. Average tariffs imposed by developed countries on agricultural products and textiles and clothing from developing countries (MDG Indicator)",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":17,
+    "indicator":" 8. Value of LDC exports as a percentage of global exports",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":17,
+    "indicator":" 9. [Indicator on investment promotion regimes for LDCs]",
+    "data":"TBD",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  },
+  {
+    "goal":17,
+    "indicator":"10. Percent of official development assistance (ODA), net private grants, and official climate finance channeled through priority pooled multilateral financing mechanisms",
+    "data":"",
+    "source":"http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+    "leads":"",
+    "other goals":"",
+    "category":"Complementary National Indicator"
+  }
+]
+}
