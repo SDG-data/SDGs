@@ -27,6 +27,24 @@ files.forEach(function (f) {
 });
 
 function data_loaded(sdgs){
+  console.log(sdgs);
+  list_goals(sdgs);
+}
+function list_goals(sdgs){
+  var sdgList = document.getElementById("sdgList"); 
+  var goals=sdgs[0]["goals"];
+  for (var i in goals){
+    var goal= goals[i];
+    append_li(sdgList,"goal-"+goal["goal"],goal["goal"]+": "+goal["title"]);
+  }
+}
+
+function append_li(hookElement,id,value){
+  var newListItem = document.createElement("li");
+  newListItem.setAttribute("id", id);
+  var ListValue = document.createTextNode(value);
+  newListItem.appendChild(ListValue);
+  hookElement.appendChild(newListItem);
 }
     </script>
   </body>
