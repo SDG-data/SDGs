@@ -52,10 +52,8 @@ function add_targets(sdgs){
   var targets=sdgs[1]["targets"];
   for (var i in targets){
     var target=targets[i]; 
-    console.log(target);
     var goalLi = document.getElementById("goal-"+target["goal"]);
     if (goalLi.childElementCount == 0) {
-      console.log("adding ol");
       var nestedOl = document.createElement("ul");
       nestedOl.setAttribute("id", "goal-"+target["goal"]+"-ul");
       goalLi.appendChild(nestedOl);
