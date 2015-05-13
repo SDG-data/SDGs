@@ -49,6 +49,17 @@ function append_li(hookElement,id,value){
   hookElement.appendChild(newListItem);
 }
 
+
+function append_row(hookElement,row){
+ var table = document.getElementById(hookElement);
+  var rowObject = table.insertRow(0);
+  for (var i in row){
+    cell = rowObject.insertCell(i);
+    cell.innerHTML = row[i];
+  }
+}
+
+
 function add_targets(sdgs){
   var targets=sdgs[1]["targets"];
   for (var i in targets){
@@ -71,14 +82,21 @@ function add_indicators(sdgs){
   for (var i in indicators){
     var indicator=indicators[i]; 
     var goalLi = document.getElementById("goal-"+indicator["goal"]);
-    var indicatorId="goal-"+indicator["goal"]+"-indicators";
-    if (document.getElementById(indicatorId) == null) {
-      var nestedOl = document.createElement("ul");
-      nestedOl.setAttribute("id", indicatorId);
-      goalLi.appendChild(nestedOl);
-    }else{
-      var goalLiUl = document.getElementById(indicatorId);
-      append_li(goalLiUl,"target-"+indicator["id"],indicator["indicator"]);
+    var indicatorsId="goal-"+indicator["goal"]+"-indicators";
+    if (document.getElementById(indicatorsId) == null) {
+      var nestedTable = document.createElement("table");
+      var header = nestedTable.createTHead();
+      var rowObject = header.insertRow(0);
+      var columns=["Indicator","Data"]
+      for (var i in columns ){
+          cell = rowObject.insertCell(i);
+          cell.innerHTML = columns[i];
+      }   
+      var body = nestedTable.createTBody();
+      body.setAttribute("id", indicatorsId);
+      goalLi.appendChild(nestedTable);
+     }else{
+      append_row(indicatorsId,[indicator["indicator"],indicator["data"]]);
     }
   }
 }
