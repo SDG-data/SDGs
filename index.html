@@ -54,11 +54,12 @@ function add_targets(sdgs){
     var target=targets[i]; 
     var goalLi = document.getElementById("goal-"+target["goal"]);
     if (goalLi.childElementCount == 0) {
+    var targetId="goal-"+target["goal"]+"-targets";
       var nestedOl = document.createElement("ul");
-      nestedOl.setAttribute("id", "goal-"+target["goal"]+"-ul");
+      nestedOl.setAttribute("id", targetId);
       goalLi.appendChild(nestedOl);
     }else{
-      var goalLiUl = document.getElementById("goal-"+target["goal"]+"-ul");
+      var goalLiUl = document.getElementById(targetId);
       append_li(goalLiUl,"target-"+target["id"],target["id"]+": "+target["title"]);
     }
   }
