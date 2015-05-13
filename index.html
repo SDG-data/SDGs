@@ -30,6 +30,7 @@ function data_loaded(sdgs){
   console.log(sdgs);
   list_goals(sdgs);
   add_targets(sdgs);
+  add_indicators(sdgs);
 }
 function list_goals(sdgs){
   var sdgList = document.getElementById("sdgList"); 
@@ -64,6 +65,24 @@ function add_targets(sdgs){
     }
   }
 }
+
+function add_indicators(sdgs){
+  var indicators=sdgs[2]["indicators"];
+  for (var i in indicators){
+    var indicator=indicators[i]; 
+    var goalLi = document.getElementById("goal-"+indicator["goal"]);
+    var indicatorId="goal-"+indicator["goal"]+"-indicators";
+    if (document.getElementById(indicatorId) == null) {
+      var nestedOl = document.createElement("ul");
+      nestedOl.setAttribute("id", indicatorId);
+      goalLi.appendChild(nestedOl);
+    }else{
+      var goalLiUl = document.getElementById(indicatorId);
+      append_li(goalLiUl,"target-"+indicator["id"],indicator["indicator"]);
+    }
+  }
+}
+
 
     </script>
   </body>
