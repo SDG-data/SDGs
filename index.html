@@ -53,8 +53,8 @@ function add_targets(sdgs){
   for (var i in targets){
     var target=targets[i]; 
     var goalLi = document.getElementById("goal-"+target["goal"]);
-    if (goalLi.childElementCount == 0) {
     var targetId="goal-"+target["goal"]+"-targets";
+    if ( document.getElementById(targetId) == null) {
       var nestedOl = document.createElement("ul");
       nestedOl.setAttribute("id", targetId);
       goalLi.appendChild(nestedOl);
