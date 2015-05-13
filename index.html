@@ -14,6 +14,20 @@
     <script type="text/javascript">
 
 //Read Goals, Targets and Indicators
+var sdgs=[]
+
+files = ["goals","targets","indicators"];
+files.forEach(function (f) {
+  console.log("Loading "+f);
+  d3.json(f+".json", function (error, data) {
+    //for (var attrname in data) { sdgs[attrname] = data[attrname]; }
+    sdgs.push(data);
+    if (sdgs.length==3) { data_loaded(sdgs); }
+  });
+});
+
+function data_loaded(sdgs){
+}
     </script>
   </body>
 </html>
