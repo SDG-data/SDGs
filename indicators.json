@@ -782,7 +782,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 10. Percentage of children under 5 with fever who are treated with appropriate anti-malarial drugs (MDG Indicator)",
+      "indicator": "Percentage of children under 5 with fever who are treated with appropriate anti-malarial drugs (MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
@@ -795,7 +795,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 11. Percentage of people in malaria-endemic areas sleeping under insecticide-treated bed nets (modified MDG Indicator)",
+      "indicator": "Percentage of people in malaria-endemic areas sleeping under insecticide-treated bed nets (modified MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
@@ -808,7 +808,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 12. Percentage of confirmed malaria cases that receive first-line antimalarial therapy according to national policy",
+      "indicator": "Percentage of confirmed malaria cases that receive first-line antimalarial therapy according to national policy",
       "data": {
         "url": "",
         "format": "",
@@ -821,7 +821,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 13. Percentage of suspected malaria cases that receive a parasitological test",
+      "indicator": "Percentage of suspected malaria cases that receive a parasitological test",
       "data": {
         "url": "",
         "format": "",
@@ -834,7 +834,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 14. Percentage of pregnant women receiving malaria IPT (in endemic areas)",
+      "indicator": "Percentage of pregnant women receiving malaria IPT (in endemic areas)",
       "data": {
         "url": "",
         "format": "",
@@ -847,7 +847,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 15. Neglected Tropical Disease (NTD) cure rate",
+      "indicator": "Neglected Tropical Disease (NTD) cure rate",
       "data": {
         "url": "",
         "format": "",
@@ -860,7 +860,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 16. Incidence and death rates associated with hepatitis",
+      "indicator": "Incidence and death rates associated with hepatitis",
       "data": {
         "url": "",
         "format": "",
@@ -873,7 +873,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 17. Percentage of women with cervical cancer screening",
+      "indicator": "Percentage of women with cervical cancer screening",
       "data": {
         "url": "",
         "format": "",
@@ -886,7 +886,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 18. Percentage of adults with hypertension diagnosed & receiving treatment",
+      "indicator": "Percentage of adults with hypertension diagnosed & receiving treatment",
       "data": {
         "url": "",
         "format": "",
@@ -899,7 +899,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 19. Harmful use of alcohol",
+      "indicator": "Harmful use of alcohol",
       "data": {
         "url": "",
         "format": "",
@@ -912,7 +912,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 20. Healthy life expectancy at birth",
+      "indicator": "Healthy life expectancy at birth",
       "data": {
         "url": "",
         "format": "",
@@ -925,7 +925,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 21. Waiting time for elective surgery",
+      "indicator": "Waiting time for elective surgery",
       "data": {
         "url": "",
         "format": "",
@@ -938,7 +938,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 22. Prevalence of insufficient physical activity",
+      "indicator": "Prevalence of insufficient physical activity",
       "data": {
         "url": "",
         "format": "",
@@ -951,7 +951,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 23. Fraction of calories from added saturated fats and sugars",
+      "indicator": "Fraction of calories from added saturated fats and sugars",
       "data": {
         "url": "",
         "format": "",
@@ -964,7 +964,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 24. Age-standardized mean population intake of salt (sodium chloride) per day in grams in persons aged 18+ years",
+      "indicator": "Age-standardized mean population intake of salt (sodium chloride) per day in grams in persons aged 18+ years",
       "data": {
         "url": "",
         "format": "",
@@ -977,7 +977,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 25. Prevalence of persons (aged 18+ years) consuming less than five total servings (400 grams) of fruit and vegetables per day",
+      "indicator": "Prevalence of persons (aged 18+ years) consuming less than five total servings (400 grams) of fruit and vegetables per day",
       "data": {
         "url": "",
         "format": "",
@@ -990,7 +990,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 26. Percentage change in per capita [red] meat consumption relative to a 2015 baseline",
+      "indicator": "Percentage change in per capita [red] meat consumption relative to a 2015 baseline",
       "data": {
         "url": "",
         "format": "",
@@ -1003,7 +1003,7 @@
     },
     {
       "goal": 3,
-      "indicator": "27. Age-standardized (to world population age distribution) prevalence of diabetes (preferably based on HbA1c), hypertension, cardiovascular disease, and chronic respiratory disease",
+      "indicator": "Age-standardized (to world population age distribution) prevalence of diabetes (preferably based on HbA1c), hypertension, cardiovascular disease, and chronic respiratory disease",
       "data": {
         "url": "",
         "format": "",
@@ -1016,7 +1016,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 28. [Mortality from indoor air pollution]",
+      "indicator": "[Mortality from indoor air pollution]",
       "data": {
         "url": "",
         "format": "",
@@ -1029,7 +1029,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 29. Percentage of health facilities meeting service specific readiness requirements",
+      "indicator": "Percentage of health facilities meeting service specific readiness requirements",
       "data": {
         "url": "",
         "format": "",
@@ -1042,7 +1042,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 30. Percentage of population with access to affordable essential drugs and commodities on a sustainable basis",
+      "indicator": "Percentage of population with access to affordable essential drugs and commodities on a sustainable basis",
       "data": {
         "url": "",
         "format": "",
@@ -1055,7 +1055,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 31. Percentage of new health care facilities built in compliance with building codes and standards",
+      "indicator": "Percentage of new health care facilities built in compliance with building codes and standards",
       "data": {
         "url": "",
         "format": "",
@@ -1068,7 +1068,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 32. Public and private R&D expenditure on health (% GNP)",
+      "indicator": "Public and private R&D expenditure on health (% GNP)",
       "data": {
         "url": "",
         "format": "",
@@ -1081,7 +1081,7 @@
     },
     {
       "goal": 3,
-      "indicator": "33. Ratio of health professionals to population (MDs, nurse midwives, nurses, community health workers, EmOC caregivers)",
+      "indicator": "Ratio of health professionals to population (MDs, nurse midwives, nurses, community health workers, EmOC caregivers)",
       "data": {
         "url": "",
         "format": "",
@@ -1094,7 +1094,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 34. Percentage of women and men aged 15‚Äì49 who report discriminatory attitudes towards people living with HIV",
+      "indicator": "Percentage of women and men aged 15‚Äì49 who report discriminatory attitudes towards people living with HIV",
       "data": {
         "url": "",
         "format": "",
@@ -1107,7 +1107,7 @@
     },
     {
       "goal": 3,
-      "indicator": "35. Stillbirth rate",
+      "indicator": "Stillbirth rate",
       "data": {
         "url": "",
         "format": "",
@@ -1237,7 +1237,7 @@
     },
     {
       "goal": 4,
-      "indicator": "2. Percentage of children under 5 experiencing responsive, stimulating parenting in safe environments",
+      "indicator": "Percentage of children under 5 experiencing responsive, stimulating parenting in safe environments",
       "data": {
         "url": "",
         "format": "",
@@ -1276,7 +1276,7 @@
     },
     {
       "goal": 4,
-      "indicator": "5. Literacy rate of 15-24 year-olds, women and men (MDG Indicator)",
+      "indicator": "Literacy rate of 15-24 year-olds, women and men (MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
@@ -1341,7 +1341,7 @@
     },
     {
       "goal": 4,
-      "indicator": " 10. [Indicator on supply of qualified teachers]",
+      "indicator": "[Indicator on supply of qualified teachers]",
       "data": {
         "url": "",
         "format": "",
@@ -1354,7 +1354,7 @@
     },
     {
       "goal": 4,
-      "indicator": "11. Presence of legal frameworks that guarantee the right to education for all children for early childhood and basic education, and that guarantee a minimum age of entry to employment not below the years of basic education.",
+      "indicator": "Presence of legal frameworks that guarantee the right to education for all children for early childhood and basic education, and that guarantee a minimum age of entry to employment not below the years of basic education.",
       "data": {
         "url": "",
         "format": "",
@@ -1458,7 +1458,7 @@
     },
     {
       "goal": 5,
-      "indicator": "1. Gender gap in wages, by sector of economic activity",
+      "indicator": "Gender gap in wages, by sector of economic activity",
       "data": {
         "url": "",
         "format": "",
@@ -1510,7 +1510,7 @@
     },
     {
       "goal": 5,
-      "indicator": "5. Percentage of young people receiving comprehensive sexuality education",
+      "indicator": "Percentage of young people receiving comprehensive sexuality education",
       "data": {
         "url": "",
         "format": "",
@@ -1627,7 +1627,7 @@
     },
     {
       "goal": 6,
-      "indicator": "4. Percentage of pupils enrolled in primary schools and secondary schools providing basic drinking water, adequate sanitation, and adequate hygiene services",
+      "indicator": "Percentage of pupils enrolled in primary schools and secondary schools providing basic drinking water, adequate sanitation, and adequate hygiene services",
       "data": {
         "url": "",
         "format": "",
@@ -1640,7 +1640,7 @@
     },
     {
       "goal": 6,
-      "indicator": "5. Percentage of beneficiaries using hospitals, health centers and clinics providing basic drinking water, adequate sanitation, and adequate hygiene",
+      "indicator": "Percentage of beneficiaries using hospitals, health centers and clinics providing basic drinking water, adequate sanitation, and adequate hygiene",
       "data": {
         "url": "",
         "format": "",
@@ -1692,7 +1692,7 @@
     },
     {
       "goal": 6,
-      "indicator": "9. [Indicator on participation of local communities for improving water and sanitation management]",
+      "indicator": "[Indicator on participation of local communities for improving water and sanitation management]",
       "data": {
         "url": "",
         "format": "",
@@ -1783,7 +1783,7 @@
     },
     {
       "goal": 7,
-      "indicator": "3. Share of energy from renewables",
+      "indicator": "Share of energy from renewables",
       "data": {
         "url": "",
         "format": "",
@@ -1887,7 +1887,7 @@
     },
     {
       "goal": 8,
-      "indicator": "4. Household income, including in-kind services (PPP, current US$)",
+      "indicator": "Household income, including in-kind services (PPP, current US$)",
       "data": {
         "url": "",
         "format": "",
@@ -1939,7 +1939,7 @@
     },
     {
       "goal": 8,
-      "indicator": "8. Percentage of young people not in education, employment or training (NEET)",
+      "indicator": "Percentage of young people not in education, employment or training (NEET)",
       "data": {
         "url": "",
         "format": "",
@@ -1952,7 +1952,7 @@
     },
     {
       "goal": 8,
-      "indicator": "9. [Indicator on implementation of 10-year framework of programs on sustainable consumption and production]",
+      "indicator": "[Indicator on implementation of 10-year framework of programs on sustainable consumption and production]",
       "data": {
         "url": "",
         "format": "",
@@ -2043,7 +2043,7 @@
     },
     {
       "goal": 9,
-      "indicator": "1. Percentage of households with Internet, by type of service by urban/rural areas",
+      "indicator": "Percentage of households with Internet, by type of service by urban/rural areas",
       "data": {
         "url": "",
         "format": "",
@@ -2056,7 +2056,7 @@
     },
     {
       "goal": 9,
-      "indicator": "2. Employment in industry (% of total employment)",
+      "indicator": "Employment in industry (% of total employment)",
       "data": {
         "url": "",
         "format": "",
@@ -2160,7 +2160,7 @@
     },
     {
       "goal": 10,
-      "indicator": "6. [Remittance transfer costs]",
+      "indicator": "[Remittance transfer costs]",
       "data": {
         "url": "",
         "format": "",
@@ -2303,7 +2303,7 @@
     },
     {
       "goal": 11,
-      "indicator": "3. Percentage of cities with more than 100, 000 inhabitants that are implementing risk reduction and resilience strategies informed by accepted international frameworks (such as forthcoming Hyogo-2 Framework)",
+      "indicator": "Percentage of cities with more than 100, 000 inhabitants that are implementing risk reduction and resilience strategies informed by accepted international frameworks (such as forthcoming Hyogo-2 Framework)",
       "data": {
         "url": "",
         "format": "",
@@ -2342,7 +2342,7 @@
     },
     {
       "goal": 11,
-      "indicator": "6. Percentage of consumption of food and raw materials within urban areas that are produced and delivered in/from rural areas within the country",
+      "indicator": "Percentage of consumption of food and raw materials within urban areas that are produced and delivered in/from rural areas within the country",
       "data": {
         "url": "",
         "format": "",
@@ -2498,7 +2498,7 @@
     },
     {
       "goal": 12,
-      "indicator": "6. [Indicator on sustainable public procurement processes]",
+      "indicator": "[Indicator on sustainable public procurement processes]",
       "data": {
         "url": "",
         "format": "",
@@ -2576,7 +2576,7 @@
     },
     {
       "goal": 13,
-      "indicator": "2. GHG emissions intensity of areas under forest management (GtCO2e / ha)",
+      "indicator": "GHG emissions intensity of areas under forest management (GtCO2e / ha)",
       "data": {
         "url": "",
         "format": "",
@@ -2732,7 +2732,7 @@
     },
     {
       "goal": 14,
-      "indicator": " 10. [Indicator on access to marine resources for small-scale artisanal fishers]",
+      "indicator": "[Indicator on access to marine resources for small-scale artisanal fishers]",
       "data": {
         "url": "",
         "format": "",
@@ -2745,7 +2745,7 @@
     },
     {
       "goal": 14,
-      "indicator": " 11. [Indicator on transferring marine technology]",
+      "indicator": "[Indicator on transferring marine technology]",
       "data": {
         "url": "",
         "format": "",
@@ -2758,7 +2758,7 @@
     },
     {
       "goal": 14,
-      "indicator": "12. Area of mangrove deforestation (hectares and as % of total mangrove area)",
+      "indicator": "Area of mangrove deforestation (hectares and as % of total mangrove area)",
       "data": {
         "url": "",
         "format": "",
@@ -2888,7 +2888,7 @@
     },
     {
       "goal": 15,
-      "indicator": "4. [Indicator on access to genetic resources]",
+      "indicator": "[Indicator on access to genetic resources]",
       "data": {
         "url": "",
         "format": "",
@@ -2953,7 +2953,7 @@
     },
     {
       "goal": 15,
-      "indicator": "9. Living Planet Index",
+      "indicator": "Living Planet Index",
       "data": {
         "url": "",
         "format": "",
@@ -3096,7 +3096,7 @@
     },
     {
       "goal": 16,
-      "indicator": "4. Percentage of people and businesses that paid a bribe to a public official, or were asked for a bribe by a public official, during the last 12 months",
+      "indicator": "Percentage of people and businesses that paid a bribe to a public official, or were asked for a bribe by a public official, during the last 12 months",
       "data": {
         "url": "",
         "format": "",
@@ -3148,7 +3148,7 @@
     },
     {
       "goal": 16,
-      "indicator": "8. Representation of women among mediators, negotiators and technical experts in formal peace negotiations",
+      "indicator": "Representation of women among mediators, negotiators and technical experts in formal peace negotiations",
       "data": {
         "url": "",
         "format": "",
@@ -3161,7 +3161,7 @@
     },
     {
       "goal": 16,
-      "indicator": "9. Number of journalists and associated media personnel that are physically attacked, unlawfully detained or killed as a result of pursuing their legitimate activities",
+      "indicator": "Number of journalists and associated media personnel that are physically attacked, unlawfully detained or killed as a result of pursuing their legitimate activities",
       "data": {
         "url": "",
         "format": "",
@@ -3343,7 +3343,7 @@
     },
     {
       "goal": 17,
-      "indicator": "6. [Indicator on the creation of / subscription to the Technology Bank and STI (Science, Technology and Innovation) Capacity Building Mechanism for LDCs by 2017]",
+      "indicator": "[Indicator on the creation of / subscription to the Technology Bank and STI (Science, Technology and Innovation) Capacity Building Mechanism for LDCs by 2017]",
       "data": {
         "url": "",
         "format": "",
@@ -3395,7 +3395,7 @@
     },
     {
       "goal": 17,
-      "indicator": "10. Percent of official development assistance (ODA), net private grants, and official climate finance channeled through priority pooled multilateral financing mechanisms",
+      "indicator": "Percent of official development assistance (ODA), net private grants, and official climate finance channeled through priority pooled multilateral financing mechanisms",
       "data": {
         "url": "",
         "format": "",
