@@ -57,6 +57,11 @@
             "type": "string",
             "required": true
           },
+          "available": {
+            "id": "available",
+            "type": "string",
+            "required": true
+          },
           "category": {
             "id": "category",
             "type": "string",
