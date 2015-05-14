@@ -70,6 +70,8 @@ function add_indicators(sdgs){
     var goalLi = document.getElementById("goal-"+indicator["goal"]);
     var indicatorsId="goal-"+indicator["goal"]+"-indicators";
     if (document.getElementById(indicatorsId) == null) {
+      var responsiveTable = document.createElement("div");
+      responsiveTable.setAttribute("class","table-responsive");
       var nestedTable = document.createElement("table");
       var header = nestedTable.createTHead();
       var rowObject = header.insertRow(0);
@@ -80,7 +82,7 @@ function add_indicators(sdgs){
       }   
       var body = nestedTable.createTBody();
       body.setAttribute("id", indicatorsId);
-      goalLi.appendChild(nestedTable);
+      goalLi.appendChild(responsiveTable).appendChild(nestedTable);
      }else{
       append_row(indicatorsId,[indicator["indicator"],indicator["data"]]);
     }
