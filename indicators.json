@@ -2,20 +2,20 @@
   "indicators": [
     {
       "goal": 1,
-      "indicator": " Proportion of population below $1.25 (PPP) per day (MDG Indicator)",
+      "indicator": " Proportion of population below $1.25 (PPP) per day",
       "data": {
-        "url": "",
-        "format": "",
+        "url": "http://data.worldbank.org/indicator/SI.POV.DDAY",
+        "format": "WB-API",
         "meta": ""
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " World Bank",
       "other goals": "8",
-      "category": " "
+      "category": "MDG Indicator",
     },
     {
       "goal": 1,
-      "indicator": "Proportion of population living below national poverty line, by urban/rural (modified MDG Indicator)",
+      "indicator": "Proportion of population living below national poverty line, by urban/rural ",
       "data": {
         "url": "",
         "format": "",
@@ -24,7 +24,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "World Bank, UN DESA",
       "other goals": "11",
-      "category": " "
+      "category": "modified MDG Indicator",
     },
     {
       "goal": 1,
