@@ -77,8 +77,9 @@ function add_indicators(sdgs){
       var rowObject = header.insertRow(0);
       var columns=["Indicator","Data"]
       for (var i in columns ){
-          cell = rowObject.insertCell(i);
-          cell.innerHTML = columns[i];
+          var th = document.createElement('th');
+          th.innerHTML = columns[i];
+          rowObject.appendChild(th);
       }   
       var body = nestedTable.createTBody();
       body.setAttribute("id", indicatorsId);
