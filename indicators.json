@@ -106,7 +106,7 @@
     },
     {
       "goal": 1,
-      "indicator": " 2. Percentage of population using banking services (including mobile banking)",
+      "indicator": "Percentage of population using banking services (including mobile banking)",
       "data": {
         "url": "",
         "format": "",
@@ -119,7 +119,7 @@
     },
     {
       "goal": 1,
-      "indicator": " 3. [Indicator on equal access to inheritance]",
+      "indicator": "[Indicator on equal access to inheritance]",
       "data": {
         "url": "",
         "format": "",
@@ -132,7 +132,7 @@
     },
     {
       "goal": 1,
-      "indicator": " 4. [Disaster Risk Reduction Indicator]",
+      "indicator": "[Disaster Risk Reduction Indicator]",
       "data": {
         "url": "",
         "format": "",
@@ -665,7 +665,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 1. Percentage of births attended by skilled health personnel (MDG Indicator)",
+      "indicator": "Percentage of births attended by skilled health personnel (MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
@@ -678,7 +678,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 2. Antenatal care coverage (at least one visit and at least four visits) (MDG Indicator)",
+      "indicator": "Antenatal care coverage (at least one visit and at least four visits) (MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
@@ -691,7 +691,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 3. Post-natal care coverage (one visit) (MDG Indicator)",
+      "indicator": "Post-natal care coverage (one visit) (MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
@@ -704,7 +704,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 4. Coverage of iron-folic acid supplements for pregnant women (%)",
+      "indicator": "Coverage of iron-folic acid supplements for pregnant women (%)",
       "data": {
         "url": "",
         "format": "",
@@ -717,7 +717,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 5. Incidence rate of diarrheal disease in children under 5 years",
+      "indicator": "Incidence rate of diarrheal disease in children under 5 years",
       "data": {
         "url": "",
         "format": "",
@@ -730,7 +730,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 6. Percentage of 1 year-old children immunized against measles (MDG Indicator)",
+      "indicator": "Percentage of 1 year-old children immunized against measles (MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
@@ -743,7 +743,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 7. Percent HIV+ pregnant women receiving PMTCT",
+      "indicator": "Percent HIV+ pregnant women receiving PMTCT",
       "data": {
         "url": "",
         "format": "",
@@ -756,7 +756,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 8. Condom use at last high-risk sex (MDG Indicator)",
+      "indicator": "Condom use at last high-risk sex (MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
@@ -769,7 +769,7 @@
     },
     {
       "goal": 3,
-      "indicator": " 9. Percentage of tuberculosis cases detected and cured under directly observed treatment short course (MDG Indicator)",
+      "indicator": "Percentage of tuberculosis cases detected and cured under directly observed treatment short course (MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
@@ -1224,7 +1224,7 @@
     },
     {
       "goal": 4,
-      "indicator": " 1. [Percentage of girls and boys who acquire skills and values needed for global citizenship and sustainable development (national benchmarks to be developed) by the end of lower secondary]",
+      "indicator": "[Percentage of girls and boys who acquire skills and values needed for global citizenship and sustainable development (national benchmarks to be developed) by the end of lower secondary]",
       "data": {
         "url": "",
         "format": "",
@@ -1250,7 +1250,7 @@
     },
     {
       "goal": 4,
-      "indicator": " 3. Number of children out of school",
+      "indicator": "Number of children out of school",
       "data": {
         "url": "",
         "format": "",
@@ -1263,7 +1263,7 @@
     },
     {
       "goal": 4,
-      "indicator": " 4. [Percentage of adolescents (15-19 years) with access to school-to-work programs]",
+      "indicator": "[Percentage of adolescents (15-19 years) with access to school-to-work programs]",
       "data": {
         "url": "",
         "format": "",
@@ -1289,7 +1289,7 @@
     },
     {
       "goal": 4,
-      "indicator": " 6. [Percentage of young adults (18-24 years) with access to a learning program]-to be developed",
+      "indicator": "[Percentage of young adults (18-24 years) with access to a learning program]-to be developed",
       "data": {
         "url": "",
         "format": "",
@@ -1302,7 +1302,7 @@
     },
     {
       "goal": 4,
-      "indicator": " 7. [Indicator on share of education facilities that provide an effective learning environment]",
+      "indicator": "[Indicator on share of education facilities that provide an effective learning environment]",
       "data": {
         "url": "",
         "format": "",
@@ -1315,7 +1315,7 @@
     },
     {
       "goal": 4,
-      "indicator": " 8. Pupil to computer ratio in primary and secondary education",
+      "indicator": "Pupil to computer ratio in primary and secondary education",
       "data": {
         "url": "",
         "format": "",
@@ -1328,7 +1328,7 @@
     },
     {
       "goal": 4,
-      "indicator": " 9. [Indicator on scholarships for students from developing countries]",
+      "indicator": "[Indicator on scholarships for students from developing countries]",
       "data": {
         "url": "",
         "format": "",
@@ -1471,7 +1471,7 @@
     },
     {
       "goal": 5,
-      "indicator": " 2. Share of women on corporate boards of national / multi-national corporations (MNCs)",
+      "indicator": "Share of women on corporate boards of national / multi-national corporations (MNCs)",
       "data": {
         "url": "",
         "format": "",
@@ -1484,7 +1484,7 @@
     },
     {
       "goal": 5,
-      "indicator": " 3. Percentage of women without incomes of their own",
+      "indicator": "Percentage of women without incomes of their own",
       "data": {
         "url": "",
         "format": "",
@@ -1497,7 +1497,7 @@
     },
     {
       "goal": 5,
-      "indicator": " 4. Adolescent birth rate (MDG Indicator)",
+      "indicator": "Adolescent birth rate (MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
@@ -1588,7 +1588,7 @@
     },
     {
       "goal": 6,
-      "indicator": " 1. Percentage of population practicing open defecation",
+      "indicator": "Percentage of population practicing open defecation",
       "data": {
         "url": "",
         "format": "",
@@ -1601,7 +1601,7 @@
     },
     {
       "goal": 6,
-      "indicator": " 2. Percentage of population with basic hand washing facilities with soap and water at home",
+      "indicator": "Percentage of population with basic hand washing facilities with soap and water at home",
       "data": {
         "url": "",
         "format": "",
@@ -1614,7 +1614,7 @@
     },
     {
       "goal": 6,
-      "indicator": " 3. Proportion of the population connected to collective sewers or with on-site storage of all domestic wastewaters",
+      "indicator": "Proportion of the population connected to collective sewers or with on-site storage of all domestic wastewaters",
       "data": {
         "url": "",
         "format": "",
@@ -1653,7 +1653,7 @@
     },
     {
       "goal": 6,
-      "indicator": " 6. Proportion of the flows of treated municipal wastewater that are directly and safely reused",
+      "indicator": "Proportion of the flows of treated municipal wastewater that are directly and safely reused",
       "data": {
         "url": "",
         "format": "",
@@ -1666,7 +1666,7 @@
     },
     {
       "goal": 6,
-      "indicator": " 7. [Reporting of international river shed authorities on transboundary river-shed management]",
+      "indicator": "[Reporting of international river shed authorities on transboundary river-shed management]",
       "data": {
         "url": "",
         "format": "",
@@ -1679,7 +1679,7 @@
     },
     {
       "goal": 6,
-      "indicator": " 8. [Indicator on international cooperation and capacity building in water and sanitation-related activities]",
+      "indicator": "[Indicator on international cooperation and capacity building in water and sanitation-related activities]",
       "data": {
         "url": "",
         "format": "",
@@ -1770,7 +1770,7 @@
     },
     {
       "goal": 7,
-      "indicator": " 2. Fossil fuel subsidies ($ or %GNI)",
+      "indicator": "Fossil fuel subsidies ($ or %GNI)",
       "data": {
         "url": "",
         "format": "",
@@ -1848,7 +1848,7 @@
     },
     {
       "goal": 8,
-      "indicator": " 1. Growth rate of GDP per person employed (MDG Indicator)",
+      "indicator": "Growth rate of GDP per person employed (MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
@@ -1861,7 +1861,7 @@
     },
     {
       "goal": 8,
-      "indicator": " 2. Working poverty rate measured at $2 PPP per capita per day",
+      "indicator": "Working poverty rate measured at $2 PPP per capita per day",
       "data": {
         "url": "",
         "format": "",
@@ -1874,7 +1874,7 @@
     },
     {
       "goal": 8,
-      "indicator": " 3. [Indicator of decent work]",
+      "indicator": "[Indicator of decent work]",
       "data": {
         "url": "",
         "format": "",
@@ -1900,7 +1900,7 @@
     },
     {
       "goal": 8,
-      "indicator": " 5. Employment to population ratio (EPR) by gender and age group (15‚Äì64)",
+      "indicator": "Employment to population ratio (EPR) by gender and age group (15‚Äì64)",
       "data": {
         "url": "",
         "format": "",
@@ -1913,7 +1913,7 @@
     },
     {
       "goal": 8,
-      "indicator": " 6. Share of informal employment in total employment",
+      "indicator": "Share of informal employment in total employment",
       "data": {
         "url": "",
         "format": "",
@@ -1926,7 +1926,7 @@
     },
     {
       "goal": 8,
-      "indicator": " 7. Percentage of own-account and contributing family workers in total employment",
+      "indicator": "Percentage of own-account and contributing family workers in total employment",
       "data": {
         "url": "",
         "format": "",
@@ -2082,7 +2082,7 @@
     },
     {
       "goal": 10,
-      "indicator": "Percentage of households with incomes below 50% of median income (\"relative poverty\")",
+      "indicator": "Percentage of households with incomes below 50% of median income ('relative poverty')",
       "data": {
         "url": "",
         "format": "",
@@ -2095,7 +2095,7 @@
     },
     {
       "goal": 10,
-      "indicator": " 1. Gini Coefficient",
+      "indicator": "Gini Coefficient",
       "data": {
         "url": "",
         "format": "",
@@ -2108,7 +2108,7 @@
     },
     {
       "goal": 10,
-      "indicator": " 2. Income/wage persistence (intergenerational socioeconomic mobility)",
+      "indicator": "Income/wage persistence (intergenerational socioeconomic mobility)",
       "data": {
         "url": "",
         "format": "",
@@ -2121,7 +2121,7 @@
     },
     {
       "goal": 10,
-      "indicator": " 3. Human Mobility Governance Index",
+      "indicator": "Human Mobility Governance Index",
       "data": {
         "url": "",
         "format": "",
@@ -2134,7 +2134,7 @@
     },
     {
       "goal": 10,
-      "indicator": " 4. Net ODA to LDCs as percentage of high-income countries' GNI (modified from MDG Indicator)",
+      "indicator": "Net ODA to LDCs as percentage of high-income countries' GNI (modified from MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
@@ -2147,7 +2147,7 @@
     },
     {
       "goal": 10,
-      "indicator": " 5. Indicator on share of LDCs / LIC representatives on boards of IMF / WB (and other institutions of governance)",
+      "indicator": "Indicator on share of LDCs / LIC representatives on boards of IMF / WB (and other institutions of governance)",
       "data": {
         "url": "",
         "format": "",
@@ -2277,7 +2277,7 @@
     },
     {
       "goal": 11,
-      "indicator": " 1. Number of street intersections per square kilometer",
+      "indicator": "Number of street intersections per square kilometer",
       "data": {
         "url": "",
         "format": "",
@@ -2290,7 +2290,7 @@
     },
     {
       "goal": 11,
-      "indicator": " 2. Existence and implementation of a national urban and human settlements policy framework",
+      "indicator": "Existence and implementation of a national urban and human settlements policy framework",
       "data": {
         "url": "",
         "format": "",
@@ -2316,7 +2316,7 @@
     },
     {
       "goal": 11,
-      "indicator": " 4. Presence of urban building codes stipulating either the use of local materials and/or new energy efficient technologies or with incentives for the same",
+      "indicator": "Presence of urban building codes stipulating either the use of local materials and/or new energy efficient technologies or with incentives for the same",
       "data": {
         "url": "",
         "format": "",
@@ -2329,7 +2329,7 @@
     },
     {
       "goal": 11,
-      "indicator": " 5. City biodiversity index (Singapore index)",
+      "indicator": "City biodiversity index (Singapore index)",
       "data": {
         "url": "",
         "format": "",
@@ -2433,7 +2433,7 @@
     },
     {
       "goal": 12,
-      "indicator": " 1. [Strategic environmental and social impact assessments required]",
+      "indicator": "[Strategic environmental and social impact assessments required]",
       "data": {
         "url": "",
         "format": "",
@@ -2446,7 +2446,7 @@
     },
     {
       "goal": 12,
-      "indicator": " 2. [Legislative branch oversight role regarding resource-based contracts and licenses]-to be developed",
+      "indicator": "[Legislative branch oversight role regarding resource-based contracts and licenses]-to be developed",
       "data": {
         "url": "",
         "format": "",
@@ -2459,7 +2459,7 @@
     },
     {
       "goal": 12,
-      "indicator": " 3. [Indicator on chemical pollution]",
+      "indicator": "[Indicator on chemical pollution]",
       "data": {
         "url": "",
         "format": "",
@@ -2472,7 +2472,7 @@
     },
     {
       "goal": 12,
-      "indicator": " 4. CO2 intensity of the building sector and of new buildings (KgCO2/m2/year)",
+      "indicator": "CO2 intensity of the building sector and of new buildings (KgCO2/m2/year)",
       "data": {
         "url": "",
         "format": "",
@@ -2485,7 +2485,7 @@
     },
     {
       "goal": 12,
-      "indicator": " 5. [Indicator on policies for sustainable tourism]",
+      "indicator": "[Indicator on policies for sustainable tourism]",
       "data": {
         "url": "",
         "format": "",
@@ -2563,7 +2563,7 @@
     },
     {
       "goal": 13,
-      "indicator": " 1. [Climate Change Action Index]",
+      "indicator": "[Climate Change Action Index]",
       "data": {
         "url": "",
         "format": "",
@@ -2615,7 +2615,7 @@
     },
     {
       "goal": 14,
-      "indicator": " 1. Eutrophication of major estuaries",
+      "indicator": "Eutrophication of major estuaries",
       "data": {
         "url": "",
         "format": "",
@@ -2628,7 +2628,7 @@
     },
     {
       "goal": 14,
-      "indicator": " 2. Ocean acidity (measured as surface pH)",
+      "indicator": "Ocean acidity (measured as surface pH)",
       "data": {
         "url": "",
         "format": "",
@@ -2641,7 +2641,7 @@
     },
     {
       "goal": 14,
-      "indicator": " 3. [Indicator on the implementation of spatial planning strategies for coastal and marine areas]‚Äì to be developed",
+      "indicator": "[Indicator on the implementation of spatial planning strategies for coastal and marine areas]‚Äì to be developed",
       "data": {
         "url": "",
         "format": "",
@@ -2654,7 +2654,7 @@
     },
     {
       "goal": 14,
-      "indicator": " 4. Area of coral reef ecosystems and percentage live cover",
+      "indicator": "Area of coral reef ecosystems and percentage live cover",
       "data": {
         "url": "",
         "format": "",
@@ -2667,7 +2667,7 @@
     },
     {
       "goal": 14,
-      "indicator": " 5. Proportion of fish stocks within safe biological limits (MDG Indicator)",
+      "indicator": "Proportion of fish stocks within safe biological limits (MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
@@ -2680,7 +2680,7 @@
     },
     {
       "goal": 14,
-      "indicator": " 6. Percentage of fisheries with a sustainable certification",
+      "indicator": "Percentage of fisheries with a sustainable certification",
       "data": {
         "url": "",
         "format": "",
@@ -2693,7 +2693,7 @@
     },
     {
       "goal": 14,
-      "indicator": " 7. Does flag state require International Maritime Organization (IMO) numbers and transponders for all fishing vessels more than 24 meters or 100 tons?",
+      "indicator": "Does flag state require International Maritime Organization (IMO) numbers and transponders for all fishing vessels more than 24 meters or 100 tons?",
       "data": {
         "url": "",
         "format": "",
@@ -2706,7 +2706,7 @@
     },
     {
       "goal": 14,
-      "indicator": " 8. Has Regional Fisheries Management Organizations (RFMO) established satellite- monitoring program?",
+      "indicator": "Has Regional Fisheries Management Organizations (RFMO) established satellite- monitoring program?",
       "data": {
         "url": "",
         "format": "",
@@ -2719,7 +2719,7 @@
     },
     {
       "goal": 14,
-      "indicator": " 9. [Use of destructive fishing techniques]",
+      "indicator": "[Use of destructive fishing techniques]",
       "data": {
         "url": "",
         "format": "",
@@ -2849,7 +2849,7 @@
     },
     {
       "goal": 15,
-      "indicator": " 1. Improved tenure security and governance of forests",
+      "indicator": "Improved tenure security and governance of forests",
       "data": {
         "url": "",
         "format": "",
@@ -2862,7 +2862,7 @@
     },
     {
       "goal": 15,
-      "indicator": " 2. [Indicator on the conservation of mountain ecosystems]",
+      "indicator": "[Indicator on the conservation of mountain ecosystems]",
       "data": {
         "url": "",
         "format": "",
@@ -2875,7 +2875,7 @@
     },
     {
       "goal": 15,
-      "indicator": " 3. Vitality Index of Traditional Environmental Knowledge",
+      "indicator": "Vitality Index of Traditional Environmental Knowledge",
       "data": {
         "url": "",
         "format": "",
@@ -2901,7 +2901,7 @@
     },
     {
       "goal": 15,
-      "indicator": " 5.  Abundance of invasive alien species",
+      "indicator": " Abundance of invasive alien species",
       "data": {
         "url": "",
         "format": "",
@@ -2914,7 +2914,7 @@
     },
     {
       "goal": 15,
-      "indicator": " 6. [Indicator on financial resources for biodiversity and ecosystems]",
+      "indicator": "[Indicator on financial resources for biodiversity and ecosystems]",
       "data": {
         "url": "",
         "format": "",
@@ -2927,7 +2927,7 @@
     },
     {
       "goal": 15,
-      "indicator": " 7. [Indicator on financial resources for sustainable forest management]",
+      "indicator": "[Indicator on financial resources for sustainable forest management]",
       "data": {
         "url": "",
         "format": "",
@@ -2940,7 +2940,7 @@
     },
     {
       "goal": 15,
-      "indicator": " 8. [Indicator on global support to combat poaching and trafficking of protected species]",
+      "indicator": "[Indicator on global support to combat poaching and trafficking of protected species]",
       "data": {
         "url": "",
         "format": "",
@@ -3057,7 +3057,7 @@
     },
     {
       "goal": 16,
-      "indicator": " 1. Percentage of women and men who report feeling safe walking alone at night in the city or area where they live",
+      "indicator": "Percentage of women and men who report feeling safe walking alone at night in the city or area where they live",
       "data": {
         "url": "",
         "format": "",
@@ -3070,7 +3070,7 @@
     },
     {
       "goal": 16,
-      "indicator": " 2. Compliance with recommendations from the Universal Periodic Review and UN Treaties",
+      "indicator": "Compliance with recommendations from the Universal Periodic Review and UN Treaties",
       "data": {
         "url": "",
         "format": "",
@@ -3083,7 +3083,7 @@
     },
     {
       "goal": 16,
-      "indicator": " 3. Frequency of payment of salaries within security forces",
+      "indicator": "Frequency of payment of salaries within security forces",
       "data": {
         "url": "",
         "format": "",
@@ -3109,7 +3109,7 @@
     },
     {
       "goal": 16,
-      "indicator": " 5. Percentage of total detainees who have been held in detention for more than 12 months while awaiting sentencing or a final disposition of their case",
+      "indicator": "Percentage of total detainees who have been held in detention for more than 12 months while awaiting sentencing or a final disposition of their case",
       "data": {
         "url": "",
         "format": "",
@@ -3122,7 +3122,7 @@
     },
     {
       "goal": 16,
-      "indicator": " 6. [Indicator on illicit financial flows]",
+      "indicator": "[Indicator on illicit financial flows]",
       "data": {
         "url": "",
         "format": "",
@@ -3135,7 +3135,7 @@
     },
     {
       "goal": 16,
-      "indicator": " 7. [Indicator on international cooperation in preventing violence and combating terrorism and crime]",
+      "indicator": "[Indicator on international cooperation in preventing violence and combating terrorism and crime]",
       "data": {
         "url": "",
         "format": "",
@@ -3278,7 +3278,7 @@
     },
     {
       "goal": 17,
-      "indicator": " 1. Total Official Support for Development",
+      "indicator": "Total Official Support for Development",
       "data": {
         "url": "",
         "format": "",
@@ -3291,7 +3291,7 @@
     },
     {
       "goal": 17,
-      "indicator": " 2. Country Programmable Aid",
+      "indicator": "Country Programmable Aid",
       "data": {
         "url": "",
         "format": "",
@@ -3304,7 +3304,7 @@
     },
     {
       "goal": 17,
-      "indicator": " 3. [Indicator on debt sustainability]",
+      "indicator": "[Indicator on debt sustainability]",
       "data": {
         "url": "",
         "format": "",
@@ -3317,7 +3317,7 @@
     },
     {
       "goal": 17,
-      "indicator": " 4. Gross domestic expenditure on R&D as share of GDP",
+      "indicator": "Gross domestic expenditure on R&D as share of GDP",
       "data": {
         "url": "",
         "format": "",
@@ -3330,7 +3330,7 @@
     },
     {
       "goal": 17,
-      "indicator": " 5. [Indicator on technology sharing and diffusion]",
+      "indicator": "[Indicator on technology sharing and diffusion]",
       "data": {
         "url": "",
         "format": "",
@@ -3356,7 +3356,7 @@
     },
     {
       "goal": 17,
-      "indicator": " 7. Average tariffs imposed by developed countries on agricultural products and textiles and clothing from developing countries (MDG Indicator)",
+      "indicator": "Average tariffs imposed by developed countries on agricultural products and textiles and clothing from developing countries (MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
@@ -3369,7 +3369,7 @@
     },
     {
       "goal": 17,
-      "indicator": " 8. Value of LDC exports as a percentage of global exports",
+      "indicator": "Value of LDC exports as a percentage of global exports",
       "data": {
         "url": "",
         "format": "",
@@ -3382,7 +3382,7 @@
     },
     {
       "goal": 17,
-      "indicator": " 9. [Indicator on investment promotion regimes for LDCs]",
+      "indicator": "[Indicator on investment promotion regimes for LDCs]",
       "data": {
         "url": "",
         "format": "",
