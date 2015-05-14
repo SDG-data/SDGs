@@ -73,6 +73,7 @@ function add_indicators(sdgs){
       var responsiveTable = document.createElement("div");
       responsiveTable.setAttribute("class","table-responsive");
       var nestedTable = document.createElement("table");
+      nestedTable.setAttribute("class","table table-striped table-bordered");
       var header = nestedTable.createTHead();
       var rowObject = header.insertRow(0);
       var columns=["Indicator","Data"]
