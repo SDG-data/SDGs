@@ -76,7 +76,7 @@ function add_indicators(sdgs){
       nestedTable.setAttribute("class","table table-striped table-bordered");
       var header = nestedTable.createTHead();
       var rowObject = header.insertRow(0);
-      var columns=["Indicator","Data"]
+      var columns=["Indicator","Leads","Available"]
       for (var i in columns ){
           var th = document.createElement('th');
           th.innerHTML = columns[i];
@@ -86,7 +86,7 @@ function add_indicators(sdgs){
       body.setAttribute("id", indicatorsId);
       goalLi.appendChild(responsiveTable).appendChild(nestedTable);
      }else{
-      append_row(indicatorsId,[indicator["indicator"],indicator["data"]]);
+      append_row(indicatorsId,[indicator["indicator"],indicator["leads"],indicator["available"]]);
     }
   }
 }
