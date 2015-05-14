@@ -11,7 +11,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " World Bank",
       "other goals": "8",
-      "category": "MDG Indicator",
+      "available": "","category": "MDG Indicator"
     },
     {
       "goal": 1,
@@ -24,7 +24,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "World Bank, UN DESA",
       "other goals": "11",
-      "category": "modified MDG Indicator",
+      "available": "","category": "modified MDG Indicator"
     },
     {
       "goal": 1,
@@ -37,7 +37,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UNDP, World Bank, UNSD, UNICEF",
       "other goals": "2, 3, 4, 8, 11",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 1,
@@ -50,7 +50,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ILO",
       "other goals": "8, 10, 11",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 1,
@@ -63,7 +63,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "FAO, UNDP, UN- Habitat",
       "other goals": "2, 5, 10, 11",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 1,
@@ -76,7 +76,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UNISDR, FAO, WHO, CRED",
       "other goals": "2, 6, 11, 13",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 1,
@@ -89,7 +89,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UN Population Division, UNFPA",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 1,
@@ -102,7 +102,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 1,
@@ -115,7 +115,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 1,
@@ -128,7 +128,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 1,
@@ -141,7 +141,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ",
       "other goals": " ",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 2,
@@ -154,7 +154,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "FAO, WHO",
       "other goals": "3",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 2,
@@ -167,7 +167,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "FAO, WHO",
       "other goals": "3",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 2,
@@ -180,7 +180,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "WHO, UNICEF",
       "other goals": "1, 3",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 2,
@@ -193,7 +193,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "WHO, UNICEF",
       "other goals": "3",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 2,
@@ -206,7 +206,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "FAO, WHO",
       "other goals": "3, 5",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 2,
@@ -219,7 +219,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " FAO",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 2,
@@ -232,7 +232,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " FAO",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 2,
@@ -245,7 +245,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "FAO, International",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 2,
@@ -258,7 +258,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ",
       "other goals": " ",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 2,
@@ -271,7 +271,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " FAO",
       "other goals": "6",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 2,
@@ -284,7 +284,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 2,
@@ -297,7 +297,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 2,
@@ -310,7 +310,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 2,
@@ -323,7 +323,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 2,
@@ -336,7 +336,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 2,
@@ -349,7 +349,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 2,
@@ -362,7 +362,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 2,
@@ -375,7 +375,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 2,
@@ -388,7 +388,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 2,
@@ -401,7 +401,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 2,
@@ -414,7 +414,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 2,
@@ -427,7 +427,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 2,
@@ -440,7 +440,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 2,
@@ -453,7 +453,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 2,
@@ -466,7 +466,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 3,
@@ -479,7 +479,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "WHO, UN Population Division, UNICEF, World Bank",
       "other goals": "5",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 3,
@@ -492,7 +492,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "WHO, UNICEF, UN Population Division",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 3,
@@ -505,7 +505,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UNICEF, GAVI, WHO",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 3,
@@ -518,7 +518,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "WHO, UNAIDS",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 3,
@@ -531,7 +531,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " WHO",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 3,
@@ -544,7 +544,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " WHO",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 3,
@@ -557,7 +557,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " WHO",
       "other goals": "11",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 3,
@@ -570,7 +570,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " WHO",
       "other goals": "12",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 3,
@@ -583,7 +583,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "WHO, UN- Habitat",
       "other goals": "9, 11",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 3,
@@ -596,7 +596,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " WHO",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 3,
@@ -609,7 +609,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " WHO",
       "other goals": "11",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 3,
@@ -622,7 +622,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " WHO",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 3,
@@ -635,7 +635,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UN Population Division and UNFPA",
       "other goals": "5",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 3,
@@ -648,7 +648,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " WHO",
       "other goals": "12",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 3,
@@ -661,7 +661,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 3,
@@ -674,7 +674,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -687,7 +687,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -700,7 +700,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -713,7 +713,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -726,7 +726,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -739,7 +739,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -752,7 +752,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -765,7 +765,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -778,7 +778,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -791,7 +791,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -804,7 +804,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -817,7 +817,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -830,7 +830,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -843,7 +843,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -856,7 +856,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -869,7 +869,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -882,7 +882,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -895,7 +895,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -908,7 +908,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -921,7 +921,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -934,7 +934,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -947,7 +947,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -960,7 +960,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -973,7 +973,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -986,7 +986,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -999,7 +999,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -1012,7 +1012,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -1025,7 +1025,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -1038,7 +1038,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -1051,7 +1051,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -1064,7 +1064,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -1077,7 +1077,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -1090,7 +1090,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -1103,7 +1103,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -1116,7 +1116,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ",
       "other goals": " ",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 4,
@@ -1129,7 +1129,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UNESCO, UNICEF, World Bank",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 4,
@@ -1142,7 +1142,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UNICEF, UNESCO",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 4,
@@ -1155,7 +1155,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " UNESCO",
       "other goals": "5",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 4,
@@ -1168,7 +1168,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " UNESCO",
       "other goals": "5,4",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 4,
@@ -1181,7 +1181,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " UNESCO",
       "other goals": "5, 8",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 4,
@@ -1194,7 +1194,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " UNESCO",
       "other goals": "5",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 4,
@@ -1207,7 +1207,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " UNESCO",
       "other goals": "5, 8",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 4,
@@ -1220,7 +1220,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 4,
@@ -1233,7 +1233,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 4,
@@ -1246,7 +1246,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 4,
@@ -1259,7 +1259,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 4,
@@ -1272,7 +1272,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 4,
@@ -1285,7 +1285,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 4,
@@ -1298,7 +1298,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 4,
@@ -1311,7 +1311,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 4,
@@ -1324,7 +1324,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 4,
@@ -1337,7 +1337,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 4,
@@ -1350,7 +1350,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 4,
@@ -1363,7 +1363,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ",
       "other goals": " ",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 5,
@@ -1376,7 +1376,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "WHO, UNSD",
       "other goals": "3",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 5,
@@ -1389,7 +1389,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " UN Women",
       "other goals": "16",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 5,
@@ -1402,7 +1402,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " UNICEF",
       "other goals": "3",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 5,
@@ -1415,7 +1415,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " UNICEF",
       "other goals": "3",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 5,
@@ -1428,7 +1428,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ILO with IAEG- GS (UNSD)",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 5,
@@ -1441,7 +1441,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "Inter- Parliamentary Union (IPU)",
       "other goals": "10, 16",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 5,
@@ -1454,7 +1454,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UN Population Division, UNFPA",
       "other goals": "3",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 5,
@@ -1467,7 +1467,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 5,
@@ -1480,7 +1480,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 5,
@@ -1493,7 +1493,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 5,
@@ -1506,7 +1506,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 5,
@@ -1519,7 +1519,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ",
       "other goals": " ",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 6,
@@ -1532,7 +1532,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "WHO/UNICEF Joint Monitoring Programme (JMP)",
       "other goals": "1, 2, 3, 9, 11",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 6,
@@ -1545,7 +1545,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "WHO/UNICEF JMP",
       "other goals": "1, 2, 3, 9, 11",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 6,
@@ -1558,7 +1558,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "WHO/UNICEF JMP",
       "other goals": "3, 9, 11, 12, 14",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 6,
@@ -1571,7 +1571,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " UN Water",
       "other goals": "12, 14, 15",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 6,
@@ -1584,7 +1584,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "FAO, UNEP",
       "other goals": "2, 9, 11, 12",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 6,
@@ -1597,7 +1597,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 6,
@@ -1610,7 +1610,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 6,
@@ -1623,7 +1623,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 6,
@@ -1636,7 +1636,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 6,
@@ -1649,7 +1649,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 6,
@@ -1662,7 +1662,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 6,
@@ -1675,7 +1675,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 6,
@@ -1688,7 +1688,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 6,
@@ -1701,7 +1701,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ",
       "other goals": " ",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 7,
@@ -1714,7 +1714,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "Sustainable Energy for All, IEA, WHO",
       "other goals": "1, 3, 5, 9, 11, 12",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 7,
@@ -1727,7 +1727,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "Sustainable Energy for All, IEA, World Bank",
       "other goals": "1, 3, 5, 9, 11, 12",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 7,
@@ -1740,7 +1740,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "IEA, UNFCCC",
       "other goals": "11, 13",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 7,
@@ -1753,7 +1753,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "Sustainable Energy for All, IEA",
       "other goals": "11, 13",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 7,
@@ -1766,7 +1766,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 7,
@@ -1779,7 +1779,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 7,
@@ -1792,7 +1792,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ",
       "other goals": " ",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 8,
@@ -1805,7 +1805,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "IMF, World Bank, UNSD",
       "other goals": "11",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 8,
@@ -1818,7 +1818,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " UNSD",
       "other goals": "12, 17",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 8,
@@ -1831,7 +1831,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ILO",
       "other goals": "11",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 8,
@@ -1844,7 +1844,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ILO",
       "other goals": "5, 9, 10, 11, 17",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 8,
@@ -1857,7 +1857,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 8,
@@ -1870,7 +1870,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 8,
@@ -1883,7 +1883,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 8,
@@ -1896,7 +1896,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 8,
@@ -1909,7 +1909,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 8,
@@ -1922,7 +1922,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 8,
@@ -1935,7 +1935,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 8,
@@ -1948,7 +1948,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 8,
@@ -1961,7 +1961,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ",
       "other goals": " ",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 9,
@@ -1974,7 +1974,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " World Bank",
       "other goals": "2, 7, 11",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 9,
@@ -1987,7 +1987,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ITU",
       "other goals": "2, 11, 17",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 9,
@@ -2000,7 +2000,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ITU",
       "other goals": "17",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 9,
@@ -2013,7 +2013,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "World Bank, OECD, UNIDO",
       "other goals": "8, 11",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 9,
@@ -2026,7 +2026,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UNFCCC, OECD, UNIDO",
       "other goals": "7, 11, 13",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 9,
@@ -2039,7 +2039,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "OECD, UNESCO",
       "other goals": "8, 17",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 9,
@@ -2052,7 +2052,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 9,
@@ -2065,7 +2065,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ",
       "other goals": " ",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 10,
@@ -2078,7 +2078,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UNSD, World Bank, OECD",
       "other goals": "1, 8",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 10,
@@ -2091,7 +2091,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "World Bank, OECD, UNSD",
       "other goals": "1, 8",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 10,
@@ -2104,7 +2104,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 10,
@@ -2117,7 +2117,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 10,
@@ -2130,7 +2130,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 10,
@@ -2143,7 +2143,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 10,
@@ -2156,7 +2156,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 10,
@@ -2169,7 +2169,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ",
       "other goals": " ",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 11,
@@ -2182,7 +2182,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UN-Habitat, Global City Indicators Facility",
       "other goals": "1, 6",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 11,
@@ -2195,7 +2195,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " UN-Habitat",
       "other goals": "9",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 11,
@@ -2208,7 +2208,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UN-Habitat, World Bank",
       "other goals": "3, 12",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 11,
@@ -2221,7 +2221,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UNISDR, FAO, WHO, CRED",
       "other goals": "1, 2, 6, 13",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 11,
@@ -2234,7 +2234,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UN-Habitat, UNEP, WHO",
       "other goals": "9, 11, 12",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 11,
@@ -2247,7 +2247,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " UN-Habitat",
       "other goals": "13, 17",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 11,
@@ -2260,7 +2260,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UN-Habitat, WHO",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 11,
@@ -2273,7 +2273,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 11,
@@ -2286,7 +2286,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 11,
@@ -2299,7 +2299,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 11,
@@ -2312,7 +2312,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 11,
@@ -2325,7 +2325,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 11,
@@ -2338,7 +2338,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 11,
@@ -2351,7 +2351,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ",
       "other goals": " ",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 12,
@@ -2364,7 +2364,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "EITI, UNCTAD, UN Global Compact",
       "other goals": "15, 16, 17",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 12,
@@ -2377,7 +2377,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " FAO",
       "other goals": "2, 11",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 12,
@@ -2390,7 +2390,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UNEP Ozone Secretariat",
       "other goals": "9",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 12,
@@ -2403,7 +2403,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " UNEP",
       "other goals": "9, 11, 13",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 12,
@@ -2416,7 +2416,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 12,
@@ -2429,7 +2429,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "Global Compact, WBCSD, GRI, IIRC",
       "other goals": "8, 17",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 12,
@@ -2442,7 +2442,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 12,
@@ -2455,7 +2455,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 12,
@@ -2468,7 +2468,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 12,
@@ -2481,7 +2481,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 12,
@@ -2494,7 +2494,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 12,
@@ -2507,7 +2507,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ",
       "other goals": " ",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 13,
@@ -2520,7 +2520,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " UNFCCC",
       "other goals": "9, 11, 12, 17",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 13,
@@ -2533,7 +2533,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UNFCCC, IEA",
       "other goals": "7, 8, 9, 11",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 13,
@@ -2546,7 +2546,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " UNFCCC",
       "other goals": "2, 15",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 13,
@@ -2559,7 +2559,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "OECD DAC, UNFCCC, IEA",
       "other goals": "17",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 13,
@@ -2572,7 +2572,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 13,
@@ -2585,7 +2585,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ",
       "other goals": " ",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 14,
@@ -2598,7 +2598,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UNEP-WCMC, IUCN",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 14,
@@ -2611,7 +2611,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " FAO",
       "other goals": "2, 12",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 14,
@@ -2624,7 +2624,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 14,
@@ -2637,7 +2637,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 14,
@@ -2650,7 +2650,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 14,
@@ -2663,7 +2663,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 14,
@@ -2676,7 +2676,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 14,
@@ -2689,7 +2689,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 14,
@@ -2702,7 +2702,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 14,
@@ -2715,7 +2715,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 14,
@@ -2728,7 +2728,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 14,
@@ -2741,7 +2741,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 14,
@@ -2754,7 +2754,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 14,
@@ -2767,7 +2767,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ",
       "other goals": " ",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 15,
@@ -2780,7 +2780,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "FAO, UNEP",
       "other goals": "2, 12, 13",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 15,
@@ -2793,7 +2793,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "FAO, UNEP",
       "other goals": "12",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 15,
@@ -2806,7 +2806,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "FAO, UNEP",
       "other goals": "2",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 15,
@@ -2819,7 +2819,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " IUCN",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 15,
@@ -2832,7 +2832,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " UNEP-WCMC",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 15,
@@ -2845,7 +2845,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 15,
@@ -2858,7 +2858,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 15,
@@ -2871,7 +2871,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 15,
@@ -2884,7 +2884,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 15,
@@ -2897,7 +2897,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ",
       "other goals": " ",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 15,
@@ -2910,7 +2910,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 15,
@@ -2923,7 +2923,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 15,
@@ -2936,7 +2936,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 15,
@@ -2949,7 +2949,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 15,
@@ -2962,7 +2962,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ",
       "other goals": " ",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 16,
@@ -2975,7 +2975,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UNODC, WHO, UNOCHA",
       "other goals": "3, 5, 11",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 16,
@@ -2988,7 +2988,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UNHCR, OCHA, IOM",
       "other goals": "3",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 16,
@@ -3001,7 +3001,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " OECD",
       "other goals": "17",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 16,
@@ -3014,7 +3014,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UN Global Compact, EITI, and/or UNCTAD",
       "other goals": "17",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 16,
@@ -3027,7 +3027,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " UNICEF",
       "other goals": "3, 5, 10",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 16,
@@ -3040,7 +3040,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " UNESCO",
       "other goals": "10",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 16,
@@ -3053,7 +3053,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "Transparency International",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 16,
@@ -3066,7 +3066,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 16,
@@ -3079,7 +3079,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 16,
@@ -3092,7 +3092,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 16,
@@ -3105,7 +3105,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 16,
@@ -3118,7 +3118,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 16,
@@ -3131,7 +3131,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 16,
@@ -3144,7 +3144,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 16,
@@ -3157,7 +3157,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 16,
@@ -3170,7 +3170,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ",
       "other goals": " ",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 17,
@@ -3183,7 +3183,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " IMF",
       "other goals": "10",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 17,
@@ -3196,7 +3196,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " OECD",
       "other goals": "10",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 17,
@@ -3209,7 +3209,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " OECD DAC",
       "other goals": "10",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 17,
@@ -3222,7 +3222,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "BIS, IASB, IFRS, IMF, WIPO, WTO",
       "other goals": "2, 10",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 17,
@@ -3235,7 +3235,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": " ",
       "other goals": " ",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 17,
@@ -3248,7 +3248,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UNSD, OECD World Bank",
       "other goals": "10, 11",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 17,
@@ -3261,7 +3261,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "SDSN, OECD",
       "other goals": "3",
-      "category": " "
+      "available": "","category": " "
     },
     {
       "goal": 17,
@@ -3274,7 +3274,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": ""
+      "available": "","category": ""
     },
     {
       "goal": 17,
@@ -3287,7 +3287,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 17,
@@ -3300,7 +3300,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 17,
@@ -3313,7 +3313,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 17,
@@ -3326,7 +3326,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 17,
@@ -3339,7 +3339,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 17,
@@ -3352,7 +3352,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 17,
@@ -3365,7 +3365,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 17,
@@ -3378,7 +3378,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 17,
@@ -3391,7 +3391,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     },
     {
       "goal": 17,
@@ -3404,7 +3404,7 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "category": "Complementary National Indicator"
+      "available": "","category": "Complementary National Indicator"
     }
   ]
 }
