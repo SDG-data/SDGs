@@ -30,7 +30,7 @@ function update_stats(sdgs){
 
 function add_stack_plot(stats){
  var data = {
-    labels: d3.range(1, sdgs[0]["goals"].length+1),
+    labels: d3.range(1, sdgs[0]["goals"].length+1).map(function(i){return "Goal "+i}),
     datasets: [
         {
             label: "Targets",
@@ -66,7 +66,9 @@ function add_stack_plot(stats){
 
  var canvas = document.getElementById("barplot")
  var ctx= canvas.getContext("2d"); 
+ Chart.defaults.global.multiTooltipTemplate = "<%= value %> <%= datasetLabel %> ";
  var myBarChart = new Chart(ctx).Bar(data, options);
+ 
 } 
   
   
