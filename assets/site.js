@@ -25,7 +25,54 @@ function update_stats(sdgs){
  document.getElementById("goals-num").innerHTML = sdgs[0]["goals"].length+" Goals";
  document.getElementById("targets-num").innerHTML = sdgs[1]["targets"].length+" Targets";
  document.getElementById("indicators-num").innerHTML = sdgs[2]["indicators"].length+" Indicators";
+ add_stack_plot(stats);
 }
+
+function add_stack_plot(stats){
+ var data = {
+    labels: d3.range(1, sdgs[0]["goals"].length+1),
+    datasets: [
+        {
+            label: "Targets",
+            fillColor: "rgba(220,220,220,0.5)",
+            strokeColor: "rgba(220,220,220,0.8)",
+            highlightFill: "rgba(220,220,220,0.75)",
+            highlightStroke: "rgba(220,220,220,1)",
+            data: stats["goal_targets"] 
+        },
+        {
+            label: "Indicators",
+            fillColor: "rgba(151,187,205,0.5)",
+            strokeColor: "rgba(151,187,205,0.8)",
+            highlightFill: "rgba(151,187,205,0.75)",
+            highlightStroke: "rgba(151,187,205,1)",
+            data: stats["goal_indicators"] 
+        }
+    ]
+ };
+ var options = {
+    scaleBeginAtZero : true,
+    scaleShowGridLines : true,
+    scaleGridLineColor : "rgba(0,0,0,.05)",
+    scaleGridLineWidth : 1,
+    scaleShowHorizontalLines: true,
+    scaleShowVerticalLines: true,
+    barShowStroke : true,
+    barStrokeWidth : 2,
+    barValueSpacing : 5,
+    barDatasetSpacing : 1,
+
+}
+
+ var canvas = document.getElementById("barplot")
+ var ctx= canvas.getContext("2d"); 
+ var myBarChart = new Chart(ctx).Bar(data, options);
+} 
+  
+  
+  
+  
+  
 function list_goals(sdgs){
   var sdgList = document.getElementById("sdgList"); 
   var goals=sdgs[0]["goals"];
@@ -54,6 +101,9 @@ function append_row(hookElement,row){
   }
 }
 
+function array_num(size,num){
+  return Array.apply(null, new Array(size)).map(Number.prototype.valueOf,num);
+}
 
 function add_targets(sdgs){
   var targets=sdgs[1]["targets"];
