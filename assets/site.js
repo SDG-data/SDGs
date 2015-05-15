@@ -1,6 +1,7 @@
 
 //Read Goals, Targets and Indicators
-var sdgs=[]
+var sdgs = [];
+var stats = {};
 
 files = ["goals","targets","indicators"];
 files.forEach(function (f) {
@@ -17,10 +18,18 @@ function data_loaded(sdgs){
   list_goals(sdgs);
   add_targets(sdgs);
   add_indicators(sdgs);
+  update_stats(sdgs);
+}
+
+function update_stats(sdgs){
+ document.getElementById("goals-num").innerHTML = sdgs[0]["goals"].length+" Goals";
+ document.getElementById("targets-num").innerHTML = sdgs[1]["targets"].length+" Targets";
+ document.getElementById("indicators-num").innerHTML = sdgs[2]["indicators"].length+" Indicators";
 }
 function list_goals(sdgs){
   var sdgList = document.getElementById("sdgList"); 
   var goals=sdgs[0]["goals"];
+  stats["goals"]=goals.length;
   for (var i in goals){
     var goal= goals[i];
     append_li(sdgList,"goal-"+goal["goal"],goal["goal"]+": "+goal["title"]);
@@ -48,8 +57,11 @@ function append_row(hookElement,row){
 
 function add_targets(sdgs){
   var targets=sdgs[1]["targets"];
+  stats["targets"] = targets.length;
+  stats["goal_targets"] = array_num(targets.length,0);
   for (var i in targets){
-    var target=targets[i]; 
+    var target=targets[i];
+    stats["goal_targets"][target["goal"]-1]++;
     var goalLi = document.getElementById("goal-"+target["goal"]);
     var targetId="goal-"+target["goal"]+"-targets";
     if ( document.getElementById(targetId) == null) {
@@ -65,8 +77,12 @@ function add_targets(sdgs){
 
 function add_indicators(sdgs){
   var indicators=sdgs[2]["indicators"];
+  stats["indicators"] = indicators.length;
+  stats["goal_indicators"] = array_num(indicators.length,0);
+  
   for (var i in indicators){
     var indicator=indicators[i]; 
+    stats["goal_indicators"][indicator["goal"]-1]++;
     var goalLi = document.getElementById("goal-"+indicator["goal"]);
     var indicatorsId="goal-"+indicator["goal"]+"-indicators";
     if (document.getElementById(indicatorsId) == null) {
