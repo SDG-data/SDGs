@@ -1,3 +1,5 @@
+> To see the main visualization, you can use [this rendering linker](https://rawgit.com/SDG-data/SDGs/master/index.html).
+
 # SDGs
 Data for the Sustainable Development Goals.
 
