@@ -1,3 +1,6 @@
+[![](https://travis-ci.org/SDG-data/SDGs.svg?branch=master)](https://travis-ci.org/SDG-data/SDGs)
+
+
 > To visualize this data, go to e.g. [this website](http://sdg-data.github.io/web/) which comes from the [website code repository](https://github.com/SDG-data/web) 
 
 # SDGs
