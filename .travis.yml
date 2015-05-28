@@ -1,5 +1,5 @@
 language: bash
 
 before_script:
-      - bash /tests/install_deps.sh
-script: bash /tests/test.sh
+      - bash tests/install_deps.sh
+script: bash tests/test.sh
