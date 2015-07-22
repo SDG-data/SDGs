@@ -3598,5 +3598,13 @@
       "available": "",
       "category": "Complementary National Indicator"
     }
-  ]
+  ],
+  "meta": {
+    "id": "indicators",
+    "description": "Indicators of the SDGs"
+  },
+  "source": {
+    "url": "https://sustainabledevelopment.un.org/sdgsproposal",
+    "date": "28/04/2015"
+  }
 }

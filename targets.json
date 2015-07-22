@@ -849,5 +849,9 @@
   "source": {
     "url": "https://sustainabledevelopment.un.org/content/documents/1579SDGs%20Proposal.pdf",
     "date": "02/05/2015"
+  },
+  "meta": {
+    "id": "targets",
+    "description": "Targets of the SDGs"
   }
 }
