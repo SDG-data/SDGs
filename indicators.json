@@ -51,7 +51,7 @@
         "meta": ""
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": " ILO",
+      "leads": "ILO",
       "other goals": "8, 10, 11",
       "available": "",
       "category": " "
@@ -65,7 +65,7 @@
         "meta": ""
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": "FAO, UNDP, UN- Habitat",
+      "leads": "FAO, UNDP, UN-Habitat",
       "other goals": "2, 5, 10, 11",
       "available": "",
       "category": " "
@@ -3598,5 +3598,13 @@
       "available": "",
       "category": "Complementary National Indicator"
     }
-  ]
+  ],
+  "meta": {
+    "id": "indicators",
+    "description": "Indicators of the SDGs"
+  },
+  "source": {
+    "url": "https://sustainabledevelopment.un.org/sdgsproposal",
+    "date": "28/04/2015"
+  }
 }

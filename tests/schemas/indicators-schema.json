@@ -71,6 +71,40 @@
         "additionalProperties": false
       },
       "additionalItems": false
+    },
+    "source": {
+      "id": "source",
+      "type": "object",
+      "properties": {
+        "url": {
+          "id": "url",
+          "type": "string",
+            "required": true
+        },
+        "date": {
+          "id": "date",
+          "type": "string",
+            "required": true
+        }
+      },
+      "additionalProperties": false
+    },
+    "meta": {
+      "id": "meta",
+      "type": "object",
+      "properties": {
+        "id": {
+          "id": "id",
+          "type": "string",
+            "required": true
+        },
+        "description": {
+          "id": "description",
+          "type": "string",
+            "required": true
+        }
+      },
+      "additionalProperties": false
     }
   },
   "additionalProperties": false

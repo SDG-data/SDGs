@@ -44,6 +44,23 @@
         }
       },
       "additionalProperties": false
+    },
+    "meta": {
+      "id": "meta",
+      "type": "object",
+      "properties": {
+        "id": {
+          "id": "id",
+          "type": "string",
+            "required": true
+        },
+        "description": {
+          "id": "description",
+          "type": "string",
+            "required": true
+        }
+      },
+      "additionalProperties": false
     }
   },
   "additionalProperties": false,

@@ -72,5 +72,9 @@
   "source": {
     "url": "https://sustainabledevelopment.un.org/sdgsproposal",
     "date": "28/04/2015"
+  },
+  "meta": {
+    "id": "goals",
+    "description": "Goals of the SDGs"
   }
 }
