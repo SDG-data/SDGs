@@ -17,6 +17,11 @@
             "id": "title",
             "type": "string",
             "required": true
+          },
+          "short": {
+            "id": "short",
+            "type": "string",
+            "required": true
           }
         },
         "additionalProperties": false
