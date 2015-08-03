@@ -1472,16 +1472,16 @@
     },
     {
       "goal": 5,
-      "indicator": " Percentage of girls and women aged 15-49 years who have undergone FGM/C",
+      "indicator": "Percentage of girls and women aged 15-49 years who have undergone FGM/C",
       "data": {
-        "url": "",
-        "format": "",
+        "url": "http://data.unicef.org/download.php?file=FGMC%20-%20Women%20prevalence%20database_38_updated%20Oct%202014_38.xlsx&type=topics",
+        "format": "UNICEF-data",
         "meta": ""
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": " UNICEF",
+      "leads": "UNICEF",
       "other goals": "3",
-      "available": "",
+      "available": "29 countries",
       "category": ""
     },
     {
@@ -1514,30 +1514,30 @@
     },
     {
       "goal": 5,
-      "indicator": " Met demand for family planning (modified MDG Indicator)",
+      "indicator": "Met demand for family planning (modified MDG Indicator)",
       "data": {
-        "url": "",
+        "url": "http://www.un.org/en/development/desa/population/theme/family-planning/cp_model.shtml",
         "format": "",
         "meta": ""
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "UN Population Division, UNFPA",
       "other goals": "3",
-      "available": "",
+      "available": "Based on model",
       "category": ""
     },
     {
       "goal": 5,
       "indicator": "Gender gap in wages, by sector of economic activity",
       "data": {
-        "url": "",
+        "url": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tsdsc340&plugin=1",
         "format": "",
         "meta": ""
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": "",
+      "leads": "Eurostat",
       "other goals": "",
-      "available": "",
+      "available": "28 countries",
       "category": "Complementary National Indicator"
     },
     {
@@ -1549,51 +1549,55 @@
         "meta": ""
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": "",
+      "leads": "Catalyst",
       "other goals": "",
-      "available": "",
+      "available": "44 countries",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 5,
       "indicator": "Percentage of women without incomes of their own",
       "data": {
-        "url": "",
+        "url": "http://www.cpc.unc.edu/measure/prh/rh_indicators/crosscutting/wgse/percent-of-women-who-mainly-decide-how-their-own",
         "format": "",
         "meta": ""
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "available": "",
+      "available": "unclear",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 5,
       "indicator": "Adolescent birth rate (MDG Indicator)",
       "data": {
-        "url": "",
-        "format": "",
-        "meta": ""
+        "url": "http://data.worldbank.org/indicator/SP.ADO.TFRT",
+        "format": "WB-API",
+        "meta": "",
+        "api" : {
+          "vendor" : "WB-API",
+          "id" :"SP.ADO.TFRT"
+        }
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": "",
+      "leads": "United Nations Population Division, World Population Prospects",
       "other goals": "",
-      "available": "",
+      "available": "215 countries",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 5,
       "indicator": "Percentage of young people receiving comprehensive sexuality education",
       "data": {
-        "url": "",
+        "url": "http://www.cpc.unc.edu/measure/prh/rh_indicators/specific/arh/number-percent-of-schools-offering-comprehensive",
         "format": "",
         "meta": ""
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
       "other goals": "",
-      "available": "",
+      "available": "unclear",
       "category": "Complementary National Indicator"
     },
     {
