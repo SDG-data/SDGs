@@ -14,6 +14,11 @@
             "type": "integer",
             "required": true
           },
+          "targets": {
+            "id": "targets",
+            "type": "string",
+            "required": true
+          },
           "indicator": {
             "id": "indicator",
             "type": "string",
@@ -56,6 +61,11 @@
             "id": "other-goals",
             "type": "string",
             "required": true
+          },
+          "other targets": {
+            "id": "other-targets",
+            "type": "string",
+            "required": false
           },
           "available": {
             "id": "available",
