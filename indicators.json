@@ -12,13 +12,13 @@
       "leads": "World Bank",
       "other goals": "8",
       "available": "",
-      "category": "MDG Indicator"
+      "category": "MDG Indicator, 100"
     },
     {
       "goal": 1,
       "indicator": "Proportion of population living below national poverty line, by urban/rural ",
       "data": {
-        "url": "",
+        "url": "http://data.worldbank.org/indicator/SI.POV.NAHC",
         "format": "",
         "meta": ""
       },
@@ -26,7 +26,7 @@
       "leads": "World Bank, UN DESA",
       "other goals": "11",
       "available": "",
-      "category": "modified MDG Indicator"
+      "category": "modified MDG Indicator, 100"
     },
     {
       "goal": 1,
