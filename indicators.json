@@ -2,7 +2,7 @@
   "indicators": [
     {
       "goal": 1,
-      "targets": "",
+      "targets": "1.1",
       "indicator": " Proportion of population below $1.25 (PPP) per day",
       "data": {
         "url": "http://data.worldbank.org/indicator/SI.POV.DDAY",
@@ -33,7 +33,7 @@
     },
     {
       "goal": 1,
-      "targets": "",
+      "targets": "1.1,1.2",
       "indicator": " Multidimensional Poverty Index",
       "data": {
         "url": "",
@@ -44,12 +44,11 @@
       "leads": "UNDP, World Bank, UNSD, UNICEF",
       "other goals": "2, 3, 4, 8, 11",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 1,
-      "targets": "",
-      "targets": "",
+      "targets": "1.1,1.3,5.4,10.4,11.1",
       "indicator": "Percentage of eligible population covered by national social protection programs",
       "data": {
         "url": "",
@@ -60,7 +59,7 @@
       "leads": "ILO",
       "other goals": "8, 10, 11",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 1,
