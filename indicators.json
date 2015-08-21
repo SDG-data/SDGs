@@ -3618,33 +3618,33 @@
     },
     {
       "goal": 17,
-      "targets": "",
+      "targets": "1.b,2.a,3.c,3.d,4.c,7.a,9.a,10.b,15.a,15.b,17.2,17.16",
       "indicator": "Official development assistance and net private grants as percent of GNI",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": " OECD",
+      "source": "http://indicators.report/indicators/i-96/",
+      "leads": " OECD DAC",
       "other goals": "10",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 17,
-      "targets": "",
+      "targets": "1.b,2.a,7.a,10.5,10.b,15.a,15.b,17.3",
       "indicator": "Private net flows for sustainable development at market rates as share of high-income country GNI, by sector",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-97/",
       "leads": " OECD DAC",
       "other goals": "10",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 17,
@@ -3659,52 +3659,52 @@
       "leads": "BIS, IASB, IFRS, IMF, WIPO, WTO",
       "other goals": "2, 10",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 17,
-      "targets": "",
-      "indicator": "[other organizations to be added] on the relationship between international rules and the SDGs and the implementation of relevant SDG targets",
+      "targets": "1.a,1.b,2.b,8.a,9.a,10.5,10.6,10.7,10.a,12.c,14.c,16.8,17.10,17.12,17.13,17.14,17.15",
+      "indicator": "Annual report by [other organizations to be added] on the relationship between international rules and the SDGs and the implementation of relevant SDG targets",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": "",
-      "other goals": "",
+      "source": "http://indicators.report/indicators/i-98/",
+      "leads": "BIS, IASB, IFRS, IMF, WIPO, WTO",
+      "other goals": "2, 10",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 17,
-      "targets": "",
+      "targets": "1.a, 17.18",
       "indicator": " Share of SDG Indicators that are reported annually",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": "UNSD, OECD, World Bank",
+      "source": "http://indicators.report/indicators/i-99/",
+      "leads": "UNSD",
       "other goals": "10, 11",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 17,
-      "targets": "",
+      "targets": "17.19",
       "indicator": " Evaluative Wellbeing and Positive Mood Affect",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-100/",
       "leads": "SDSN, OECD",
       "other goals": "3",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 17,
