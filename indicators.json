@@ -1938,48 +1938,48 @@
     },
     {
       "goal": 7,
-      "targets": "",
+      "targets": "7.1,7.b,9.1,11.1",
       "indicator": "Share of the population using reliable electricity, by urban/rural",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-51/",
       "leads": "Sustainable Energy for All, IEA, World Bank",
       "other goals": "1, 3, 5, 9, 11, 12",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 7,
-      "targets": "",
+      "targets": "7.2,7.b,8.4,13.2",
       "indicator": "Implicit incentives for low-carbon energy in the electricity sector (measured as US$/MWh or US$ per ton avoided CO2)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-52/",
       "leads": "IEA, UNFCCC",
       "other goals": "11, 13",
-      "available": "",
-      "category": ""
+      "available": "C",
+      "category": "100"
     },
     {
       "goal": 7,
-      "targets": "",
+      "targets": "7.3,13.2",
       "indicator": " Rate of primary energy intensity improvement",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-53/",
       "leads": "Sustainable Energy for All, IEA",
       "other goals": "11, 13",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 7,
@@ -2028,7 +2028,7 @@
     },
     {
       "goal": 8,
-      "targets": "",
+      "targets": "8.1,17.13",
       "indicator": "GNI per capita (PPP, current US$ Atlas method)",
       "data": {
         "url": "",
@@ -2038,53 +2038,53 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "IMF, World Bank, UNSD",
       "other goals": "11",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 8,
-      "targets": "",
+      "targets": "8.4,12.1,12.2,12.4,15.9,17.18",
       "indicator": "Country implements and reports on System of Environmental-Economic Accounting (SEEA) accounts",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-55/",
       "leads": " UNSD",
       "other goals": "12, 17",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 8,
-      "targets": "",
+      "targets": "8.3,8.5,8.6,8.b",
       "indicator": "Youth employment rate, by formal and informal sector",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-56/",
       "leads": " ILO",
       "other goals": "11",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 8,
-      "targets": "",
+      "targets": "8.3,8.5,8.7,8.8,8.b,10.2,10.3,10.4,16.2",
       "indicator": " Ratification and implementation of fundamental ILO labor standards and compliance in law and practice",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-57/",
       "leads": " ILO",
       "other goals": "5, 9, 10, 11, 17",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 8,
@@ -2223,93 +2223,93 @@
     },
     {
       "goal": 9,
-      "targets": "",
-      "indicator": " Access to all-weather road (% access within [x] km distance to road)",
+      "targets": "9.1,11.2",
+      "indicator": "Access to all-weather road (% access within [x] km distance to road)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-58/",
       "leads": "World Bank",
       "other goals": "2, 7, 11",
-      "available": "",
-      "category": ""
+      "available": "B",
+      "category": "100"
     },
     {
       "goal": 9,
-      "targets": "",
+      "targets": "2.a,5.b,8.2,9.1,9.c,17.6",
       "indicator": "Mobile broadband subscriptions per 100 inhabitants, by urban/rural",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-59/",
       "leads": " ITU",
       "other goals": "2, 11, 17",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 9,
-      "targets": "",
+      "targets": "8.2,9.1,9.4,9.c,17.6",
       "indicator": " Index on ICT maturity",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-60/",
       "leads": " ITU",
       "other goals": "17",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 9,
-      "targets": "",
+      "targets": "8.2,9.2",
       "indicator": " Manufacturing value added (MVA) as percent of GDP",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-61/",
       "leads": "World Bank, OECD, UNIDO",
       "other goals": "8, 11",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 9,
-      "targets": "",
+      "targets": "9.4,13.2",
       "indicator": "Total energy and industry-related GHG emissions by gas and sector, expressed as production and demand-based emissions (tCO2e)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-62/",
       "leads": "UNFCCC, OECD, UNIDO",
       "other goals": "7, 11, 13",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 9,
-      "targets": "",
+      "targets": "8.2,9.5,12.a,14.a,17.6",
       "indicator": " Personnel in R&D (per million inhabitants)",
       "data": {
-        "url": "",
+        "url": "http://data.uis.unesco.org/",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": "OECD, UNESCO",
+      "source": "http://indicators.report/indicators/i-63/",
+      "leads": "OECD, UNESCO UIS",
       "other goals": "8, 17",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 9,
@@ -2343,33 +2343,33 @@
     },
     {
       "goal": 10,
-      "targets": "",
+      "targets": "10.1",
       "indicator": "[Indicator on inequality at top end of income distribution: GNI share of richest 10% or Palma ratio]",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-64/",
       "leads": "UNSD, World Bank, OECD",
       "other goals": "1, 8",
-      "available": "",
-      "category": ""
+      "available": "B",
+      "category": "100"
     },
     {
       "goal": 10,
-      "targets": "",
+      "targets": "10.1",
       "indicator": "Percentage of households with incomes below 50% of median income ('relative poverty')",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-65/",
       "leads": "World Bank, OECD, UNSD",
       "other goals": "1, 8",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 10,
@@ -2463,48 +2463,48 @@
     },
     {
       "goal": 11,
-      "targets": "",
+      "targets": "11.1",
       "indicator": " Percentage of urban population living in slums or informal settlements (MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-66/",
       "leads": "UN-Habitat, Global City Indicators Facility",
       "other goals": "1, 6",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 11,
-      "targets": "",
+      "targets": "11.2",
       "indicator": "Percentage of people within 0.5km of public transit running at least every 20 minutes.",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-67/",
       "leads": " UN-Habitat",
       "other goals": "9",
-      "available": "",
-      "category": ""
+      "available": "B",
+      "category": "100"
     },
     {
       "goal": 11,
-      "targets": "",
+      "targets": "11.3,11.6,11.7",
       "indicator": "[Ratio of land consumption rate to population growth rate, at comparable scale]",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-68/",
       "leads": "UN-Habitat, World Bank",
       "other goals": "3, 12",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 11,
@@ -2523,48 +2523,47 @@
     },
     {
       "goal": 11,
-      "targets": "",
+      "targets": "3.9,9.4,11.6,12.4",
       "indicator": " Mean urban air pollution of particulate matter (PM10 and PM2.5)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-69/",
       "leads": "UN-Habitat, UNEP, WHO",
       "other goals": "9, 11, 12",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 11,
-      "targets": "",
+      "targets": "11.7",
       "indicator": " Area of public and green space as a proportion of total city space",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": " UN-Habitat",
+      "source": "http://indicators.report/indicators/i-70/",
+      "leads": " UN-Habitat, World Bank",
       "other goals": "13, 17",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 11,
-      "targets": "",
+      "targets": "9.4,11.6,12.5",
       "indicator": " Percentage of urban solid waste regularly collected and well managed",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": "UN-Habitat, WHO",
+      "source": "http://indicators.report/indicators/i-71/",
       "other goals": "",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 11,
@@ -2673,93 +2672,78 @@
     },
     {
       "goal": 12,
-      "targets": "",
+      "targets": "12.2",
       "indicator": " Disclosure of Natural Resource Rights Holdings",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": "EITI, UNCTAD, UN Global Compact",
+      "source": "http://indicators.report/indicators/i-72/",
+      "leads": "IMF, NRGI, UN Global Compact, EITI, UNCTAD",
       "other goals": "15, 16, 17",
-      "available": "",
-      "category": ""
+      "available": "C",
+      "category": "100"
     },
     {
       "goal": 12,
-      "targets": "",
+      "targets": "12.3,12.5",
       "indicator": " Global Food Loss Indicator [or other indicator to be developed to track the share of food lost or wasted in the value chain after harvest]",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-73/",
       "leads": " FAO",
       "other goals": "2, 11",
-      "available": "",
-      "category": ""
+      "available": "C",
+      "category": "100"
     },
     {
       "goal": 12,
-      "targets": "",
+      "targets": "8.4,12.4",
       "indicator": " Consumption of ozone-depleting substances (MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-74/",
       "leads": "UNEP Ozone Secretariat",
       "other goals": "9",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 12,
-      "targets": "",
+      "targets": "8.4,12.4",
       "indicator": " Aerosol optical depth (AOD)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-75/",
       "leads": " UNEP",
       "other goals": "9, 11, 13",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 12,
-      "targets": "",
-      "indicator": "",
-      "data": {
-        "url": "",
-        "format": "",
-        "meta": ""
-      },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": "",
-      "other goals": "",
-      "available": "",
-      "category": ""
-    },
-    {
-      "goal": 12,
-      "targets": "",
+      "targets": "10.5,12.6",
       "indicator": " [Share of companies valued at more than [$1 billion] that publish integrated monitoring]",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-76/",
       "leads": "Global Compact, WBCSD, GRI, IIRC",
       "other goals": "8, 17",
-      "available": "",
-      "category": ""
+      "available": "B",
+      "category": "100"
     },
     {
       "goal": 12,
@@ -2853,63 +2837,63 @@
     },
     {
       "goal": 13,
-      "targets": "",
+      "targets": "13.2,13.3,13.b,14.3",
       "indicator": "Availability and implementation of a transparent and detailed deep decarbonization strategy, consistent with the 2¬∞C - or below - global carbon budget, and with GHG emission targets for 2020, 2030 and 2050.",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-77/",
       "leads": " UNFCCC",
       "other goals": "9, 11, 12, 17",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 13,
-      "targets": "",
+      "targets": "14.3",
       "indicator": "CO2 intensity of new power generation capacity installed (gCO2 per kWh), and of new cars (gCO2/pkm) and trucks (gCO2/tkm)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-78/",
       "leads": "UNFCCC, IEA",
       "other goals": "7, 8, 9, 11",
-      "available": "",
-      "category": ""
+      "available": "Power sector A /Transport sector B",
+      "category": "100"
     },
     {
       "goal": 13,
-      "targets": "",
-      "indicator": "Net GHG emissions in the Agriculture, Forest and other Land Use (AFOLU) sector\n(tCO2e)",
+      "targets": "8.4,13.2,14.3",
+      "indicator": "Net GHG emissions in the Agriculture, Forest and other Land Use (AFOLU) sector (tCO2e)",
       "data": {
-        "url": "",
+        "url": "http://unfccc.int/ghg_data/ghg_data_unfccc/time_series_annex_i/items/3814.php",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-79/",
       "leads": " UNFCCC",
       "other goals": "2, 15",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 13,
-      "targets": "",
+      "targets": "13.2,13.3,13.a",
       "indicator": " Official climate financing from developed countries that is incremental to ODA (in US$)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": "OECD DAC, UNFCCC, IEA",
+      "source": "http://indicators.report/indicators/i-80/",
+      "leads": "OECD DAC, UNFCCC",
       "other goals": "17",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 13,
@@ -2943,33 +2927,33 @@
     },
     {
       "goal": 14,
-      "targets": "",
+      "targets": "6.6,14.1,14.2,14.5",
       "indicator": " Share of coastal and marine areas that are protected",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": "UNEP-WCMC, IUCN",
+      "source": "http://indicators.report/indicators/i-81/",
+      "leads": "UNEP-WCMC, IUCN, WDPA",
       "other goals": "",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 14,
-      "targets": "",
+      "targets": "2.3,14.4,14.6,14.7",
       "indicator": " Percentage of fish tonnage landed within Maximum Sustainable Yield (MSY)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-82/",
       "leads": " FAO",
       "other goals": "2, 12",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 14,
@@ -3153,78 +3137,78 @@
     },
     {
       "goal": 15,
-      "targets": "",
+      "targets": "2.4,15.1",
       "indicator": " Annual change in forest area and land under cultivation (modified MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-83/",
       "leads": "FAO, UNEP",
       "other goals": "2, 12, 13",
-      "available": "",
-      "category": ""
+      "available": "B",
+      "category": "100"
     },
     {
       "goal": 15,
-      "targets": "",
+      "targets": "6.6,15.1,15.2",
       "indicator": " Area of forest under sustainable forest management as a percent of forest area",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-84/",
       "leads": "FAO, UNEP",
       "other goals": "12",
-      "available": "",
-      "category": ""
+      "available": "B",
+      "category": "100"
     },
     {
       "goal": 15,
-      "targets": "",
+      "targets": "2.4,15.2,15.3",
       "indicator": " Annual change in degraded or desertified arable land (% or ha)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-85/",
       "leads": "FAO, UNEP",
       "other goals": "2",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 15,
-      "targets": "",
+      "targets": "11.4,15.5,15.7,15.c",
       "indicator": " Red List Index",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-86/",
       "leads": " IUCN",
       "other goals": "",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 15,
-      "targets": "",
+      "targets": "11.4,14.2,15.5,15.c",
       "indicator": " Protected areas overlay with biodiversity",
       "data": {
-        "url": "",
+        "url": "http://www.bipindicators.net/paoverlays",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-87/",
       "leads": " UNEP-WCMC",
       "other goals": "",
-      "available": "",
-      "category": ""
+      "available": "B",
+      "category": "100"
     },
     {
       "goal": 15,
@@ -3363,108 +3347,108 @@
     },
     {
       "goal": 16,
-      "targets": "",
-      "indicator": "Violent injuries and deaths per 100, 000 population",
+      "targets": "5.1,5.2,16.1,16.2",
+      "indicator": "Violent injuries and deaths per 100,000 population",
       "data": {
-        "url": "",
+        "url": "http://www.unodc.org/unodc/en/data-and-analysis/statistics/index.html; http://www.pcr.uu.se/research/ucdp/database",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-88/",
       "leads": "UNODC, WHO, UNOCHA",
       "other goals": "3, 5, 11",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 16,
-      "targets": "",
+      "targets": "10.7,16.1",
       "indicator": " Number of refugees",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-89/",
       "leads": "UNHCR, OCHA, IOM",
       "other goals": "3",
-      "available": "",
-      "category": ""
+      "available": "B",
+      "category": "100"
     },
     {
       "goal": 16,
-      "targets": "",
+      "targets": "16.4,17.1",
       "indicator": " Proportion of legal persons and arrangements for which beneficial ownership information is publicly available",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-90/",
       "leads": " OECD",
       "other goals": "17",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 16,
-      "targets": "",
+      "targets": "12.2,16.5,16.6",
       "indicator": "Revenues, expenditures, and financing of all central government entities are presented on a gross basis in public budget documentation and authorized by the legislature",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": "UN Global Compact, EITI, UNCTAD",
+      "source": "http://indicators.report/indicators/i-91/",
+      "leads": "IMF, UN Global Compact, EITI, UNCTAD",
       "other goals": "17",
-      "available": "",
-      "category": ""
+      "available": "C",
+      "category": "100"
     },
     {
       "goal": 16,
-      "targets": "",
+      "targets": "16.9",
       "indicator": "Percentage of children under age 5 whose birth is registered with a civil authority",
       "data": {
-        "url": "",
+        "url": "http://mics.unicef.org/",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-92/",
       "leads": " UNICEF",
       "other goals": "3, 5, 10",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 16,
-      "targets": "",
+      "targets": "16.10",
       "indicator": " Existence and implementation of a national law and/or constitutional guarantee on the right to information",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-93/",
       "leads": " UNESCO",
       "other goals": "10",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 16,
-      "targets": "",
+      "targets": "16.5,16.6",
       "indicator": " Perception of public sector corruption",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-94/",
       "leads": "Transparency International",
       "other goals": "",
-      "available": "",
-      "category": ""
+      "available": "C",
+      "category": "100"
     },
     {
       "goal": 16,
@@ -3603,18 +3587,18 @@
     },
     {
       "goal": 17,
-      "targets": "",
+      "targets": "1.b,2.a,3.c,3.d,4.c,7.a,11.3,11.a,15.a,15.b,17.1",
       "indicator": "Domestic revenues allocated to sustainable development as percent of GNI, by sector",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-95/",
       "leads": " IMF",
       "other goals": "10",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 17,
@@ -3628,7 +3612,7 @@
       "source": "http://indicators.report/indicators/i-96/",
       "leads": " OECD DAC",
       "other goals": "10",
-      "available": "",
+      "available": "A",
       "category": "100"
     },
     {
@@ -3648,23 +3632,8 @@
     },
     {
       "goal": 17,
-      "targets": "",
-      "indicator": "Annual report by Bank for International Settlements (BIS), International Accounting Standards Board (IASB), International Financial Reporting Standards (IFRS), International Monetary Fund (IMF), World Intellectual Property Organization (WIPO), and World Trade Organization (WTO)",
-      "data": {
-        "url": "",
-        "format": "",
-        "meta": ""
-      },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": "BIS, IASB, IFRS, IMF, WIPO, WTO",
-      "other goals": "2, 10",
-      "available": "",
-      "category": "100"
-    },
-    {
-      "goal": 17,
       "targets": "1.a,1.b,2.b,8.a,9.a,10.5,10.6,10.7,10.a,12.c,14.c,16.8,17.10,17.12,17.13,17.14,17.15",
-      "indicator": "Annual report by [other organizations to be added] on the relationship between international rules and the SDGs and the implementation of relevant SDG targets",
+      "indicator": "Annual report by Bank for International Settlements (BIS), International Accounting Standards Board (IASB), International Financial Reporting Standards (IFRS), International Monetary Fund (IMF), World Intellectual Property Organization (WIPO), and World Trade Organization (WTO) [other organizations to be added] on the relationship between international rules and the SDGs and the implementation of relevant SDG targets",
       "data": {
         "url": "",
         "format": "",
