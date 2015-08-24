@@ -2546,7 +2546,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-70/",
-      "leads": " UN-Habitat, World Bank",
+      "leads": "UN-Habitat, World Bank",
       "other goals": "13, 17",
       "available": "",
       "category": "100"
@@ -2561,6 +2561,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-71/",
+      "leads": "UN-Habitat, WHO",
       "other goals": "",
       "available": "A",
       "category": "100"
