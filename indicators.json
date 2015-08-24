@@ -12,23 +12,23 @@
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "World Bank",
       "other goals": "8",
-      "available": "",
+      "available": "B",
       "category": "MDG Indicator, 100"
     },
     {
       "goal": 1,
       "targets": "1.2",
-      "indicator": "Proportion of population living below national poverty line, by urban/rural ",
+      "indicator": "Proportion of population living below national poverty line, by urban/rural",
       "data": {
         "url": "http://data.worldbank.org/indicator/SI.POV.NAHC",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-2/",
       "leads": "World Bank, UN DESA",
       "other goals": "11",
       "other targets": "",
-      "available": "",
+      "available": "B",
       "category": "modified MDG Indicator, 100"
     },
     {
@@ -40,10 +40,10 @@
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-3/",
       "leads": "UNDP, World Bank, UNSD, UNICEF",
       "other goals": "2, 3, 4, 8, 11",
-      "available": "",
+      "available": "B",
       "category": "100"
     },
     {
@@ -55,7 +55,7 @@
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-4/",
       "leads": "ILO",
       "other goals": "8, 10, 11",
       "available": "",
@@ -63,18 +63,18 @@
     },
     {
       "goal": 1,
-      "targets": "",
+      "targets": "1.1,1.4,2.3,5.1,5.a,10.2",
       "indicator": "Percentage of women, men, indigenous peoples, and local communities with secure rights to land, property, and natural resources, measured by (i) percentage with documented or recognized evidence of tenure, and (ii) percentage who perceive their rights are recognized and protected.",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-5/",
       "leads": "FAO, UNDP, UN-Habitat",
       "other goals": "2, 5, 10, 11",
-      "available": "",
-      "category": ""
+      "available": "C",
+      "category": "100"
     },
     {
       "goal": 1,
@@ -93,18 +93,18 @@
     },
     {
       "goal": 1,
-      "targets": "",
+      "targets": "1.2,3.7",
       "indicator": " Total fertility rate",
       "data": {
-        "url": "",
+        "url": "http://esa.un.org/unpd/wpp/",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/7-total-fertility-rate/",
       "leads": "UN Population Division, UNFPA",
       "other goals": "",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 1,
@@ -168,123 +168,123 @@
     },
     {
       "goal": 2,
-      "targets": "",
+      "targets": "2.1",
       "indicator": "Proportion of population below minimum level of dietary energy consumption (MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-8/",
       "leads": "FAO, WHO",
       "other goals": "3",
-      "available": "",
-      "category": ""
+      "available": "B",
+      "category": "100"
     },
     {
       "goal": 2,
-      "targets": "",
-      "indicator": " Percentage of women of reproductive age (15-49) with anemia",
+      "targets": "2.1,2.2",
+      "indicator": "Percentage of women of reproductive age (15-49) with anemia",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-9/",
       "leads": "FAO, WHO",
       "other goals": "3",
-      "available": "",
-      "category": ""
+      "available": "B",
+      "category": "100"
     },
     {
       "goal": 2,
-      "targets": "",
-      "indicator": " Prevalence of stunting and wasting in children under 5 years of age",
+      "targets": "2.1,2.2",
+      "indicator": "Prevalence of stunting and wasting in children under 5 years of age",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-10/",
       "leads": "WHO, UNICEF",
       "other goals": "1, 3",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 2,
-      "targets": "",
-      "indicator": " Percentage of infants under 6 months who are exclusively breast fed",
+      "targets": "2.1,2.2,3.2",
+      "indicator": "Percentage of infants under 6 months who are exclusively breast fed",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-11/",
       "leads": "WHO, UNICEF",
       "other goals": "3",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 2,
-      "targets": "",
+      "targets": "2.1",
       "indicator": "Percentage of women, 15-49 years of age, who consume at least 5 out of 10 defined food groups",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-12/",
       "leads": "FAO, WHO",
       "other goals": "3, 5",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 2,
-      "targets": "",
-      "indicator": " Crop yield gap (actual yield as % of attainable yield)",
+      "targets": "2.3,2.4",
+      "indicator": "Crop yield gap (actual yield as % of attainable yield)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-13/",
+      "leads": " FAO",
+      "other goals": "",
+      "available": "C",
+      "category": "100"
+    },
+    {
+      "goal": 2,
+      "targets": "2.3,2.5,2.a",
+      "indicator": "Number of agricultural extension workers per 1000 farmers [or share of farmers covered by agricultural extension programs and services]",
+      "data": {
+        "url": "",
+        "format": "",
+        "meta": ""
+      },
+      "source": "http://indicators.report/indicators/i-14/",
       "leads": " FAO",
       "other goals": "",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 2,
-      "targets": "",
-      "indicator": " Number of agricultural extension workers per 1000 farmers [or share of farmers covered by agricultural extension programs and services]",
+      "targets": "2.3,2.4,8.4,12.4,14.1",
+      "indicator": "Nitrogen use efficiency in food systems",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": " FAO",
+      "source": "http://indicators.report/indicators/i-15/",
+      "leads": "FAO",
       "other goals": "",
       "available": "",
-      "category": ""
-    },
-    {
-      "goal": 2,
-      "targets": "",
-      "indicator": " Nitrogen use efficiency in food systems",
-      "data": {
-        "url": "",
-        "format": "",
-        "meta": ""
-      },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": "FAO, International",
-      "other goals": "",
-      "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 2,
@@ -303,18 +303,18 @@
     },
     {
       "goal": 2,
-      "targets": "",
+      "targets": "2.3,6.4,8.4",
       "indicator": "[Crop water productivity (tons of harvested product per unit irrigation water)]",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-16/",
       "leads": " FAO",
       "other goals": "6",
-      "available": "",
-      "category": ""
+      "available": "C",
+      "category": "100"
     },
     {
       "goal": 2,
@@ -528,213 +528,213 @@
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": " Maternal mortality ratio (MDG Indicator) and rate",
+      "targets": "3.1",
+      "indicator": "Maternal mortality ratio (MDG Indicator) and rate",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-17/",
       "leads": "WHO, UN Population Division, UNICEF, World Bank",
       "other goals": "5",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 3,
-      "targets": "",
+      "targets": "3.2",
       "indicator": "Neonatal, infant, and under-5 mortality rates (modified MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-18/",
       "leads": "WHO, UNICEF, UN Population Division",
       "other goals": "",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": " Percent of children receiving full immunization (as recommended by national vaccination schedules)",
+      "targets": "3.2,3.3,3.8",
+      "indicator": "Percent of children receiving full immunization (as recommended by national vaccination schedules)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": "UNICEF, GAVI, WHO",
+      "source": "http://indicators.report/indicators/i-19/",
+      "leads": "WHO, UNICEF, GAVI",
       "other goals": "",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 3,
-      "targets": "",
+      "targets": "3.3",
       "indicator": "HIV incidence, treatment rate, and mortality (modified MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-20/",
       "leads": "WHO, UNAIDS",
       "other goals": "",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 3,
-      "targets": "",
+      "targets": "3.3",
       "indicator": "Incidence, prevalence, and death rates associated with all forms of TB (MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-21/",
       "leads": " WHO",
       "other goals": "",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 3,
-      "targets": "",
+      "targets": "3.3",
       "indicator": " Incidence and death rates associated with malaria (MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-22/",
       "leads": " WHO",
       "other goals": "",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 3,
-      "targets": "",
+      "targets": "3.4",
       "indicator": "Probability of dying between exact ages 30 and 70 from any of cardiovascular disease, cancer, diabetes, chronic respiratory disease, [or suicide]",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-23/",
       "leads": " WHO",
       "other goals": "11",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 3,
-      "targets": "",
+      "targets": "3.4",
       "indicator": "Percent of population overweight and obese, including children under 5",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-24/",
       "leads": " WHO",
       "other goals": "12",
-      "available": "",
-      "category": ""
+      "available": "B",
+      "category": "100"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Road traffic deaths per 100, 000 population",
+      "targets": "3.6,11.2",
+      "indicator": "Road traffic deaths per 100,000 population",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-25/",
       "leads": "WHO, UN-Habitat",
       "other goals": "9, 11",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 3,
-      "targets": "",
+      "targets": "3.3,3.4,3.8,11.1",
       "indicator": "[Consultations with a licensed provider in a health facility or the community per person, per year]",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-26/",
       "leads": " WHO",
       "other goals": "",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": " [Percentage of population without effective financial protection for health care]",
+      "targets": "3.3,3.8,5.1",
+      "indicator": "[Percentage of population without effective financial protection for health care]",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-27/",
       "leads": " WHO",
       "other goals": "11",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 3,
-      "targets": "",
+      "targets": "3.4",
       "indicator": "Proportion of persons with a severe mental disorder (psychosis, bipolar affective disorder, or moderate-severe depression) who are using services",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-28/",
       "leads": " WHO",
       "other goals": "",
-      "available": "",
-      "category": ""
+      "available": "C",
+      "category": "100"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": " Contraceptive prevalence rate (MDG Indicator)",
+      "targets": "3.7,5.6",
+      "indicator": "Contraceptive prevalence rate (MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-29/",
       "leads": "UN Population Division, UNFPA",
       "other goals": "5",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": " Current use of any tobacco product (age-standardized rate)",
+      "targets": "3.4,3.5,3.a",
+      "indicator": "Current use of any tobacco product (age-standardized rate)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-30/",
       "leads": " WHO",
       "other goals": "12",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 3,
@@ -1263,108 +1263,108 @@
     },
     {
       "goal": 4,
-      "targets": "",
+      "targets": "4.2,4.5",
       "indicator": " Percentage of children (36-59 months) receiving at least one year of a quality pre-primary education program",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-31/",
       "leads": "UNESCO, UNICEF, World Bank",
       "other goals": "",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 4,
-      "targets": "",
+      "targets": "4.2",
       "indicator": " Early Child Development Index (ECDI)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-32/",
       "leads": "UNICEF, UNESCO",
       "other goals": "",
-      "available": "",
-      "category": ""
+      "available": "B",
+      "category": "100"
     },
     {
       "goal": 4,
-      "targets": "",
-      "indicator": " Primary completion rates for girls and boys",
+      "targets": "4.1,4.5,4.6,5.1",
+      "indicator": "Primary completion rates for girls and boys",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-33/",
       "leads": " UNESCO",
       "other goals": "5",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 4,
-      "targets": "",
-      "indicator": "[Percentage of girls and boys who master a broad range of foundational skills, including in literacy and mathematics by the end of the primary school cycle",
+      "targets": "4.1,4.6",
+      "indicator": "[Percentage of girls and boys who master a broad range of foundational skills, including in literacy and mathematics by the end of the primary school cycle (based on credibly established national benchmarks)]",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-34/",
       "leads": " UNESCO",
-      "other goals": "5,4",
-      "available": "",
-      "category": ""
+      "other goals": "5",
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 4,
-      "targets": "",
-      "indicator": " Secondary completion rates for girls and boys",
+      "targets": "4.1,4.4,4.5,4.6,5.1,8.6",
+      "indicator": "Secondary completion rates for girls and boys",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-35/",
       "leads": " UNESCO",
       "other goals": "5, 8",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 4,
-      "targets": "",
+      "targets": "4.1,4.4,4.7",
       "indicator": "[Percentage of girls and boys who achieve proficiency across a broad range of learning outcomes, including in literacy and in mathematics by end of lower secondary schooling cycle (based on credibly established national benchmarks)]",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": " UNESCO",
+      "source": "http://indicators.report/indicators/i-36/",
+      "leads": "UNESCO",
       "other goals": "5",
-      "available": "",
-      "category": ""
+      "available": "B",
+      "category": "100"
     },
     {
       "goal": 4,
-      "targets": "",
-      "indicator": " Tertiary enrollment rates for women and men",
+      "targets": "4.3,4.4,4.5,8.6",
+      "indicator": "Tertiary enrollment rates for women and men",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": " UNESCO",
+      "source": "http://indicators.report/indicators/i-37/",
+      "leads": "UNESCO",
       "other goals": "5, 8",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 4,
@@ -1533,108 +1533,108 @@
     },
     {
       "goal": 5,
-      "targets": "",
+      "targets": "5.2,16.1",
       "indicator": " Prevalence of girls and women 15-49 who have experienced physical or sexual violence [by an intimate partner] in the last 12 months",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-38/",
       "leads": "WHO, UNSD",
       "other goals": "3",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 5,
-      "targets": "",
+      "targets": "5.2,16.3",
       "indicator": " Percentage of referred cases of sexual and gender-based violence against women and children that are investigated and sentenced",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": " UN Women",
+      "source": "http://indicators.report/indicators/i-39/",
+      "leads": "Global Network of Women Peacebuilders, UN Women",
       "other goals": "16",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 5,
-      "targets": "",
-      "indicator": " Percentage of women aged 20-24 who were married or in a union by age 18",
+      "targets": "5.3",
+      "indicator": "Percentage of women aged 20-24 who were married or in a union by age 18",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-40/",
       "leads": " UNICEF",
       "other goals": "3",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 5,
-      "targets": "",
-      "indicator": " Percentage of girls and women aged 15-49 years who have undergone FGM/C",
+      "targets": "5.3,5.6",
+      "indicator": "Percentage of girls and women aged 15-49 years who have undergone FGM/C",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-41/",
       "leads": " UNICEF",
       "other goals": "3",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 5,
-      "targets": "",
+      "targets": "5.4",
       "indicator": "Average number of hours spent on paid and unpaid work combined (total work burden), by sex",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": " ILO with IAEG- GS (UNSD)",
+      "source": "http://indicators.report/indicators/i-42/",
+      "leads": " ILO with IAEG-GS (UNSD)",
       "other goals": "",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 5,
-      "targets": "",
+      "targets": "5.1,5.5,5.c,10.2,10.3,16.7",
       "indicator": "Percentage of seats held by women and minorities in national parliament and/or sub-national elected office according to their respective share of the population (modified MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": "Inter-Parliamentary Union (IPU)",
+      "source": "http://indicators.report/indicators/i-43/",
+      "leads": "Inter-Parliamentary Union (IPU), United Cities and Local Governments (UCLG) Standing Committee on Gender Equality",
       "other goals": "10, 16",
-      "available": "",
-      "category": ""
+      "available": "B",
+      "category": "100"
     },
     {
       "goal": 5,
-      "targets": "",
-      "indicator": " Met demand for family planning (modified MDG Indicator)",
+      "targets": "3.7,5.6",
+      "indicator": "Met demand for family planning (modified MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-44/",
       "leads": "UN Population Division, UNFPA",
       "other goals": "3",
-      "available": "",
-      "category": ""
+      "available": "B",
+      "category": "100"
     },
     {
       "goal": 5,
@@ -1713,78 +1713,78 @@
     },
     {
       "goal": 6,
-      "targets": "",
+      "targets": "6.1,9.1,11.1",
       "indicator": "Percentage of population using safely managed water services, by urban/rural (modified MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-45/",
       "leads": "WHO/UNICEF Joint Monitoring Programme (JMP)",
       "other goals": "1, 2, 3, 9, 11",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 6,
-      "targets": "",
+      "targets": "6.2,9.1,11.1",
       "indicator": "Percentage of population using safely managed sanitation services, by urban/rural (modified MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-46/",
       "leads": "WHO/UNICEF JMP",
       "other goals": "1, 2, 3, 9, 11",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 6,
-      "targets": "",
+      "targets": "6.1,6.3,6.6,9.4,11.6,12.5",
       "indicator": "Percentage of wastewater flows treated to national standards [and reused]",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": "WHO/UNICEF JMP",
+      "source": "http://indicators.report/indicators/i-47/",
+      "leads": "WHO/UNICEF JMP, UNEP, UN-Habitat",
       "other goals": "3, 9, 11, 12, 14",
-      "available": "",
-      "category": ""
+      "available": "B",
+      "category": "100"
     },
     {
       "goal": 6,
-      "targets": "",
+      "targets": "6.3,6.5,6.6",
       "indicator": " [Indicator on water resource management]",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": " UN Water",
+      "source": "http://indicators.report/indicators/i-48/",
+      "leads": "WHO, UNEP, UN-Habitat",
       "other goals": "12, 14, 15",
       "available": "",
-      "category": ""
+      "category": "100"
     },
     {
       "goal": 6,
-      "targets": "",
+      "targets": "6.1,6.4,6.5,6.6,8.4,12.2,15.1",
       "indicator": " Proportion of total water resources used (MDG Indicator)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": "FAO, UNEP",
+      "source": "http://indicators.report/indicators/i-49/",
+      "leads": "FAO Aquastat, UNEP",
       "other goals": "2, 9, 11, 12",
-      "available": "",
-      "category": ""
+      "available": "B",
+      "category": "100"
     },
     {
       "goal": 6,
@@ -1923,18 +1923,18 @@
     },
     {
       "goal": 7,
-      "targets": "",
+      "targets": "7.1,9.1,11.1",
       "indicator": "Share of the population using modern cooking solutions, by urban/rural",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-50/",
       "leads": "Sustainable Energy for All, IEA, WHO",
       "other goals": "1, 3, 5, 9, 11, 12",
-      "available": "",
-      "category": ""
+      "available": "A",
+      "category": "100"
     },
     {
       "goal": 7,
@@ -2507,19 +2507,19 @@
       "category": "100"
     },
     {
-      "goal": 11,
-      "targets": "",
+      "goal": 1,
+      "targets": "1.3,1.5,2.3,2.4,11.5,13.1",
       "indicator": "Losses from natural disasters, by climate and non-climate-related events (in US$ and lives lost)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-6/",
       "leads": "UNISDR, FAO, WHO, CRED",
-      "other goals": "1, 2, 6, 13",
-      "available": "",
-      "category": ""
+      "other goals": "2, 6, 11, 13",
+      "available": "C",
+      "category": "100"
     },
     {
       "goal": 11,
