@@ -10,4 +10,23 @@ A machine readable format for the Goals and Indicators for the SDGs, becuase I c
 
 Sources are declared. If you have any update, please submit a Pull Request.
 
+### How to use the data
+
+This is a quick example to load into a variable the data from another Github Pages, pulling directly from here
+
+```js
+var version = "v0.05";
+var dataurl = "https://raw.githubusercontent.com/SDG-data/SDGs/"+version+"/";
+var sdgs = [];
+var files = ["goals","targets","indicators"];
+function load_data(){
+  files.forEach(function (f) {
+    console.log("Loading "+f);
+    d3.json(dataurl+f+".json", function (error, data) {
+      sdgs[data.meta.id]=data;
+  });
+});
+call_your_main_function_that does_the_thing_you_want(); 
+}
+```
 
