@@ -78,18 +78,18 @@
     },
     {
       "goal": 1,
-      "targets": "",
+      "targets": "1.3,1.5,2.3,2.4,11.5,13.1",
       "indicator": "Losses from natural disasters, by climate and non-climate-related events (in US$ and lives lost)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
+      "source": "http://indicators.report/indicators/i-6/",
       "leads": "UNISDR, FAO, WHO, CRED",
       "other goals": "2, 6, 11, 13",
-      "available": "",
-      "category": ""
+      "available": "C",
+      "category": "100"
     },
     {
       "goal": 1,
@@ -2504,21 +2504,6 @@
       "leads": "UN-Habitat, World Bank",
       "other goals": "3, 12",
       "available": "",
-      "category": "100"
-    },
-    {
-      "goal": 1,
-      "targets": "1.3,1.5,2.3,2.4,11.5,13.1",
-      "indicator": "Losses from natural disasters, by climate and non-climate-related events (in US$ and lives lost)",
-      "data": {
-        "url": "",
-        "format": "",
-        "meta": ""
-      },
-      "source": "http://indicators.report/indicators/i-6/",
-      "leads": "UNISDR, FAO, WHO, CRED",
-      "other goals": "2, 6, 11, 13",
-      "available": "C",
       "category": "100"
     },
     {
