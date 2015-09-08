@@ -3,7 +3,7 @@
     {
       "goal": 1,
       "targets": "1.1",
-      "indicator": " Proportion of population below $1.25 (PPP) per day",
+      "indicator": "Proportion of population below $1.25 (PPP) per day",
       "data": {
         "url": "http://data.worldbank.org/indicator/SI.POV.DDAY",
         "format": "WB-API",
@@ -34,7 +34,7 @@
     {
       "goal": 1,
       "targets": "1.1,1.2",
-      "indicator": " Multidimensional Poverty Index",
+      "indicator": "Multidimensional Poverty Index",
       "data": {
         "url": "",
         "format": "",
@@ -94,7 +94,7 @@
     {
       "goal": 1,
       "targets": "1.2,3.7",
-      "indicator": " Total fertility rate",
+      "indicator": "Total fertility rate",
       "data": {
         "url": "http://esa.un.org/unpd/wpp/",
         "format": "",
@@ -109,7 +109,7 @@
     {
       "goal": 1,
       "targets": "",
-      "indicator": "Poverty gap ratio (MDG Indicator)",
+      "indicator": "Poverty gap ratio",
       "data": {
         "url": "",
         "format": "",
@@ -119,7 +119,7 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": ""
+      "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 1,
@@ -169,7 +169,7 @@
     {
       "goal": 2,
       "targets": "2.1",
-      "indicator": "Proportion of population below minimum level of dietary energy consumption (MDG Indicator)",
+      "indicator": "Proportion of population below minimum level of dietary energy consumption",
       "data": {
         "url": "",
         "format": "",
@@ -179,7 +179,7 @@
       "leads": "FAO, WHO",
       "other goals": "3",
       "available": "B",
-      "category": "100"
+      "category": "MDG Indicator, 100"
     },
     {
       "goal": 2,
@@ -251,7 +251,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-13/",
-      "leads": " FAO",
+      "leads": "FAO",
       "other goals": "",
       "available": "C",
       "category": "100"
@@ -266,7 +266,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-14/",
-      "leads": " FAO",
+      "leads": "FAO",
       "other goals": "",
       "available": "",
       "category": "100"
@@ -311,7 +311,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-16/",
-      "leads": " FAO",
+      "leads": "FAO",
       "other goals": "6",
       "available": "C",
       "category": "100"
@@ -329,12 +329,12 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": ""
+      "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
       "targets": "",
-      "indicator": " Proportion of infants 6‚Äì23 months of age who receive a minimum acceptable diet",
+      "indicator": "Proportion of infants 6‚Äì23 months of age who receive a minimum acceptable diet",
       "data": {
         "url": "",
         "format": "",
@@ -344,12 +344,12 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": ""
+      "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
       "targets": "",
-      "indicator": " Percentage children born with low birth weight",
+      "indicator": "Percentage children born with low birth weight",
       "data": {
         "url": "",
         "format": "",
@@ -359,12 +359,12 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": ""
+      "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
       "targets": "",
-      "indicator": " Cereal yield growth rate (% p.a.)",
+      "indicator": "Cereal yield growth rate (% p.a.)",
       "data": {
         "url": "",
         "format": "",
@@ -374,12 +374,12 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": ""
+      "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
       "targets": "",
-      "indicator": " Livestock yield gap (actual yield as % of attainable yield)",
+      "indicator": "Livestock yield gap (actual yield as % of attainable yield)",
       "data": {
         "url": "",
         "format": "",
@@ -389,12 +389,12 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": ""
+      "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
       "targets": "",
-      "indicator": " [Phosphorus use efficiency in food systems]",
+      "indicator": "[Phosphorus use efficiency in food systems]",
       "data": {
         "url": "",
         "format": "",
@@ -404,12 +404,12 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": ""
+      "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
       "targets": "",
-      "indicator": " Share of calories from non-staple crops",
+      "indicator": "Share of calories from non-staple crops",
       "data": {
         "url": "",
         "format": "",
@@ -419,12 +419,12 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": ""
+      "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
       "targets": "",
-      "indicator": " Percentage of total daily energy intake from protein in adults",
+      "indicator": "Percentage of total daily energy intake from protein in adults",
       "data": {
         "url": "",
         "format": "",
@@ -434,7 +434,7 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": ""
+      "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
@@ -449,12 +449,12 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": ""
+      "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
       "targets": "",
-      "indicator": " [Indicator on genetic diversity in agriculture]",
+      "indicator": "[Indicator on genetic diversity in agriculture]",
       "data": {
         "url": "",
         "format": "",
@@ -464,12 +464,12 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": ""
+      "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
       "targets": "",
-      "indicator": " [Indicator on irrigation access gap]",
+      "indicator": "[Indicator on irrigation access gap]",
       "data": {
         "url": "",
         "format": "",
@@ -479,12 +479,12 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": ""
+      "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
       "targets": "",
-      "indicator": " [Farmers with nationally appropriate crop insurance (%)]",
+      "indicator": "[Farmers with nationally appropriate crop insurance (%)]",
       "data": {
         "url": "",
         "format": "",
@@ -494,12 +494,12 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": ""
+      "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
       "targets": "",
-      "indicator": " Public and private R&D expenditure on agriculture and rural development (% of GNI)",
+      "indicator": "Public and private R&D expenditure on agriculture and rural development (% of GNI)",
       "data": {
         "url": "",
         "format": "",
@@ -509,7 +509,7 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": ""
+      "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
@@ -524,12 +524,12 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": ""
+      "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
       "targets": "3.1",
-      "indicator": "Maternal mortality ratio (MDG Indicator) and rate",
+      "indicator": "Maternal mortality ratio and rate",
       "data": {
         "url": "",
         "format": "",
@@ -539,12 +539,12 @@
       "leads": "WHO, UN Population Division, UNICEF, World Bank",
       "other goals": "5",
       "available": "A",
-      "category": "100"
+      "category": "MDG Indicator, 100"
     },
     {
       "goal": 3,
       "targets": "3.2",
-      "indicator": "Neonatal, infant, and under-5 mortality rates (modified MDG Indicator)",
+      "indicator": "Neonatal, infant, and under-5 mortality rates",
       "data": {
         "url": "",
         "format": "",
@@ -554,7 +554,7 @@
       "leads": "WHO, UNICEF, UN Population Division",
       "other goals": "",
       "available": "A",
-      "category": "100"
+      "category": "modified MDG Indicator, 100"
     },
     {
       "goal": 3,
@@ -574,7 +574,7 @@
     {
       "goal": 3,
       "targets": "3.3",
-      "indicator": "HIV incidence, treatment rate, and mortality (modified MDG Indicator)",
+      "indicator": "HIV incidence, treatment rate, and mortality",
       "data": {
         "url": "",
         "format": "",
@@ -584,37 +584,37 @@
       "leads": "WHO, UNAIDS",
       "other goals": "",
       "available": "A",
-      "category": "100"
+      "category": "modified MDG Indicator, 100"
     },
     {
       "goal": 3,
       "targets": "3.3",
-      "indicator": "Incidence, prevalence, and death rates associated with all forms of TB (MDG Indicator)",
+      "indicator": "Incidence, prevalence, and death rates associated with all forms of TB",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-21/",
-      "leads": " WHO",
+      "leads": "WHO",
       "other goals": "",
       "available": "A",
-      "category": "100"
+      "category": "MDG Indicator, 100"
     },
     {
       "goal": 3,
       "targets": "3.3",
-      "indicator": " Incidence and death rates associated with malaria (MDG Indicator)",
+      "indicator": "Incidence and death rates associated with malaria",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-22/",
-      "leads": " WHO",
+      "leads": "WHO",
       "other goals": "",
       "available": "A",
-      "category": "100"
+      "category": "MDG Indicator, 100"
     },
     {
       "goal": 3,
@@ -626,7 +626,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-23/",
-      "leads": " WHO",
+      "leads": "WHO",
       "other goals": "11",
       "available": "A",
       "category": "100"
@@ -641,7 +641,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-24/",
-      "leads": " WHO",
+      "leads": "WHO",
       "other goals": "12",
       "available": "B",
       "category": "100"
@@ -671,7 +671,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-26/",
-      "leads": " WHO",
+      "leads": "WHO",
       "other goals": "",
       "available": "",
       "category": "100"
@@ -686,7 +686,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-27/",
-      "leads": " WHO",
+      "leads": "WHO",
       "other goals": "11",
       "available": "",
       "category": "100"
@@ -701,7 +701,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-28/",
-      "leads": " WHO",
+      "leads": "WHO",
       "other goals": "",
       "available": "C",
       "category": "100"
@@ -709,7 +709,7 @@
     {
       "goal": 3,
       "targets": "3.7,5.6",
-      "indicator": "Contraceptive prevalence rate (MDG Indicator)",
+      "indicator": "Contraceptive prevalence rate",
       "data": {
         "url": "",
         "format": "",
@@ -719,7 +719,7 @@
       "leads": "UN Population Division, UNFPA",
       "other goals": "5",
       "available": "A",
-      "category": "100"
+      "category": "MDG Indicator, 100"
     },
     {
       "goal": 3,
@@ -731,7 +731,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-30/",
-      "leads": " WHO",
+      "leads": "WHO",
       "other goals": "12",
       "available": "A",
       "category": "100"
@@ -739,7 +739,7 @@
     {
       "goal": 3,
       "targets": "",
-      "indicator": "Percentage of births attended by skilled health personnel (MDG Indicator)",
+      "indicator": "Percentage of births attended by skilled health personnel",
       "data": {
         "url": "",
         "format": "",
@@ -749,12 +749,12 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": "Complementary National Indicator"
+      "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 3,
       "targets": "",
-      "indicator": "Antenatal care coverage (at least one visit and at least four visits) (MDG Indicator)",
+      "indicator": "Antenatal care coverage (at least one visit and at least four visits)",
       "data": {
         "url": "",
         "format": "",
@@ -764,12 +764,12 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": "Complementary National Indicator"
+      "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 3,
       "targets": "",
-      "indicator": "Post-natal care coverage (one visit) (MDG Indicator)",
+      "indicator": "Post-natal care coverage (one visit)",
       "data": {
         "url": "",
         "format": "",
@@ -779,7 +779,7 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": "Complementary National Indicator"
+      "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -814,7 +814,7 @@
     {
       "goal": 3,
       "targets": "",
-      "indicator": "Percentage of 1 year-old children immunized against measles (MDG Indicator)",
+      "indicator": "Percentage of 1 year-old children immunized against measles",
       "data": {
         "url": "",
         "format": "",
@@ -824,7 +824,7 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": "Complementary National Indicator"
+      "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -844,7 +844,7 @@
     {
       "goal": 3,
       "targets": "",
-      "indicator": "Condom use at last high-risk sex (MDG Indicator)",
+      "indicator": "Condom use at last high-risk sex",
       "data": {
         "url": "",
         "format": "",
@@ -854,12 +854,12 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": "Complementary National Indicator"
+      "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 3,
       "targets": "",
-      "indicator": "Percentage of tuberculosis cases detected and cured under directly observed treatment short course (MDG Indicator)",
+      "indicator": "Percentage of tuberculosis cases detected and cured under directly observed treatment short course",
       "data": {
         "url": "",
         "format": "",
@@ -869,12 +869,12 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": "Complementary National Indicator"
+      "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 3,
       "targets": "",
-      "indicator": "Percentage of children under 5 with fever who are treated with appropriate anti-malarial drugs (MDG Indicator)",
+      "indicator": "Percentage of children under 5 with fever who are treated with appropriate anti-malarial drugs",
       "data": {
         "url": "",
         "format": "",
@@ -884,12 +884,12 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": "Complementary National Indicator"
+      "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 3,
       "targets": "",
-      "indicator": "Percentage of people in malaria-endemic areas sleeping under insecticide-treated bed nets (modified MDG Indicator)",
+      "indicator": "Percentage of people in malaria-endemic areas sleeping under insecticide-treated bed nets",
       "data": {
         "url": "",
         "format": "",
@@ -899,7 +899,7 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": "Complementary National Indicator"
+      "category": "modified MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 3,
@@ -1264,7 +1264,7 @@
     {
       "goal": 4,
       "targets": "4.2,4.5",
-      "indicator": " Percentage of children (36-59 months) receiving at least one year of a quality pre-primary education program",
+      "indicator": "Percentage of children (36-59 months) receiving at least one year of a quality pre-primary education program",
       "data": {
         "url": "",
         "format": "",
@@ -1279,7 +1279,7 @@
     {
       "goal": 4,
       "targets": "4.2",
-      "indicator": " Early Child Development Index (ECDI)",
+      "indicator": "Early Child Development Index (ECDI)",
       "data": {
         "url": "",
         "format": "",
@@ -1301,7 +1301,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-33/",
-      "leads": " UNESCO",
+      "leads": "UNESCO",
       "other goals": "5",
       "available": "A",
       "category": "100"
@@ -1316,7 +1316,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-34/",
-      "leads": " UNESCO",
+      "leads": "UNESCO",
       "other goals": "5",
       "available": "A",
       "category": "100"
@@ -1331,7 +1331,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-35/",
-      "leads": " UNESCO",
+      "leads": "UNESCO",
       "other goals": "5, 8",
       "available": "A",
       "category": "100"
@@ -1429,7 +1429,7 @@
     {
       "goal": 4,
       "targets": "",
-      "indicator": "Literacy rate of 15-24 year-olds, women and men (MDG Indicator)",
+      "indicator": "Literacy rate of 15-24 year-olds, women and men",
       "data": {
         "url": "",
         "format": "",
@@ -1439,7 +1439,7 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": "Complementary National Indicator"
+      "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 4,
@@ -1534,7 +1534,7 @@
     {
       "goal": 5,
       "targets": "5.2,16.1",
-      "indicator": " Prevalence of girls and women 15-49 who have experienced physical or sexual violence [by an intimate partner] in the last 12 months",
+      "indicator": "Prevalence of girls and women 15-49 who have experienced physical or sexual violence [by an intimate partner] in the last 12 months",
       "data": {
         "url": "",
         "format": "",
@@ -1549,7 +1549,7 @@
     {
       "goal": 5,
       "targets": "5.2,16.3",
-      "indicator": " Percentage of referred cases of sexual and gender-based violence against women and children that are investigated and sentenced",
+      "indicator": "Percentage of referred cases of sexual and gender-based violence against women and children that are investigated and sentenced",
       "data": {
         "url": "",
         "format": "",
@@ -1571,7 +1571,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-40/",
-      "leads": " UNICEF",
+      "leads": "UNICEF",
       "other goals": "3",
       "available": "",
       "category": "100"
@@ -1586,7 +1586,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-41/",
-      "leads": " UNICEF",
+      "leads": "UNICEF",
       "other goals": "3",
       "available": "",
       "category": "100"
@@ -1601,7 +1601,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-42/",
-      "leads": " ILO with IAEG-GS (UNSD)",
+      "leads": "ILO with IAEG-GS (UNSD)",
       "other goals": "",
       "available": "",
       "category": "100"
@@ -1609,7 +1609,7 @@
     {
       "goal": 5,
       "targets": "5.1,5.5,5.c,10.2,10.3,16.7",
-      "indicator": "Percentage of seats held by women and minorities in national parliament and/or sub-national elected office according to their respective share of the population (modified MDG Indicator)",
+      "indicator": "Percentage of seats held by women and minorities in national parliament and/or sub-national elected office according to their respective share of the population",
       "data": {
         "url": "",
         "format": "",
@@ -1619,12 +1619,12 @@
       "leads": "Inter-Parliamentary Union (IPU), United Cities and Local Governments (UCLG) Standing Committee on Gender Equality",
       "other goals": "10, 16",
       "available": "B",
-      "category": "100"
+      "category": "modified MDG Indicator, 100"
     },
     {
       "goal": 5,
       "targets": "3.7,5.6",
-      "indicator": "Met demand for family planning (modified MDG Indicator)",
+      "indicator": "Met demand for family planning",
       "data": {
         "url": "",
         "format": "",
@@ -1634,7 +1634,7 @@
       "leads": "UN Population Division, UNFPA",
       "other goals": "3",
       "available": "B",
-      "category": "100"
+      "category": "modified MDG Indicator, 100"
     },
     {
       "goal": 5,
@@ -1684,7 +1684,7 @@
     {
       "goal": 5,
       "targets": "",
-      "indicator": "Adolescent birth rate (MDG Indicator)",
+      "indicator": "Adolescent birth rate",
       "data": {
         "url": "",
         "format": "",
@@ -1694,7 +1694,7 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": "Complementary National Indicator"
+      "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 5,
@@ -1714,7 +1714,7 @@
     {
       "goal": 6,
       "targets": "6.1,9.1,11.1",
-      "indicator": "Percentage of population using safely managed water services, by urban/rural (modified MDG Indicator)",
+      "indicator": "Percentage of population using safely managed water services, by urban/rural",
       "data": {
         "url": "",
         "format": "",
@@ -1724,12 +1724,12 @@
       "leads": "WHO/UNICEF Joint Monitoring Programme (JMP)",
       "other goals": "1, 2, 3, 9, 11",
       "available": "",
-      "category": "100"
+      "category": "modified MDG Indicator, 100"
     },
     {
       "goal": 6,
       "targets": "6.2,9.1,11.1",
-      "indicator": "Percentage of population using safely managed sanitation services, by urban/rural (modified MDG Indicator)",
+      "indicator": "Percentage of population using safely managed sanitation services, by urban/rural",
       "data": {
         "url": "",
         "format": "",
@@ -1739,7 +1739,7 @@
       "leads": "WHO/UNICEF JMP",
       "other goals": "1, 2, 3, 9, 11",
       "available": "",
-      "category": "100"
+      "category": "modified MDG Indicator, 100"
     },
     {
       "goal": 6,
@@ -1759,7 +1759,7 @@
     {
       "goal": 6,
       "targets": "6.3,6.5,6.6",
-      "indicator": " [Indicator on water resource management]",
+      "indicator": "[Indicator on water resource management]",
       "data": {
         "url": "",
         "format": "",
@@ -1774,7 +1774,7 @@
     {
       "goal": 6,
       "targets": "6.1,6.4,6.5,6.6,8.4,12.2,15.1",
-      "indicator": " Proportion of total water resources used (MDG Indicator)",
+      "indicator": "Proportion of total water resources used",
       "data": {
         "url": "",
         "format": "",
@@ -1784,7 +1784,7 @@
       "leads": "FAO Aquastat, UNEP",
       "other goals": "2, 9, 11, 12",
       "available": "B",
-      "category": "100"
+      "category": "MDG Indicator, 100"
     },
     {
       "goal": 6,
@@ -1969,7 +1969,7 @@
     {
       "goal": 7,
       "targets": "7.3,13.2",
-      "indicator": " Rate of primary energy intensity improvement",
+      "indicator": "Rate of primary energy intensity improvement",
       "data": {
         "url": "",
         "format": "",
@@ -1984,7 +1984,7 @@
     {
       "goal": 7,
       "targets": "",
-      "indicator": "  Primary energy by type",
+      "indicator": "Primary energy by type",
       "data": {
         "url": "",
         "format": "",
@@ -2051,7 +2051,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-55/",
-      "leads": " UNSD",
+      "leads": "UNSD",
       "other goals": "12, 17",
       "available": "",
       "category": "100"
@@ -2066,7 +2066,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-56/",
-      "leads": " ILO",
+      "leads": "ILO",
       "other goals": "11",
       "available": "",
       "category": "100"
@@ -2074,14 +2074,14 @@
     {
       "goal": 8,
       "targets": "8.3,8.5,8.7,8.8,8.b,10.2,10.3,10.4,16.2",
-      "indicator": " Ratification and implementation of fundamental ILO labor standards and compliance in law and practice",
+      "indicator": "Ratification and implementation of fundamental ILO labor standards and compliance in law and practice",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-57/",
-      "leads": " ILO",
+      "leads": "ILO",
       "other goals": "5, 9, 10, 11, 17",
       "available": "A",
       "category": "100"
@@ -2089,7 +2089,7 @@
     {
       "goal": 8,
       "targets": "",
-      "indicator": "Growth rate of GDP per person employed (MDG Indicator)",
+      "indicator": "Growth rate of GDP per person employed",
       "data": {
         "url": "",
         "format": "",
@@ -2099,7 +2099,7 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": "Complementary National Indicator"
+      "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 8,
@@ -2246,7 +2246,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-59/",
-      "leads": " ITU",
+      "leads": "ITU",
       "other goals": "2, 11, 17",
       "available": "A",
       "category": "100"
@@ -2254,14 +2254,14 @@
     {
       "goal": 9,
       "targets": "8.2,9.1,9.4,9.c,17.6",
-      "indicator": " Index on ICT maturity",
+      "indicator": "Index on ICT maturity",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-60/",
-      "leads": " ITU",
+      "leads": "ITU",
       "other goals": "17",
       "available": "",
       "category": "100"
@@ -2269,7 +2269,7 @@
     {
       "goal": 9,
       "targets": "8.2,9.2",
-      "indicator": " Manufacturing value added (MVA) as percent of GDP",
+      "indicator": "Manufacturing value added (MVA) as percent of GDP",
       "data": {
         "url": "",
         "format": "",
@@ -2299,7 +2299,7 @@
     {
       "goal": 9,
       "targets": "8.2,9.5,12.a,14.a,17.6",
-      "indicator": " Personnel in R&D (per million inhabitants)",
+      "indicator": "Personnel in R&D (per million inhabitants)",
       "data": {
         "url": "http://data.uis.unesco.org/",
         "format": "",
@@ -2419,7 +2419,7 @@
     {
       "goal": 10,
       "targets": "",
-      "indicator": "Net ODA to LDCs as percentage of high-income countries' GNI (modified from MDG Indicator)",
+      "indicator": "Net ODA to LDCs as percentage of high-income countries' GNI",
       "data": {
         "url": "",
         "format": "",
@@ -2429,7 +2429,7 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": "Complementary National Indicator"
+      "category": "modified from MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 10,
@@ -2464,7 +2464,7 @@
     {
       "goal": 11,
       "targets": "11.1",
-      "indicator": " Percentage of urban population living in slums or informal settlements (MDG Indicator)",
+      "indicator": "Percentage of urban population living in slums or informal settlements",
       "data": {
         "url": "",
         "format": "",
@@ -2474,7 +2474,7 @@
       "leads": "UN-Habitat, Global City Indicators Facility",
       "other goals": "1, 6",
       "available": "A",
-      "category": "100"
+      "category": "MDG Indicator, 100"
     },
     {
       "goal": 11,
@@ -2486,7 +2486,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-67/",
-      "leads": " UN-Habitat",
+      "leads": "UN-Habitat",
       "other goals": "9",
       "available": "B",
       "category": "100"
@@ -2524,7 +2524,7 @@
     {
       "goal": 11,
       "targets": "3.9,9.4,11.6,12.4",
-      "indicator": " Mean urban air pollution of particulate matter (PM10 and PM2.5)",
+      "indicator": "Mean urban air pollution of particulate matter (PM10 and PM2.5)",
       "data": {
         "url": "",
         "format": "",
@@ -2539,7 +2539,7 @@
     {
       "goal": 11,
       "targets": "11.7",
-      "indicator": " Area of public and green space as a proportion of total city space",
+      "indicator": "Area of public and green space as a proportion of total city space",
       "data": {
         "url": "",
         "format": "",
@@ -2554,7 +2554,7 @@
     {
       "goal": 11,
       "targets": "9.4,11.6,12.5",
-      "indicator": " Percentage of urban solid waste regularly collected and well managed",
+      "indicator": "Percentage of urban solid waste regularly collected and well managed",
       "data": {
         "url": "",
         "format": "",
@@ -2569,7 +2569,7 @@
     {
       "goal": 11,
       "targets": "",
-      "indicator": " Domestic revenues allocated to sustainable development as percent of GNI - by sector",
+      "indicator": "Domestic revenues allocated to sustainable development as percent of GNI - by sector",
       "data": {
         "url": "",
         "format": "",
@@ -2674,7 +2674,7 @@
     {
       "goal": 12,
       "targets": "12.2",
-      "indicator": " Disclosure of Natural Resource Rights Holdings",
+      "indicator": "Disclosure of Natural Resource Rights Holdings",
       "data": {
         "url": "",
         "format": "",
@@ -2689,14 +2689,14 @@
     {
       "goal": 12,
       "targets": "12.3,12.5",
-      "indicator": " Global Food Loss Indicator [or other indicator to be developed to track the share of food lost or wasted in the value chain after harvest]",
+      "indicator": "Global Food Loss Indicator [or other indicator to be developed to track the share of food lost or wasted in the value chain after harvest]",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-73/",
-      "leads": " FAO",
+      "leads": "FAO",
       "other goals": "2, 11",
       "available": "C",
       "category": "100"
@@ -2704,7 +2704,7 @@
     {
       "goal": 12,
       "targets": "8.4,12.4",
-      "indicator": " Consumption of ozone-depleting substances (MDG Indicator)",
+      "indicator": "Consumption of ozone-depleting substances",
       "data": {
         "url": "",
         "format": "",
@@ -2714,19 +2714,19 @@
       "leads": "UNEP Ozone Secretariat",
       "other goals": "9",
       "available": "A",
-      "category": "100"
+      "category": "MDG Indicator, 100"
     },
     {
       "goal": 12,
       "targets": "8.4,12.4",
-      "indicator": " Aerosol optical depth (AOD)",
+      "indicator": "Aerosol optical depth (AOD)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-75/",
-      "leads": " UNEP",
+      "leads": "UNEP",
       "other goals": "9, 11, 13",
       "available": "",
       "category": "100"
@@ -2734,7 +2734,7 @@
     {
       "goal": 12,
       "targets": "10.5,12.6",
-      "indicator": " [Share of companies valued at more than [$1 billion] that publish integrated monitoring]",
+      "indicator": "[Share of companies valued at more than [$1 billion] that publish integrated monitoring]",
       "data": {
         "url": "",
         "format": "",
@@ -2846,7 +2846,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-77/",
-      "leads": " UNFCCC",
+      "leads": "UNFCCC",
       "other goals": "9, 11, 12, 17",
       "available": "A",
       "category": "100"
@@ -2876,7 +2876,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-79/",
-      "leads": " UNFCCC",
+      "leads": "UNFCCC",
       "other goals": "2, 15",
       "available": "A",
       "category": "100"
@@ -2884,7 +2884,7 @@
     {
       "goal": 13,
       "targets": "13.2,13.3,13.a",
-      "indicator": " Official climate financing from developed countries that is incremental to ODA (in US$)",
+      "indicator": "Official climate financing from developed countries that is incremental to ODA (in US$)",
       "data": {
         "url": "",
         "format": "",
@@ -2929,7 +2929,7 @@
     {
       "goal": 14,
       "targets": "6.6,14.1,14.2,14.5",
-      "indicator": " Share of coastal and marine areas that are protected",
+      "indicator": "Share of coastal and marine areas that are protected",
       "data": {
         "url": "",
         "format": "",
@@ -2944,14 +2944,14 @@
     {
       "goal": 14,
       "targets": "2.3,14.4,14.6,14.7",
-      "indicator": " Percentage of fish tonnage landed within Maximum Sustainable Yield (MSY)",
+      "indicator": "Percentage of fish tonnage landed within Maximum Sustainable Yield (MSY)",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-82/",
-      "leads": " FAO",
+      "leads": "FAO",
       "other goals": "2, 12",
       "available": "",
       "category": "100"
@@ -3019,7 +3019,7 @@
     {
       "goal": 14,
       "targets": "",
-      "indicator": "Proportion of fish stocks within safe biological limits (MDG Indicator)",
+      "indicator": "Proportion of fish stocks within safe biological limits",
       "data": {
         "url": "",
         "format": "",
@@ -3029,7 +3029,7 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": "Complementary National Indicator"
+      "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 14,
@@ -3139,7 +3139,7 @@
     {
       "goal": 15,
       "targets": "2.4,15.1",
-      "indicator": " Annual change in forest area and land under cultivation (modified MDG Indicator)",
+      "indicator": "Annual change in forest area and land under cultivation",
       "data": {
         "url": "",
         "format": "",
@@ -3149,12 +3149,12 @@
       "leads": "FAO, UNEP",
       "other goals": "2, 12, 13",
       "available": "B",
-      "category": "100"
+      "category": "modified MDG Indicator, 100"
     },
     {
       "goal": 15,
       "targets": "6.6,15.1,15.2",
-      "indicator": " Area of forest under sustainable forest management as a percent of forest area",
+      "indicator": "Area of forest under sustainable forest management as a percent of forest area",
       "data": {
         "url": "",
         "format": "",
@@ -3169,7 +3169,7 @@
     {
       "goal": 15,
       "targets": "2.4,15.2,15.3",
-      "indicator": " Annual change in degraded or desertified arable land (% or ha)",
+      "indicator": "Annual change in degraded or desertified arable land (% or ha)",
       "data": {
         "url": "",
         "format": "",
@@ -3184,14 +3184,14 @@
     {
       "goal": 15,
       "targets": "11.4,15.5,15.7,15.c",
-      "indicator": " Red List Index",
+      "indicator": "Red List Index",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-86/",
-      "leads": " IUCN",
+      "leads": "IUCN",
       "other goals": "",
       "available": "A",
       "category": "100"
@@ -3199,14 +3199,14 @@
     {
       "goal": 15,
       "targets": "11.4,14.2,15.5,15.c",
-      "indicator": " Protected areas overlay with biodiversity",
+      "indicator": "Protected areas overlay with biodiversity",
       "data": {
         "url": "http://www.bipindicators.net/paoverlays",
         "format": "",
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-87/",
-      "leads": " UNEP-WCMC",
+      "leads": "UNEP-WCMC",
       "other goals": "",
       "available": "B",
       "category": "100"
@@ -3274,7 +3274,7 @@
     {
       "goal": 15,
       "targets": "",
-      "indicator": " Abundance of invasive alien species",
+      "indicator": "Abundance of invasive alien species",
       "data": {
         "url": "",
         "format": "",
@@ -3364,7 +3364,7 @@
     {
       "goal": 16,
       "targets": "10.7,16.1",
-      "indicator": " Number of refugees",
+      "indicator": "Number of refugees",
       "data": {
         "url": "",
         "format": "",
@@ -3379,14 +3379,14 @@
     {
       "goal": 16,
       "targets": "16.4,17.1",
-      "indicator": " Proportion of legal persons and arrangements for which beneficial ownership information is publicly available",
+      "indicator": "Proportion of legal persons and arrangements for which beneficial ownership information is publicly available",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-90/",
-      "leads": " OECD",
+      "leads": "OECD",
       "other goals": "17",
       "available": "",
       "category": "100"
@@ -3416,7 +3416,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-92/",
-      "leads": " UNICEF",
+      "leads": "UNICEF",
       "other goals": "3, 5, 10",
       "available": "A",
       "category": "100"
@@ -3424,14 +3424,14 @@
     {
       "goal": 16,
       "targets": "16.10",
-      "indicator": " Existence and implementation of a national law and/or constitutional guarantee on the right to information",
+      "indicator": "Existence and implementation of a national law and/or constitutional guarantee on the right to information",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-93/",
-      "leads": " UNESCO",
+      "leads": "UNESCO",
       "other goals": "10",
       "available": "",
       "category": "100"
@@ -3439,7 +3439,7 @@
     {
       "goal": 16,
       "targets": "16.5,16.6",
-      "indicator": " Perception of public sector corruption",
+      "indicator": "Perception of public sector corruption",
       "data": {
         "url": "",
         "format": "",
@@ -3596,7 +3596,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-95/",
-      "leads": " IMF",
+      "leads": "IMF",
       "other goals": "10",
       "available": "",
       "category": "100"
@@ -3611,7 +3611,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-96/",
-      "leads": " OECD DAC",
+      "leads": "OECD DAC",
       "other goals": "10",
       "available": "A",
       "category": "100"
@@ -3626,7 +3626,7 @@
         "meta": ""
       },
       "source": "http://indicators.report/indicators/i-97/",
-      "leads": " OECD DAC",
+      "leads": "OECD DAC",
       "other goals": "10",
       "available": "",
       "category": "100"
@@ -3649,7 +3649,7 @@
     {
       "goal": 17,
       "targets": "1.a, 17.18",
-      "indicator": " Share of SDG Indicators that are reported annually",
+      "indicator": "Share of SDG Indicators that are reported annually",
       "data": {
         "url": "",
         "format": "",
@@ -3664,7 +3664,7 @@
     {
       "goal": 17,
       "targets": "17.19",
-      "indicator": " Evaluative Wellbeing and Positive Mood Affect",
+      "indicator": "Evaluative Wellbeing and Positive Mood Affect",
       "data": {
         "url": "",
         "format": "",
@@ -3769,7 +3769,7 @@
     {
       "goal": 17,
       "targets": "",
-      "indicator": "Average tariffs imposed by developed countries on agricultural products and textiles and clothing from developing countries (MDG Indicator)",
+      "indicator": "Average tariffs imposed by developed countries on agricultural products and textiles and clothing from developing countries",
       "data": {
         "url": "",
         "format": "",
@@ -3779,7 +3779,7 @@
       "leads": "",
       "other goals": "",
       "available": "",
-      "category": "Complementary National Indicator"
+      "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 17,
