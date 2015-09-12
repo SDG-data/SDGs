@@ -8,12 +8,12 @@
     {
       "goal": 2,
       "title": "End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
-      "short": "No Hunger"
+      "short": "Zero Hunger"
     },
     {
       "goal": 3,
       "title": "Ensure healthy lives and promote well-being for all at all ages",
-      "short": "Good Health"
+      "short": "Good Health and Well-being"
     },
     {
       "goal": 4,
@@ -34,17 +34,17 @@
     {
       "goal": 7,
       "title": "Ensure access to affordable, reliable, sustainable and modern energy for all",
-      "short": "Renewable energy"
+      "short": "Affordable and clean energy"
     },
     {
       "goal": 8,
       "title": "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
-      "short": "Good jobs and economic growth"
+      "short": "Decent jobs and economic growth"
     },
     {
       "goal": 9,
       "title": "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
-      "short": "Innovation and infrastructure"
+      "short": "Industry, innovation and infrastructure"
     },
     {
       "goal": 10,
@@ -59,7 +59,7 @@
     {
       "goal": 12,
       "title": "Ensure sustainable consumption and production patterns",
-      "short": "Responsible consumption"
+      "short": "Responsible consumption and production"
     },
     {
       "goal": 13,
@@ -79,7 +79,7 @@
     {
       "goal": 16,
       "title": "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
-      "short": "Peace and justice"
+      "short": "Peace and justice - strong institutions"
     },
     {
       "goal": 17,
