@@ -16,11 +16,27 @@
           },
           "targets": {
             "id": "targets",
-            "type": "string",
-            "required": true
+            "type": "object",
+            "properties": {
+              "primary-target": {
+                "id": "primary-target",
+                "type": "string",
+                "required": true
+              },
+              "other-targets": {
+                "id": "other-targets",
+                "type": "string",
+                "required": false
+               }
+             }
           },
           "indicator": {
             "id": "indicator",
+            "type": "string",
+            "required": true
+          },
+          "title": {
+            "id": "title",
             "type": "string",
             "required": true
           },
@@ -50,25 +66,30 @@
           "source": {
             "id": "source",
             "type": "string",
-            "required": true
+            "required": false
           },
           "leads": {
             "id": "leads",
             "type": "string",
             "required": true
           },
-          "other goals": {
-            "id": "other-goals",
+          "data-sources": {
+            "id": "data-sources",
             "type": "string",
             "required": true
           },
-          "other targets": {
-            "id": "other-targets",
+          "other-goals": {
+            "id": "other-goals",
             "type": "string",
             "required": false
           },
           "available": {
             "id": "available",
+            "type": "string",
+            "required": true
+          },
+          "priority": {
+            "id": "priority",
             "type": "string",
             "required": true
           },

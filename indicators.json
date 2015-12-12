@@ -2,54 +2,69 @@
   "indicators": [
     {
       "goal": 1,
-      "targets": "1.1",
-      "indicator": "Proportion of population below $1.25 (PPP) per day",
+      "targets": {
+        "primary-target": "1.1",
+        "other-targets":"2.3; 1.2; 8.5"
+      },
+      "indicator":"1.1.1",
+      "title": "Proportion of population below $1.25 (PPP) per day disaggregated by sex and age group ",
       "data": {
         "url": "http://data.worldbank.org/indicator/SI.POV.DDAY",
         "format": "WB-API",
         "meta": ""
       },
-      "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
-      "leads": "World Bank",
-      "other goals": "8",
-      "available": "B",
-      "category": "MDG Indicator, 100"
+      "leads": "World Bank, ILO",
+      "data-sources":"Household surveys (LFS, HIES, LSMS, Integrated HH surveys, etc.)",
+      "available": "B, I",
+      "priority": "1",
+      "category": "Suggested Indicator, UNSTAT, MDG Indicator, 100"
     },
     {
       "goal": 1,
-      "targets": "1.2",
-      "indicator": "Proportion of population living below national poverty line, by urban/rural",
+      "targets": {
+        "primary-target": "1.2",
+        "other-targets": "1.1; 8.5;"     
+        },
+      "indicator":"1.2.2",
+      "title": "Proportion of population living below national poverty line, disaggregated by sex and age group",
       "data": {
         "url": "http://data.worldbank.org/indicator/SI.POV.NAHC",
         "format": "",
         "meta": ""
       },
-      "source": "http://indicators.report/indicators/i-2/",
-      "leads": "World Bank, UN DESA",
-      "other goals": "11",
-      "other targets": "",
-      "available": "B",
-      "category": "modified MDG Indicator, 100"
+      "leads": "World Bank",
+      "data-sources":"Household surveys",
+      "available": "B, I",
+      "priority": "1.4",
+      "category": "Suggested Indicator, UNSTAT, modified MDG Indicator, 100"
     },
     {
       "goal": 1,
-      "targets": "1.1,1.2",
-      "indicator": "Multidimensional Poverty Index",
+      "targets": {
+        "primary-target": "1.2",
+        "other-targets":"1.1; 2.1; 2.2; 2.3; 3.1; 3.2; 3.7; 3.8; 4.1; 4.2; 4.5; 4.6; 6.1; 6.2; 10.3; 11.1"
+      },
+      "indicator":"1.2.1",
+      "title": "Multidimensional Poverty Index (MPI) disaggregated by sex and age group",
       "data": {
         "url": "",
         "format": "",
         "meta": ""
       },
-      "source": "http://indicators.report/indicators/i-3/",
-      "leads": "UNDP, World Bank, UNSD, UNICEF",
-      "other goals": "2, 3, 4, 8, 11",
+      "leads": "UNDP, UNICEF, World Bank, UNSD",
+      "data-sources":"MICS and DHS; household surveys",
       "available": "B",
-      "category": "100"
+      "priority": "1.3",
+      "category": "UNSTAT, 100"
     },
     {
       "goal": 1,
-      "targets": "1.1,1.3,5.4,10.4,11.1",
-      "indicator": "Percentage of eligible population covered by national social protection programs",
+      "targets": {
+        "primary-target": "1.1,1.3,5.4,10.4,11.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of eligible population covered by national social protection programs",
       "data": {
         "url": "",
         "format": "",
@@ -57,14 +72,20 @@
       },
       "source": "http://indicators.report/indicators/i-4/",
       "leads": "ILO",
-      "other goals": "8, 10, 11",
+      "data-sources":"",
+      "other-goals": "8, 10, 11",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 1,
-      "targets": "1.1,1.4,2.3,5.1,5.a,10.2",
-      "indicator": "Percentage of women, men, indigenous peoples, and local communities with secure rights to land, property, and natural resources, measured by (i) percentage with documented or recognized evidence of tenure, and (ii) percentage who perceive their rights are recognized and protected.",
+      "targets": {
+        "primary-target": "1.1,1.4,2.3,5.1,5.a,10.2",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of women, men, indigenous peoples, and local communities with secure rights to land, property, and natural resources, measured by (i) percentage with documented or recognized evidence of tenure, and (ii) percentage who perceive their rights are recognized and protected.",
       "data": {
         "url": "",
         "format": "",
@@ -72,14 +93,20 @@
       },
       "source": "http://indicators.report/indicators/i-5/",
       "leads": "FAO, UNDP, UN-Habitat",
-      "other goals": "2, 5, 10, 11",
+      "data-sources":"",
+      "other-goals": "2, 5, 10, 11",
       "available": "C",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 1,
-      "targets": "1.3,1.5,2.3,2.4,11.5,13.1",
-      "indicator": "Losses from natural disasters, by climate and non-climate-related events (in US$ and lives lost)",
+      "targets": {
+        "primary-target": "1.3,1.5,2.3,2.4,11.5,13.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Losses from natural disasters, by climate and non-climate-related events (in US$ and lives lost)",
       "data": {
         "url": "",
         "format": "",
@@ -87,14 +114,20 @@
       },
       "source": "http://indicators.report/indicators/i-6/",
       "leads": "UNISDR, FAO, WHO, CRED",
-      "other goals": "2, 6, 11, 13",
+      "data-sources":"",
+      "other-goals": "2, 6, 11, 13",
       "available": "C",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 1,
-      "targets": "1.2,3.7",
-      "indicator": "Total fertility rate",
+      "targets": {
+        "primary-target": "1.2,3.7",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Total fertility rate",
       "data": {
         "url": "http://esa.un.org/unpd/wpp/",
         "format": "",
@@ -102,14 +135,20 @@
       },
       "source": "http://indicators.report/indicators/7-total-fertility-rate/",
       "leads": "UN Population Division, UNFPA",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 1,
-      "targets": "",
-      "indicator": "Poverty gap ratio",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Poverty gap ratio",
       "data": {
         "url": "",
         "format": "",
@@ -117,14 +156,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 1,
-      "targets": "",
-      "indicator": "Percentage of population using banking services (including mobile banking)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of population using banking services (including mobile banking)",
       "data": {
         "url": "",
         "format": "",
@@ -132,14 +177,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 1,
-      "targets": "",
-      "indicator": "[Indicator on equal access to inheritance]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on equal access to inheritance]",
       "data": {
         "url": "",
         "format": "",
@@ -147,14 +198,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 1,
-      "targets": "",
-      "indicator": "[Disaster Risk Reduction Indicator]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Disaster Risk Reduction Indicator]",
       "data": {
         "url": "",
         "format": "",
@@ -162,14 +219,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
-      "targets": "2.1",
-      "indicator": "Proportion of population below minimum level of dietary energy consumption",
+      "targets": {
+        "primary-target": "2.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Proportion of population below minimum level of dietary energy consumption",
       "data": {
         "url": "",
         "format": "",
@@ -177,14 +240,20 @@
       },
       "source": "http://indicators.report/indicators/i-8/",
       "leads": "FAO, WHO",
-      "other goals": "3",
+      "data-sources":"",
+      "other-goals": "3",
       "available": "B",
+      "priority": "",
       "category": "MDG Indicator, 100"
     },
     {
       "goal": 2,
-      "targets": "2.1,2.2",
-      "indicator": "Percentage of women of reproductive age (15-49) with anemia",
+      "targets": {
+        "primary-target": "2.1,2.2",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of women of reproductive age (15-49) with anemia",
       "data": {
         "url": "",
         "format": "",
@@ -192,14 +261,20 @@
       },
       "source": "http://indicators.report/indicators/i-9/",
       "leads": "FAO, WHO",
-      "other goals": "3",
+      "data-sources":"",
+      "other-goals": "3",
       "available": "B",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 2,
-      "targets": "2.1,2.2",
-      "indicator": "Prevalence of stunting and wasting in children under 5 years of age",
+      "targets": {
+        "primary-target": "2.1,2.2",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Prevalence of stunting and wasting in children under 5 years of age",
       "data": {
         "url": "",
         "format": "",
@@ -207,14 +282,20 @@
       },
       "source": "http://indicators.report/indicators/i-10/",
       "leads": "WHO, UNICEF",
-      "other goals": "1, 3",
+      "data-sources":"",
+      "other-goals": "1, 3",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 2,
-      "targets": "2.1,2.2,3.2",
-      "indicator": "Percentage of infants under 6 months who are exclusively breast fed",
+      "targets": {
+        "primary-target": "2.1,2.2,3.2",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of infants under 6 months who are exclusively breast fed",
       "data": {
         "url": "",
         "format": "",
@@ -222,14 +303,20 @@
       },
       "source": "http://indicators.report/indicators/i-11/",
       "leads": "WHO, UNICEF",
-      "other goals": "3",
+      "data-sources":"",
+      "other-goals": "3",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 2,
-      "targets": "2.1",
-      "indicator": "Percentage of women, 15-49 years of age, who consume at least 5 out of 10 defined food groups",
+      "targets": {
+        "primary-target": "2.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of women, 15-49 years of age, who consume at least 5 out of 10 defined food groups",
       "data": {
         "url": "",
         "format": "",
@@ -237,14 +324,20 @@
       },
       "source": "http://indicators.report/indicators/i-12/",
       "leads": "FAO, WHO",
-      "other goals": "3, 5",
+      "data-sources":"",
+      "other-goals": "3, 5",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 2,
-      "targets": "2.3,2.4",
-      "indicator": "Crop yield gap (actual yield as % of attainable yield)",
+      "targets": {
+        "primary-target": "2.3,2.4",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Crop yield gap (actual yield as % of attainable yield)",
       "data": {
         "url": "",
         "format": "",
@@ -252,14 +345,20 @@
       },
       "source": "http://indicators.report/indicators/i-13/",
       "leads": "FAO",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "C",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 2,
-      "targets": "2.3,2.5,2.a",
-      "indicator": "Number of agricultural extension workers per 1000 farmers [or share of farmers covered by agricultural extension programs and services]",
+      "targets": {
+        "primary-target": "2.3,2.5,2.a",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Number of agricultural extension workers per 1000 farmers [or share of farmers covered by agricultural extension programs and services]",
       "data": {
         "url": "",
         "format": "",
@@ -267,14 +366,20 @@
       },
       "source": "http://indicators.report/indicators/i-14/",
       "leads": "FAO",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 2,
-      "targets": "2.3,2.4,8.4,12.4,14.1",
-      "indicator": "Nitrogen use efficiency in food systems",
+      "targets": {
+        "primary-target": "2.3,2.4,8.4,12.4,14.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Nitrogen use efficiency in food systems",
       "data": {
         "url": "",
         "format": "",
@@ -282,14 +387,20 @@
       },
       "source": "http://indicators.report/indicators/i-15/",
       "leads": "FAO",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 2,
-      "targets": "",
-      "indicator": "Fertilizer Industry Association (IFA)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Fertilizer Industry Association (IFA)",
       "data": {
         "url": "",
         "format": "",
@@ -297,14 +408,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": ""
     },
     {
       "goal": 2,
-      "targets": "2.3,6.4,8.4",
-      "indicator": "[Crop water productivity (tons of harvested product per unit irrigation water)]",
+      "targets": {
+        "primary-target": "2.3,6.4,8.4",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Crop water productivity (tons of harvested product per unit irrigation water)]",
       "data": {
         "url": "",
         "format": "",
@@ -312,14 +429,20 @@
       },
       "source": "http://indicators.report/indicators/i-16/",
       "leads": "FAO",
-      "other goals": "6",
+      "data-sources":"",
+      "other-goals": "6",
       "available": "C",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 2,
-      "targets": "",
-      "indicator": "Percentage of population with shortfalls of: iron, zinc, iodine, vitamin A, folate, vitamin B12, [and vitamin D]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of population with shortfalls of: iron, zinc, iodine, vitamin A, folate, vitamin B12, [and vitamin D]",
       "data": {
         "url": "",
         "format": "",
@@ -327,14 +450,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
-      "targets": "",
-      "indicator": "Proportion of infants 6‚Äì23 months of age who receive a minimum acceptable diet",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Proportion of infants 6‚Äì23 months of age who receive a minimum acceptable diet",
       "data": {
         "url": "",
         "format": "",
@@ -342,14 +471,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
-      "targets": "",
-      "indicator": "Percentage children born with low birth weight",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage children born with low birth weight",
       "data": {
         "url": "",
         "format": "",
@@ -357,14 +492,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
-      "targets": "",
-      "indicator": "Cereal yield growth rate (% p.a.)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Cereal yield growth rate (% p.a.)",
       "data": {
         "url": "",
         "format": "",
@@ -372,14 +513,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
-      "targets": "",
-      "indicator": "Livestock yield gap (actual yield as % of attainable yield)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Livestock yield gap (actual yield as % of attainable yield)",
       "data": {
         "url": "",
         "format": "",
@@ -387,14 +534,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
-      "targets": "",
-      "indicator": "[Phosphorus use efficiency in food systems]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Phosphorus use efficiency in food systems]",
       "data": {
         "url": "",
         "format": "",
@@ -402,14 +555,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
-      "targets": "",
-      "indicator": "Share of calories from non-staple crops",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Share of calories from non-staple crops",
       "data": {
         "url": "",
         "format": "",
@@ -417,14 +576,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
-      "targets": "",
-      "indicator": "Percentage of total daily energy intake from protein in adults",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of total daily energy intake from protein in adults",
       "data": {
         "url": "",
         "format": "",
@@ -432,14 +597,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
-      "targets": "",
-      "indicator": "[Access to drying, storage and processing facilities]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Access to drying, storage and processing facilities]",
       "data": {
         "url": "",
         "format": "",
@@ -447,14 +618,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
-      "targets": "",
-      "indicator": "[Indicator on genetic diversity in agriculture]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on genetic diversity in agriculture]",
       "data": {
         "url": "",
         "format": "",
@@ -462,14 +639,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
-      "targets": "",
-      "indicator": "[Indicator on irrigation access gap]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on irrigation access gap]",
       "data": {
         "url": "",
         "format": "",
@@ -477,14 +660,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
-      "targets": "",
-      "indicator": "[Farmers with nationally appropriate crop insurance (%)]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Farmers with nationally appropriate crop insurance (%)]",
       "data": {
         "url": "",
         "format": "",
@@ -492,14 +681,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
-      "targets": "",
-      "indicator": "Public and private R&D expenditure on agriculture and rural development (% of GNI)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Public and private R&D expenditure on agriculture and rural development (% of GNI)",
       "data": {
         "url": "",
         "format": "",
@@ -507,14 +702,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 2,
-      "targets": "",
-      "indicator": "[Indicator on food price volatility]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on food price volatility]",
       "data": {
         "url": "",
         "format": "",
@@ -522,14 +723,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "3.1",
-      "indicator": "Maternal mortality ratio and rate",
+      "targets": {
+        "primary-target": "3.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Maternal mortality ratio and rate",
       "data": {
         "url": "",
         "format": "",
@@ -537,14 +744,20 @@
       },
       "source": "http://indicators.report/indicators/i-17/",
       "leads": "WHO, UN Population Division, UNICEF, World Bank",
-      "other goals": "5",
+      "data-sources":"",
+      "other-goals": "5",
       "available": "A",
+      "priority": "",
       "category": "MDG Indicator, 100"
     },
     {
       "goal": 3,
-      "targets": "3.2",
-      "indicator": "Neonatal, infant, and under-5 mortality rates",
+      "targets": {
+        "primary-target": "3.2",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Neonatal, infant, and under-5 mortality rates",
       "data": {
         "url": "",
         "format": "",
@@ -552,14 +765,20 @@
       },
       "source": "http://indicators.report/indicators/i-18/",
       "leads": "WHO, UNICEF, UN Population Division",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "A",
+      "priority": "",
       "category": "modified MDG Indicator, 100"
     },
     {
       "goal": 3,
-      "targets": "3.2,3.3,3.8",
-      "indicator": "Percent of children receiving full immunization (as recommended by national vaccination schedules)",
+      "targets": {
+        "primary-target": "3.2,3.3,3.8",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percent of children receiving full immunization (as recommended by national vaccination schedules)",
       "data": {
         "url": "",
         "format": "",
@@ -567,14 +786,20 @@
       },
       "source": "http://indicators.report/indicators/i-19/",
       "leads": "WHO, UNICEF, GAVI",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 3,
-      "targets": "3.3",
-      "indicator": "HIV incidence, treatment rate, and mortality",
+      "targets": {
+        "primary-target": "3.3",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "HIV incidence, treatment rate, and mortality",
       "data": {
         "url": "",
         "format": "",
@@ -582,14 +807,20 @@
       },
       "source": "http://indicators.report/indicators/i-20/",
       "leads": "WHO, UNAIDS",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "A",
+      "priority": "",
       "category": "modified MDG Indicator, 100"
     },
     {
       "goal": 3,
-      "targets": "3.3",
-      "indicator": "Incidence, prevalence, and death rates associated with all forms of TB",
+      "targets": {
+        "primary-target": "3.3",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Incidence, prevalence, and death rates associated with all forms of TB",
       "data": {
         "url": "",
         "format": "",
@@ -597,14 +828,20 @@
       },
       "source": "http://indicators.report/indicators/i-21/",
       "leads": "WHO",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "A",
+      "priority": "",
       "category": "MDG Indicator, 100"
     },
     {
       "goal": 3,
-      "targets": "3.3",
-      "indicator": "Incidence and death rates associated with malaria",
+      "targets": {
+        "primary-target": "3.3",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Incidence and death rates associated with malaria",
       "data": {
         "url": "",
         "format": "",
@@ -612,14 +849,20 @@
       },
       "source": "http://indicators.report/indicators/i-22/",
       "leads": "WHO",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "A",
+      "priority": "",
       "category": "MDG Indicator, 100"
     },
     {
       "goal": 3,
-      "targets": "3.4",
-      "indicator": "Probability of dying between exact ages 30 and 70 from any of cardiovascular disease, cancer, diabetes, chronic respiratory disease, [or suicide]",
+      "targets": {
+        "primary-target": "3.4",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Probability of dying between exact ages 30 and 70 from any of cardiovascular disease, cancer, diabetes, chronic respiratory disease, [or suicide]",
       "data": {
         "url": "",
         "format": "",
@@ -627,14 +870,20 @@
       },
       "source": "http://indicators.report/indicators/i-23/",
       "leads": "WHO",
-      "other goals": "11",
+      "data-sources":"",
+      "other-goals": "11",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 3,
-      "targets": "3.4",
-      "indicator": "Percent of population overweight and obese, including children under 5",
+      "targets": {
+        "primary-target": "3.4",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percent of population overweight and obese, including children under 5",
       "data": {
         "url": "",
         "format": "",
@@ -642,14 +891,20 @@
       },
       "source": "http://indicators.report/indicators/i-24/",
       "leads": "WHO",
-      "other goals": "12",
+      "data-sources":"",
+      "other-goals": "12",
       "available": "B",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 3,
-      "targets": "3.6,11.2",
-      "indicator": "Road traffic deaths per 100,000 population",
+      "targets": {
+        "primary-target": "3.6,11.2",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Road traffic deaths per 100,000 population",
       "data": {
         "url": "",
         "format": "",
@@ -657,14 +912,20 @@
       },
       "source": "http://indicators.report/indicators/i-25/",
       "leads": "WHO, UN-Habitat",
-      "other goals": "9, 11",
+      "data-sources":"",
+      "other-goals": "9, 11",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 3,
-      "targets": "3.3,3.4,3.8,11.1",
-      "indicator": "[Consultations with a licensed provider in a health facility or the community per person, per year]",
+      "targets": {
+        "primary-target": "3.3,3.4,3.8,11.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Consultations with a licensed provider in a health facility or the community per person, per year]",
       "data": {
         "url": "",
         "format": "",
@@ -672,14 +933,20 @@
       },
       "source": "http://indicators.report/indicators/i-26/",
       "leads": "WHO",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 3,
-      "targets": "3.3,3.8,5.1",
-      "indicator": "[Percentage of population without effective financial protection for health care]",
+      "targets": {
+        "primary-target": "3.3,3.8,5.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Percentage of population without effective financial protection for health care]",
       "data": {
         "url": "",
         "format": "",
@@ -687,14 +954,20 @@
       },
       "source": "http://indicators.report/indicators/i-27/",
       "leads": "WHO",
-      "other goals": "11",
+      "data-sources":"",
+      "other-goals": "11",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 3,
-      "targets": "3.4",
-      "indicator": "Proportion of persons with a severe mental disorder (psychosis, bipolar affective disorder, or moderate-severe depression) who are using services",
+      "targets": {
+        "primary-target": "3.4",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Proportion of persons with a severe mental disorder (psychosis, bipolar affective disorder, or moderate-severe depression) who are using services",
       "data": {
         "url": "",
         "format": "",
@@ -702,14 +975,20 @@
       },
       "source": "http://indicators.report/indicators/i-28/",
       "leads": "WHO",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "C",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 3,
-      "targets": "3.7,5.6",
-      "indicator": "Contraceptive prevalence rate",
+      "targets": {
+        "primary-target": "3.7,5.6",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Contraceptive prevalence rate",
       "data": {
         "url": "",
         "format": "",
@@ -717,14 +996,20 @@
       },
       "source": "http://indicators.report/indicators/i-29/",
       "leads": "UN Population Division, UNFPA",
-      "other goals": "5",
+      "data-sources":"",
+      "other-goals": "5",
       "available": "A",
+      "priority": "",
       "category": "MDG Indicator, 100"
     },
     {
       "goal": 3,
-      "targets": "3.4,3.5,3.a",
-      "indicator": "Current use of any tobacco product (age-standardized rate)",
+      "targets": {
+        "primary-target": "3.4,3.5,3.a",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Current use of any tobacco product (age-standardized rate)",
       "data": {
         "url": "",
         "format": "",
@@ -732,14 +1017,20 @@
       },
       "source": "http://indicators.report/indicators/i-30/",
       "leads": "WHO",
-      "other goals": "12",
+      "data-sources":"",
+      "other-goals": "12",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Percentage of births attended by skilled health personnel",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of births attended by skilled health personnel",
       "data": {
         "url": "",
         "format": "",
@@ -747,14 +1038,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Antenatal care coverage (at least one visit and at least four visits)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Antenatal care coverage (at least one visit and at least four visits)",
       "data": {
         "url": "",
         "format": "",
@@ -762,14 +1059,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Post-natal care coverage (one visit)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Post-natal care coverage (one visit)",
       "data": {
         "url": "",
         "format": "",
@@ -777,14 +1080,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Coverage of iron-folic acid supplements for pregnant women (%)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Coverage of iron-folic acid supplements for pregnant women (%)",
       "data": {
         "url": "",
         "format": "",
@@ -792,14 +1101,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Incidence rate of diarrheal disease in children under 5 years",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Incidence rate of diarrheal disease in children under 5 years",
       "data": {
         "url": "",
         "format": "",
@@ -807,14 +1122,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Percentage of 1 year-old children immunized against measles",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of 1 year-old children immunized against measles",
       "data": {
         "url": "",
         "format": "",
@@ -822,14 +1143,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Percent HIV+ pregnant women receiving PMTCT",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percent HIV+ pregnant women receiving PMTCT",
       "data": {
         "url": "",
         "format": "",
@@ -837,14 +1164,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Condom use at last high-risk sex",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Condom use at last high-risk sex",
       "data": {
         "url": "",
         "format": "",
@@ -852,14 +1185,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Percentage of tuberculosis cases detected and cured under directly observed treatment short course",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of tuberculosis cases detected and cured under directly observed treatment short course",
       "data": {
         "url": "",
         "format": "",
@@ -867,14 +1206,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Percentage of children under 5 with fever who are treated with appropriate anti-malarial drugs",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of children under 5 with fever who are treated with appropriate anti-malarial drugs",
       "data": {
         "url": "",
         "format": "",
@@ -882,14 +1227,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Percentage of people in malaria-endemic areas sleeping under insecticide-treated bed nets",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of people in malaria-endemic areas sleeping under insecticide-treated bed nets",
       "data": {
         "url": "",
         "format": "",
@@ -897,14 +1248,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "modified MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Percentage of confirmed malaria cases that receive first-line antimalarial therapy according to national policy",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of confirmed malaria cases that receive first-line antimalarial therapy according to national policy",
       "data": {
         "url": "",
         "format": "",
@@ -912,14 +1269,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Percentage of suspected malaria cases that receive a parasitological test",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of suspected malaria cases that receive a parasitological test",
       "data": {
         "url": "",
         "format": "",
@@ -927,14 +1290,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Percentage of pregnant women receiving malaria IPT (in endemic areas)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of pregnant women receiving malaria IPT (in endemic areas)",
       "data": {
         "url": "",
         "format": "",
@@ -942,14 +1311,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Neglected Tropical Disease (NTD) cure rate",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Neglected Tropical Disease (NTD) cure rate",
       "data": {
         "url": "",
         "format": "",
@@ -957,14 +1332,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Incidence and death rates associated with hepatitis",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Incidence and death rates associated with hepatitis",
       "data": {
         "url": "",
         "format": "",
@@ -972,14 +1353,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Percentage of women with cervical cancer screening",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of women with cervical cancer screening",
       "data": {
         "url": "",
         "format": "",
@@ -987,14 +1374,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Percentage of adults with hypertension diagnosed & receiving treatment",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of adults with hypertension diagnosed & receiving treatment",
       "data": {
         "url": "",
         "format": "",
@@ -1002,14 +1395,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Harmful use of alcohol",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Harmful use of alcohol",
       "data": {
         "url": "",
         "format": "",
@@ -1017,14 +1416,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Healthy life expectancy at birth",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Healthy life expectancy at birth",
       "data": {
         "url": "",
         "format": "",
@@ -1032,14 +1437,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Waiting time for elective surgery",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Waiting time for elective surgery",
       "data": {
         "url": "",
         "format": "",
@@ -1047,14 +1458,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Prevalence of insufficient physical activity",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Prevalence of insufficient physical activity",
       "data": {
         "url": "",
         "format": "",
@@ -1062,14 +1479,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Fraction of calories from added saturated fats and sugars",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Fraction of calories from added saturated fats and sugars",
       "data": {
         "url": "",
         "format": "",
@@ -1077,14 +1500,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Age-standardized mean population intake of salt (sodium chloride) per day in grams in persons aged 18+ years",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Age-standardized mean population intake of salt (sodium chloride) per day in grams in persons aged 18+ years",
       "data": {
         "url": "",
         "format": "",
@@ -1092,14 +1521,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Prevalence of persons (aged 18+ years) consuming less than five total servings (400 grams) of fruit and vegetables per day",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Prevalence of persons (aged 18+ years) consuming less than five total servings (400 grams) of fruit and vegetables per day",
       "data": {
         "url": "",
         "format": "",
@@ -1107,14 +1542,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Percentage change in per capita [red] meat consumption relative to a 2015 baseline",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage change in per capita [red] meat consumption relative to a 2015 baseline",
       "data": {
         "url": "",
         "format": "",
@@ -1122,14 +1563,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Age-standardized (to world population age distribution) prevalence of diabetes (preferably based on HbA1c), hypertension, cardiovascular disease, and chronic respiratory disease",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Age-standardized (to world population age distribution) prevalence of diabetes (preferably based on HbA1c), hypertension, cardiovascular disease, and chronic respiratory disease",
       "data": {
         "url": "",
         "format": "",
@@ -1137,14 +1584,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "[Mortality from indoor air pollution]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Mortality from indoor air pollution]",
       "data": {
         "url": "",
         "format": "",
@@ -1152,14 +1605,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Percentage of health facilities meeting service specific readiness requirements",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of health facilities meeting service specific readiness requirements",
       "data": {
         "url": "",
         "format": "",
@@ -1167,14 +1626,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Percentage of population with access to affordable essential drugs and commodities on a sustainable basis",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of population with access to affordable essential drugs and commodities on a sustainable basis",
       "data": {
         "url": "",
         "format": "",
@@ -1182,14 +1647,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Percentage of new health care facilities built in compliance with building codes and standards",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of new health care facilities built in compliance with building codes and standards",
       "data": {
         "url": "",
         "format": "",
@@ -1197,14 +1668,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Public and private R&D expenditure on health (% GNP)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Public and private R&D expenditure on health (% GNP)",
       "data": {
         "url": "",
         "format": "",
@@ -1212,14 +1689,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Ratio of health professionals to population (MDs, nurse midwives, nurses, community health workers, EmOC caregivers)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Ratio of health professionals to population (MDs, nurse midwives, nurses, community health workers, EmOC caregivers)",
       "data": {
         "url": "",
         "format": "",
@@ -1227,14 +1710,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Percentage of women and men aged 15‚Äì49 who report discriminatory attitudes towards people living with HIV",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of women and men aged 15‚Äì49 who report discriminatory attitudes towards people living with HIV",
       "data": {
         "url": "",
         "format": "",
@@ -1242,14 +1731,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 3,
-      "targets": "",
-      "indicator": "Stillbirth rate",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Stillbirth rate",
       "data": {
         "url": "",
         "format": "",
@@ -1257,14 +1752,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 4,
-      "targets": "4.2,4.5",
-      "indicator": "Percentage of children (36-59 months) receiving at least one year of a quality pre-primary education program",
+      "targets": {
+        "primary-target": "4.2,4.5",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of children (36-59 months) receiving at least one year of a quality pre-primary education program",
       "data": {
         "url": "",
         "format": "",
@@ -1272,14 +1773,20 @@
       },
       "source": "http://indicators.report/indicators/i-31/",
       "leads": "UNESCO, UNICEF, World Bank",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 4,
-      "targets": "4.2",
-      "indicator": "Early Child Development Index (ECDI)",
+      "targets": {
+        "primary-target": "4.2",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Early Child Development Index (ECDI)",
       "data": {
         "url": "",
         "format": "",
@@ -1287,14 +1794,20 @@
       },
       "source": "http://indicators.report/indicators/i-32/",
       "leads": "UNICEF, UNESCO",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "B",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 4,
-      "targets": "4.1,4.5,4.6,5.1",
-      "indicator": "Primary completion rates for girls and boys",
+      "targets": {
+        "primary-target": "4.1,4.5,4.6,5.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Primary completion rates for girls and boys",
       "data": {
         "url": "",
         "format": "",
@@ -1302,14 +1815,20 @@
       },
       "source": "http://indicators.report/indicators/i-33/",
       "leads": "UNESCO",
-      "other goals": "5",
+      "data-sources":"",
+      "other-goals": "5",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 4,
-      "targets": "4.1,4.6",
-      "indicator": "[Percentage of girls and boys who master a broad range of foundational skills, including in literacy and mathematics by the end of the primary school cycle (based on credibly established national benchmarks)]",
+      "targets": {
+        "primary-target": "4.1,4.6",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Percentage of girls and boys who master a broad range of foundational skills, including in literacy and mathematics by the end of the primary school cycle (based on credibly established national benchmarks)]",
       "data": {
         "url": "",
         "format": "",
@@ -1317,14 +1836,20 @@
       },
       "source": "http://indicators.report/indicators/i-34/",
       "leads": "UNESCO",
-      "other goals": "5",
+      "data-sources":"",
+      "other-goals": "5",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 4,
-      "targets": "4.1,4.4,4.5,4.6,5.1,8.6",
-      "indicator": "Secondary completion rates for girls and boys",
+      "targets": {
+        "primary-target": "4.1,4.4,4.5,4.6,5.1,8.6",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Secondary completion rates for girls and boys",
       "data": {
         "url": "",
         "format": "",
@@ -1332,14 +1857,20 @@
       },
       "source": "http://indicators.report/indicators/i-35/",
       "leads": "UNESCO",
-      "other goals": "5, 8",
+      "data-sources":"",
+      "other-goals": "5, 8",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 4,
-      "targets": "4.1,4.4,4.7",
-      "indicator": "[Percentage of girls and boys who achieve proficiency across a broad range of learning outcomes, including in literacy and in mathematics by end of lower secondary schooling cycle (based on credibly established national benchmarks)]",
+      "targets": {
+        "primary-target": "4.1,4.4,4.7",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Percentage of girls and boys who achieve proficiency across a broad range of learning outcomes, including in literacy and in mathematics by end of lower secondary schooling cycle (based on credibly established national benchmarks)]",
       "data": {
         "url": "",
         "format": "",
@@ -1347,14 +1878,20 @@
       },
       "source": "http://indicators.report/indicators/i-36/",
       "leads": "UNESCO",
-      "other goals": "5",
+      "data-sources":"",
+      "other-goals": "5",
       "available": "B",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 4,
-      "targets": "4.3,4.4,4.5,8.6",
-      "indicator": "Tertiary enrollment rates for women and men",
+      "targets": {
+        "primary-target": "4.3,4.4,4.5,8.6",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Tertiary enrollment rates for women and men",
       "data": {
         "url": "",
         "format": "",
@@ -1362,14 +1899,20 @@
       },
       "source": "http://indicators.report/indicators/i-37/",
       "leads": "UNESCO",
-      "other goals": "5, 8",
+      "data-sources":"",
+      "other-goals": "5, 8",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 4,
-      "targets": "",
-      "indicator": "[Percentage of girls and boys who acquire skills and values needed for global citizenship and sustainable development (national benchmarks to be developed) by the end of lower secondary]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Percentage of girls and boys who acquire skills and values needed for global citizenship and sustainable development (national benchmarks to be developed) by the end of lower secondary]",
       "data": {
         "url": "",
         "format": "",
@@ -1377,14 +1920,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 4,
-      "targets": "",
-      "indicator": "Percentage of children under 5 experiencing responsive, stimulating parenting in safe environments",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of children under 5 experiencing responsive, stimulating parenting in safe environments",
       "data": {
         "url": "",
         "format": "",
@@ -1392,14 +1941,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 4,
-      "targets": "",
-      "indicator": "Number of children out of school",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Number of children out of school",
       "data": {
         "url": "",
         "format": "",
@@ -1407,14 +1962,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 4,
-      "targets": "",
-      "indicator": "[Percentage of adolescents (15-19 years) with access to school-to-work programs]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Percentage of adolescents (15-19 years) with access to school-to-work programs]",
       "data": {
         "url": "",
         "format": "",
@@ -1422,14 +1983,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 4,
-      "targets": "",
-      "indicator": "Literacy rate of 15-24 year-olds, women and men",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Literacy rate of 15-24 year-olds, women and men",
       "data": {
         "url": "",
         "format": "",
@@ -1437,14 +2004,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 4,
-      "targets": "",
-      "indicator": "[Percentage of young adults (18-24 years) with access to a learning program]-to be developed",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Percentage of young adults (18-24 years) with access to a learning program]-to be developed",
       "data": {
         "url": "",
         "format": "",
@@ -1452,14 +2025,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 4,
-      "targets": "",
-      "indicator": "[Indicator on share of education facilities that provide an effective learning environment]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on share of education facilities that provide an effective learning environment]",
       "data": {
         "url": "",
         "format": "",
@@ -1467,14 +2046,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 4,
-      "targets": "",
-      "indicator": "Pupil to computer ratio in primary and secondary education",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Pupil to computer ratio in primary and secondary education",
       "data": {
         "url": "",
         "format": "",
@@ -1482,14 +2067,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 4,
-      "targets": "",
-      "indicator": "[Indicator on scholarships for students from developing countries]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on scholarships for students from developing countries]",
       "data": {
         "url": "",
         "format": "",
@@ -1497,14 +2088,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 4,
-      "targets": "",
-      "indicator": "[Indicator on supply of qualified teachers]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on supply of qualified teachers]",
       "data": {
         "url": "",
         "format": "",
@@ -1512,14 +2109,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 4,
-      "targets": "",
-      "indicator": "Presence of legal frameworks that guarantee the right to education for all children for early childhood and basic education, and that guarantee a minimum age of entry to employment not below the years of basic education.",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Presence of legal frameworks that guarantee the right to education for all children for early childhood and basic education, and that guarantee a minimum age of entry to employment not below the years of basic education.",
       "data": {
         "url": "",
         "format": "",
@@ -1527,14 +2130,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 5,
-      "targets": "5.2,16.1",
-      "indicator": "Prevalence of girls and women 15-49 who have experienced physical or sexual violence [by an intimate partner] in the last 12 months",
+      "targets": {
+        "primary-target": "5.2,16.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Prevalence of girls and women 15-49 who have experienced physical or sexual violence [by an intimate partner] in the last 12 months",
       "data": {
         "url": "",
         "format": "",
@@ -1542,14 +2151,20 @@
       },
       "source": "http://indicators.report/indicators/i-38/",
       "leads": "WHO, UNSD",
-      "other goals": "3",
+      "data-sources":"",
+      "other-goals": "3",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 5,
-      "targets": "5.2,16.3",
-      "indicator": "Percentage of referred cases of sexual and gender-based violence against women and children that are investigated and sentenced",
+      "targets": {
+        "primary-target": "5.2,16.3",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of referred cases of sexual and gender-based violence against women and children that are investigated and sentenced",
       "data": {
         "url": "",
         "format": "",
@@ -1557,14 +2172,20 @@
       },
       "source": "http://indicators.report/indicators/i-39/",
       "leads": "Global Network of Women Peacebuilders, UN Women",
-      "other goals": "16",
+      "data-sources":"",
+      "other-goals": "16",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 5,
-      "targets": "5.3",
-      "indicator": "Percentage of women aged 20-24 who were married or in a union by age 18",
+      "targets": {
+        "primary-target": "5.3",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of women aged 20-24 who were married or in a union by age 18",
       "data": {
         "url": "",
         "format": "",
@@ -1572,14 +2193,20 @@
       },
       "source": "http://indicators.report/indicators/i-40/",
       "leads": "UNICEF",
-      "other goals": "3",
+      "data-sources":"",
+      "other-goals": "3",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 5,
-      "targets": "5.3,5.6",
-      "indicator": "Percentage of girls and women aged 15-49 years who have undergone FGM/C",
+      "targets": {
+        "primary-target": "5.3,5.6",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of girls and women aged 15-49 years who have undergone FGM/C",
       "data": {
         "url": "",
         "format": "",
@@ -1587,14 +2214,20 @@
       },
       "source": "http://indicators.report/indicators/i-41/",
       "leads": "UNICEF",
-      "other goals": "3",
+      "data-sources":"",
+      "other-goals": "3",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 5,
-      "targets": "5.4",
-      "indicator": "Average number of hours spent on paid and unpaid work combined (total work burden), by sex",
+      "targets": {
+        "primary-target": "5.4",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Average number of hours spent on paid and unpaid work combined (total work burden), by sex",
       "data": {
         "url": "",
         "format": "",
@@ -1602,14 +2235,20 @@
       },
       "source": "http://indicators.report/indicators/i-42/",
       "leads": "ILO with IAEG-GS (UNSD)",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 5,
-      "targets": "5.1,5.5,5.c,10.2,10.3,16.7",
-      "indicator": "Percentage of seats held by women and minorities in national parliament and/or sub-national elected office according to their respective share of the population",
+      "targets": {
+        "primary-target": "5.1,5.5,5.c,10.2,10.3,16.7",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of seats held by women and minorities in national parliament and/or sub-national elected office according to their respective share of the population",
       "data": {
         "url": "",
         "format": "",
@@ -1617,14 +2256,20 @@
       },
       "source": "http://indicators.report/indicators/i-43/",
       "leads": "Inter-Parliamentary Union (IPU), United Cities and Local Governments (UCLG) Standing Committee on Gender Equality",
-      "other goals": "10, 16",
+      "data-sources":"",
+      "other-goals": "10, 16",
       "available": "B",
+      "priority": "",
       "category": "modified MDG Indicator, 100"
     },
     {
       "goal": 5,
-      "targets": "3.7,5.6",
-      "indicator": "Met demand for family planning",
+      "targets": {
+        "primary-target": "3.7,5.6",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Met demand for family planning",
       "data": {
         "url": "",
         "format": "",
@@ -1632,14 +2277,20 @@
       },
       "source": "http://indicators.report/indicators/i-44/",
       "leads": "UN Population Division, UNFPA",
-      "other goals": "3",
+      "data-sources":"",
+      "other-goals": "3",
       "available": "B",
+      "priority": "",
       "category": "modified MDG Indicator, 100"
     },
     {
       "goal": 5,
-      "targets": "",
-      "indicator": "Gender gap in wages, by sector of economic activity",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Gender gap in wages, by sector of economic activity",
       "data": {
         "url": "",
         "format": "",
@@ -1647,14 +2298,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 5,
-      "targets": "",
-      "indicator": "Share of women on corporate boards of national / multi-national corporations (MNCs)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Share of women on corporate boards of national / multi-national corporations (MNCs)",
       "data": {
         "url": "",
         "format": "",
@@ -1662,14 +2319,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 5,
-      "targets": "",
-      "indicator": "Percentage of women without incomes of their own",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of women without incomes of their own",
       "data": {
         "url": "",
         "format": "",
@@ -1677,14 +2340,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 5,
-      "targets": "",
-      "indicator": "Adolescent birth rate",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Adolescent birth rate",
       "data": {
         "url": "",
         "format": "",
@@ -1692,14 +2361,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 5,
-      "targets": "",
-      "indicator": "Percentage of young people receiving comprehensive sexuality education",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of young people receiving comprehensive sexuality education",
       "data": {
         "url": "",
         "format": "",
@@ -1707,14 +2382,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 6,
-      "targets": "6.1,9.1,11.1",
-      "indicator": "Percentage of population using safely managed water services, by urban/rural",
+      "targets": {
+        "primary-target": "6.1,9.1,11.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of population using safely managed water services, by urban/rural",
       "data": {
         "url": "",
         "format": "",
@@ -1722,14 +2403,20 @@
       },
       "source": "http://indicators.report/indicators/i-45/",
       "leads": "WHO/UNICEF Joint Monitoring Programme (JMP)",
-      "other goals": "1, 2, 3, 9, 11",
+      "data-sources":"",
+      "other-goals": "1, 2, 3, 9, 11",
       "available": "",
+      "priority": "",
       "category": "modified MDG Indicator, 100"
     },
     {
       "goal": 6,
-      "targets": "6.2,9.1,11.1",
-      "indicator": "Percentage of population using safely managed sanitation services, by urban/rural",
+      "targets": {
+        "primary-target": "6.2,9.1,11.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of population using safely managed sanitation services, by urban/rural",
       "data": {
         "url": "",
         "format": "",
@@ -1737,14 +2424,20 @@
       },
       "source": "http://indicators.report/indicators/i-46/",
       "leads": "WHO/UNICEF JMP",
-      "other goals": "1, 2, 3, 9, 11",
+      "data-sources":"",
+      "other-goals": "1, 2, 3, 9, 11",
       "available": "",
+      "priority": "",
       "category": "modified MDG Indicator, 100"
     },
     {
       "goal": 6,
-      "targets": "6.1,6.3,6.6,9.4,11.6,12.5",
-      "indicator": "Percentage of wastewater flows treated to national standards [and reused]",
+      "targets": {
+        "primary-target": "6.1,6.3,6.6,9.4,11.6,12.5",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of wastewater flows treated to national standards [and reused]",
       "data": {
         "url": "",
         "format": "",
@@ -1752,14 +2445,20 @@
       },
       "source": "http://indicators.report/indicators/i-47/",
       "leads": "WHO/UNICEF JMP, UNEP, UN-Habitat",
-      "other goals": "3, 9, 11, 12, 14",
+      "data-sources":"",
+      "other-goals": "3, 9, 11, 12, 14",
       "available": "B",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 6,
-      "targets": "6.3,6.5,6.6",
-      "indicator": "[Indicator on water resource management]",
+      "targets": {
+        "primary-target": "6.3,6.5,6.6",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on water resource management]",
       "data": {
         "url": "",
         "format": "",
@@ -1767,14 +2466,20 @@
       },
       "source": "http://indicators.report/indicators/i-48/",
       "leads": "WHO, UNEP, UN-Habitat",
-      "other goals": "12, 14, 15",
+      "data-sources":"",
+      "other-goals": "12, 14, 15",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 6,
-      "targets": "6.1,6.4,6.5,6.6,8.4,12.2,15.1",
-      "indicator": "Proportion of total water resources used",
+      "targets": {
+        "primary-target": "6.1,6.4,6.5,6.6,8.4,12.2,15.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Proportion of total water resources used",
       "data": {
         "url": "",
         "format": "",
@@ -1782,14 +2487,20 @@
       },
       "source": "http://indicators.report/indicators/i-49/",
       "leads": "FAO Aquastat, UNEP",
-      "other goals": "2, 9, 11, 12",
+      "data-sources":"",
+      "other-goals": "2, 9, 11, 12",
       "available": "B",
+      "priority": "",
       "category": "MDG Indicator, 100"
     },
     {
       "goal": 6,
-      "targets": "",
-      "indicator": "Percentage of population practicing open defecation",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of population practicing open defecation",
       "data": {
         "url": "",
         "format": "",
@@ -1797,14 +2508,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 6,
-      "targets": "",
-      "indicator": "Percentage of population with basic hand washing facilities with soap and water at home",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of population with basic hand washing facilities with soap and water at home",
       "data": {
         "url": "",
         "format": "",
@@ -1812,14 +2529,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 6,
-      "targets": "",
-      "indicator": "Proportion of the population connected to collective sewers or with on-site storage of all domestic wastewaters",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Proportion of the population connected to collective sewers or with on-site storage of all domestic wastewaters",
       "data": {
         "url": "",
         "format": "",
@@ -1827,14 +2550,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 6,
-      "targets": "",
-      "indicator": "Percentage of pupils enrolled in primary schools and secondary schools providing basic drinking water, adequate sanitation, and adequate hygiene services",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of pupils enrolled in primary schools and secondary schools providing basic drinking water, adequate sanitation, and adequate hygiene services",
       "data": {
         "url": "",
         "format": "",
@@ -1842,14 +2571,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 6,
-      "targets": "",
-      "indicator": "Percentage of beneficiaries using hospitals, health centers and clinics providing basic drinking water, adequate sanitation, and adequate hygiene",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of beneficiaries using hospitals, health centers and clinics providing basic drinking water, adequate sanitation, and adequate hygiene",
       "data": {
         "url": "",
         "format": "",
@@ -1857,14 +2592,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 6,
-      "targets": "",
-      "indicator": "Proportion of the flows of treated municipal wastewater that are directly and safely reused",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Proportion of the flows of treated municipal wastewater that are directly and safely reused",
       "data": {
         "url": "",
         "format": "",
@@ -1872,14 +2613,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 6,
-      "targets": "",
-      "indicator": "[Reporting of international river shed authorities on transboundary river-shed management]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Reporting of international river shed authorities on transboundary river-shed management]",
       "data": {
         "url": "",
         "format": "",
@@ -1887,14 +2634,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 6,
-      "targets": "",
-      "indicator": "[Indicator on international cooperation and capacity building in water and sanitation-related activities]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on international cooperation and capacity building in water and sanitation-related activities]",
       "data": {
         "url": "",
         "format": "",
@@ -1902,14 +2655,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 6,
-      "targets": "",
-      "indicator": "[Indicator on participation of local communities for improving water and sanitation management]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on participation of local communities for improving water and sanitation management]",
       "data": {
         "url": "",
         "format": "",
@@ -1917,14 +2676,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 7,
-      "targets": "7.1,9.1,11.1",
-      "indicator": "Share of the population using modern cooking solutions, by urban/rural",
+      "targets": {
+        "primary-target": "7.1,9.1,11.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Share of the population using modern cooking solutions, by urban/rural",
       "data": {
         "url": "",
         "format": "",
@@ -1932,14 +2697,20 @@
       },
       "source": "http://indicators.report/indicators/i-50/",
       "leads": "Sustainable Energy for All, IEA, WHO",
-      "other goals": "1, 3, 5, 9, 11, 12",
+      "data-sources":"",
+      "other-goals": "1, 3, 5, 9, 11, 12",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 7,
-      "targets": "7.1,7.b,9.1,11.1",
-      "indicator": "Share of the population using reliable electricity, by urban/rural",
+      "targets": {
+        "primary-target": "7.1,7.b,9.1,11.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Share of the population using reliable electricity, by urban/rural",
       "data": {
         "url": "",
         "format": "",
@@ -1947,14 +2718,20 @@
       },
       "source": "http://indicators.report/indicators/i-51/",
       "leads": "Sustainable Energy for All, IEA, World Bank",
-      "other goals": "1, 3, 5, 9, 11, 12",
+      "data-sources":"",
+      "other-goals": "1, 3, 5, 9, 11, 12",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 7,
-      "targets": "7.2,7.b,8.4,13.2",
-      "indicator": "Implicit incentives for low-carbon energy in the electricity sector (measured as US$/MWh or US$ per ton avoided CO2)",
+      "targets": {
+        "primary-target": "7.2,7.b,8.4,13.2",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Implicit incentives for low-carbon energy in the electricity sector (measured as US$/MWh or US$ per ton avoided CO2)",
       "data": {
         "url": "",
         "format": "",
@@ -1962,14 +2739,20 @@
       },
       "source": "http://indicators.report/indicators/i-52/",
       "leads": "IEA, UNFCCC",
-      "other goals": "11, 13",
+      "data-sources":"",
+      "other-goals": "11, 13",
       "available": "C",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 7,
-      "targets": "7.3,13.2",
-      "indicator": "Rate of primary energy intensity improvement",
+      "targets": {
+        "primary-target": "7.3,13.2",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Rate of primary energy intensity improvement",
       "data": {
         "url": "",
         "format": "",
@@ -1977,14 +2760,20 @@
       },
       "source": "http://indicators.report/indicators/i-53/",
       "leads": "Sustainable Energy for All, IEA",
-      "other goals": "11, 13",
+      "data-sources":"",
+      "other-goals": "11, 13",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 7,
-      "targets": "",
-      "indicator": "Primary energy by type",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Primary energy by type",
       "data": {
         "url": "",
         "format": "",
@@ -1992,14 +2781,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 7,
-      "targets": "",
-      "indicator": "Fossil fuel subsidies ($ or %GNI)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Fossil fuel subsidies ($ or %GNI)",
       "data": {
         "url": "",
         "format": "",
@@ -2007,14 +2802,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 7,
-      "targets": "",
-      "indicator": "Share of energy from renewables",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Share of energy from renewables",
       "data": {
         "url": "",
         "format": "",
@@ -2022,14 +2823,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 8,
-      "targets": "8.1,17.13",
-      "indicator": "GNI per capita (PPP, current US$ Atlas method)",
+      "targets": {
+        "primary-target": "8.1,17.13",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "GNI per capita (PPP, current US$ Atlas method)",
       "data": {
         "url": "",
         "format": "",
@@ -2037,14 +2844,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "IMF, World Bank, UNSD",
-      "other goals": "11",
+      "data-sources":"",
+      "other-goals": "11",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 8,
-      "targets": "8.4,12.1,12.2,12.4,15.9,17.18",
-      "indicator": "Country implements and reports on System of Environmental-Economic Accounting (SEEA) accounts",
+      "targets": {
+        "primary-target": "8.4,12.1,12.2,12.4,15.9,17.18",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Country implements and reports on System of Environmental-Economic Accounting (SEEA) accounts",
       "data": {
         "url": "",
         "format": "",
@@ -2052,14 +2865,20 @@
       },
       "source": "http://indicators.report/indicators/i-55/",
       "leads": "UNSD",
-      "other goals": "12, 17",
+      "data-sources":"",
+      "other-goals": "12, 17",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 8,
-      "targets": "8.3,8.5,8.6,8.b",
-      "indicator": "Youth employment rate, by formal and informal sector",
+      "targets": {
+        "primary-target": "8.3,8.5,8.6,8.b",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Youth employment rate, by formal and informal sector",
       "data": {
         "url": "",
         "format": "",
@@ -2067,14 +2886,20 @@
       },
       "source": "http://indicators.report/indicators/i-56/",
       "leads": "ILO",
-      "other goals": "11",
+      "data-sources":"",
+      "other-goals": "11",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 8,
-      "targets": "8.3,8.5,8.7,8.8,8.b,10.2,10.3,10.4,16.2",
-      "indicator": "Ratification and implementation of fundamental ILO labor standards and compliance in law and practice",
+      "targets": {
+        "primary-target": "8.3,8.5,8.7,8.8,8.b,10.2,10.3,10.4,16.2",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Ratification and implementation of fundamental ILO labor standards and compliance in law and practice",
       "data": {
         "url": "",
         "format": "",
@@ -2082,14 +2907,20 @@
       },
       "source": "http://indicators.report/indicators/i-57/",
       "leads": "ILO",
-      "other goals": "5, 9, 10, 11, 17",
+      "data-sources":"",
+      "other-goals": "5, 9, 10, 11, 17",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 8,
-      "targets": "",
-      "indicator": "Growth rate of GDP per person employed",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Growth rate of GDP per person employed",
       "data": {
         "url": "",
         "format": "",
@@ -2097,14 +2928,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 8,
-      "targets": "",
-      "indicator": "Working poverty rate measured at $2 PPP per capita per day",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Working poverty rate measured at $2 PPP per capita per day",
       "data": {
         "url": "",
         "format": "",
@@ -2112,14 +2949,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 8,
-      "targets": "",
-      "indicator": "[Indicator of decent work]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator of decent work]",
       "data": {
         "url": "",
         "format": "",
@@ -2127,14 +2970,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 8,
-      "targets": "",
-      "indicator": "Household income, including in-kind services (PPP, current US$)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Household income, including in-kind services (PPP, current US$)",
       "data": {
         "url": "",
         "format": "",
@@ -2142,14 +2991,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 8,
-      "targets": "",
-      "indicator": "Employment to population ratio (EPR) by gender and age group (15‚Äì64)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Employment to population ratio (EPR) by gender and age group (15‚Äì64)",
       "data": {
         "url": "",
         "format": "",
@@ -2157,14 +3012,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 8,
-      "targets": "",
-      "indicator": "Share of informal employment in total employment",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Share of informal employment in total employment",
       "data": {
         "url": "",
         "format": "",
@@ -2172,14 +3033,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 8,
-      "targets": "",
-      "indicator": "Percentage of own-account and contributing family workers in total employment",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of own-account and contributing family workers in total employment",
       "data": {
         "url": "",
         "format": "",
@@ -2187,14 +3054,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 8,
-      "targets": "",
-      "indicator": "Percentage of young people not in education, employment or training (NEET)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of young people not in education, employment or training (NEET)",
       "data": {
         "url": "",
         "format": "",
@@ -2202,14 +3075,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 8,
-      "targets": "",
-      "indicator": "[Indicator on implementation of 10-year framework of programs on sustainable consumption and production]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on implementation of 10-year framework of programs on sustainable consumption and production]",
       "data": {
         "url": "",
         "format": "",
@@ -2217,14 +3096,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 9,
-      "targets": "9.1,11.2",
-      "indicator": "Access to all-weather road (% access within [x] km distance to road)",
+      "targets": {
+        "primary-target": "9.1,11.2",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Access to all-weather road (% access within [x] km distance to road)",
       "data": {
         "url": "",
         "format": "",
@@ -2232,14 +3117,20 @@
       },
       "source": "http://indicators.report/indicators/i-58/",
       "leads": "World Bank",
-      "other goals": "2, 7, 11",
+      "data-sources":"",
+      "other-goals": "2, 7, 11",
       "available": "B",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 9,
-      "targets": "2.a,5.b,8.2,9.1,9.c,17.6",
-      "indicator": "Mobile broadband subscriptions per 100 inhabitants, by urban/rural",
+      "targets": {
+        "primary-target": "2.a,5.b,8.2,9.1,9.c,17.6",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Mobile broadband subscriptions per 100 inhabitants, by urban/rural",
       "data": {
         "url": "",
         "format": "",
@@ -2247,14 +3138,20 @@
       },
       "source": "http://indicators.report/indicators/i-59/",
       "leads": "ITU",
-      "other goals": "2, 11, 17",
+      "data-sources":"",
+      "other-goals": "2, 11, 17",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 9,
-      "targets": "8.2,9.1,9.4,9.c,17.6",
-      "indicator": "Index on ICT maturity",
+      "targets": {
+        "primary-target": "8.2,9.1,9.4,9.c,17.6",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Index on ICT maturity",
       "data": {
         "url": "",
         "format": "",
@@ -2262,14 +3159,20 @@
       },
       "source": "http://indicators.report/indicators/i-60/",
       "leads": "ITU",
-      "other goals": "17",
+      "data-sources":"",
+      "other-goals": "17",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 9,
-      "targets": "8.2,9.2",
-      "indicator": "Manufacturing value added (MVA) as percent of GDP",
+      "targets": {
+        "primary-target": "8.2,9.2",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Manufacturing value added (MVA) as percent of GDP",
       "data": {
         "url": "",
         "format": "",
@@ -2277,14 +3180,20 @@
       },
       "source": "http://indicators.report/indicators/i-61/",
       "leads": "World Bank, OECD, UNIDO",
-      "other goals": "8, 11",
+      "data-sources":"",
+      "other-goals": "8, 11",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 9,
-      "targets": "9.4,13.2",
-      "indicator": "Total energy and industry-related GHG emissions by gas and sector, expressed as production and demand-based emissions (tCO2e)",
+      "targets": {
+        "primary-target": "9.4,13.2",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Total energy and industry-related GHG emissions by gas and sector, expressed as production and demand-based emissions (tCO2e)",
       "data": {
         "url": "",
         "format": "",
@@ -2292,14 +3201,20 @@
       },
       "source": "http://indicators.report/indicators/i-62/",
       "leads": "UNFCCC, OECD, UNIDO",
-      "other goals": "7, 11, 13",
+      "data-sources":"",
+      "other-goals": "7, 11, 13",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 9,
-      "targets": "8.2,9.5,12.a,14.a,17.6",
-      "indicator": "Personnel in R&D (per million inhabitants)",
+      "targets": {
+        "primary-target": "8.2,9.5,12.a,14.a,17.6",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Personnel in R&D (per million inhabitants)",
       "data": {
         "url": "http://data.uis.unesco.org/",
         "format": "",
@@ -2307,14 +3222,20 @@
       },
       "source": "http://indicators.report/indicators/i-63/",
       "leads": "OECD, UNESCO UIS",
-      "other goals": "8, 17",
+      "data-sources":"",
+      "other-goals": "8, 17",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 9,
-      "targets": "",
-      "indicator": "Percentage of households with Internet, by type of service by urban/rural areas",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of households with Internet, by type of service by urban/rural areas",
       "data": {
         "url": "",
         "format": "",
@@ -2322,14 +3243,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 9,
-      "targets": "",
-      "indicator": "Employment in industry (% of total employment)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Employment in industry (% of total employment)",
       "data": {
         "url": "",
         "format": "",
@@ -2337,14 +3264,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 10,
-      "targets": "10.1",
-      "indicator": "[Indicator on inequality at top end of income distribution: GNI share of richest 10% or Palma ratio]",
+      "targets": {
+        "primary-target": "10.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on inequality at top end of income distribution: GNI share of richest 10% or Palma ratio]",
       "data": {
         "url": "",
         "format": "",
@@ -2352,14 +3285,20 @@
       },
       "source": "http://indicators.report/indicators/i-64/",
       "leads": "UNSD, World Bank, OECD",
-      "other goals": "1, 8",
+      "data-sources":"",
+      "other-goals": "1, 8",
       "available": "B",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 10,
-      "targets": "10.1",
-      "indicator": "Percentage of households with incomes below 50% of median income ('relative poverty')",
+      "targets": {
+        "primary-target": "10.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of households with incomes below 50% of median income ('relative poverty')",
       "data": {
         "url": "",
         "format": "",
@@ -2367,14 +3306,20 @@
       },
       "source": "http://indicators.report/indicators/i-65/",
       "leads": "World Bank, OECD, UNSD",
-      "other goals": "1, 8",
+      "data-sources":"",
+      "other-goals": "1, 8",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 10,
-      "targets": "",
-      "indicator": "Gini Coefficient",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Gini Coefficient",
       "data": {
         "url": "",
         "format": "",
@@ -2382,14 +3327,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 10,
-      "targets": "",
-      "indicator": "Income/wage persistence (intergenerational socioeconomic mobility)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Income/wage persistence (intergenerational socioeconomic mobility)",
       "data": {
         "url": "",
         "format": "",
@@ -2397,14 +3348,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 10,
-      "targets": "",
-      "indicator": "Human Mobility Governance Index",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Human Mobility Governance Index",
       "data": {
         "url": "",
         "format": "",
@@ -2412,14 +3369,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 10,
-      "targets": "",
-      "indicator": "Net ODA to LDCs as percentage of high-income countries' GNI",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Net ODA to LDCs as percentage of high-income countries' GNI",
       "data": {
         "url": "",
         "format": "",
@@ -2427,14 +3390,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "modified from MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 10,
-      "targets": "",
-      "indicator": "Indicator on share of LDCs / LIC representatives on boards of IMF / WB (and other institutions of governance)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Indicator on share of LDCs / LIC representatives on boards of IMF / WB (and other institutions of governance)",
       "data": {
         "url": "",
         "format": "",
@@ -2442,14 +3411,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 10,
-      "targets": "",
-      "indicator": "[Remittance transfer costs]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Remittance transfer costs]",
       "data": {
         "url": "",
         "format": "",
@@ -2457,14 +3432,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 11,
-      "targets": "11.1",
-      "indicator": "Percentage of urban population living in slums or informal settlements",
+      "targets": {
+        "primary-target": "11.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of urban population living in slums or informal settlements",
       "data": {
         "url": "",
         "format": "",
@@ -2472,14 +3453,20 @@
       },
       "source": "http://indicators.report/indicators/i-66/",
       "leads": "UN-Habitat, Global City Indicators Facility",
-      "other goals": "1, 6",
+      "data-sources":"",
+      "other-goals": "1, 6",
       "available": "A",
+      "priority": "",
       "category": "MDG Indicator, 100"
     },
     {
       "goal": 11,
-      "targets": "11.2",
-      "indicator": "Percentage of people within 0.5km of public transit running at least every 20 minutes.",
+      "targets": {
+        "primary-target": "11.2",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of people within 0.5km of public transit running at least every 20 minutes.",
       "data": {
         "url": "",
         "format": "",
@@ -2487,14 +3474,20 @@
       },
       "source": "http://indicators.report/indicators/i-67/",
       "leads": "UN-Habitat",
-      "other goals": "9",
+      "data-sources":"",
+      "other-goals": "9",
       "available": "B",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 11,
-      "targets": "11.3,11.6,11.7",
-      "indicator": "[Ratio of land consumption rate to population growth rate, at comparable scale]",
+      "targets": {
+        "primary-target": "11.3,11.6,11.7",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Ratio of land consumption rate to population growth rate, at comparable scale]",
       "data": {
         "url": "",
         "format": "",
@@ -2502,14 +3495,20 @@
       },
       "source": "http://indicators.report/indicators/i-68/",
       "leads": "UN-Habitat, World Bank",
-      "other goals": "3, 12",
+      "data-sources":"",
+      "other-goals": "3, 12",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 11,
-      "targets": "3.9,9.4,11.6,12.4",
-      "indicator": "Mean urban air pollution of particulate matter (PM10 and PM2.5)",
+      "targets": {
+        "primary-target": "3.9,9.4,11.6,12.4",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Mean urban air pollution of particulate matter (PM10 and PM2.5)",
       "data": {
         "url": "",
         "format": "",
@@ -2517,14 +3516,20 @@
       },
       "source": "http://indicators.report/indicators/i-69/",
       "leads": "UN-Habitat, UNEP, WHO",
-      "other goals": "9, 11, 12",
+      "data-sources":"",
+      "other-goals": "9, 11, 12",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 11,
-      "targets": "11.7",
-      "indicator": "Area of public and green space as a proportion of total city space",
+      "targets": {
+        "primary-target": "11.7",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Area of public and green space as a proportion of total city space",
       "data": {
         "url": "",
         "format": "",
@@ -2532,14 +3537,20 @@
       },
       "source": "http://indicators.report/indicators/i-70/",
       "leads": "UN-Habitat, World Bank",
-      "other goals": "13, 17",
+      "data-sources":"",
+      "other-goals": "13, 17",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 11,
-      "targets": "9.4,11.6,12.5",
-      "indicator": "Percentage of urban solid waste regularly collected and well managed",
+      "targets": {
+        "primary-target": "9.4,11.6,12.5",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of urban solid waste regularly collected and well managed",
       "data": {
         "url": "",
         "format": "",
@@ -2547,14 +3558,20 @@
       },
       "source": "http://indicators.report/indicators/i-71/",
       "leads": "UN-Habitat, WHO",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 11,
-      "targets": "",
-      "indicator": "Domestic revenues allocated to sustainable development as percent of GNI - by sector",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Domestic revenues allocated to sustainable development as percent of GNI - by sector",
       "data": {
         "url": "",
         "format": "",
@@ -2562,14 +3579,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": ""
     },
     {
       "goal": 11,
-      "targets": "",
-      "indicator": "Number of street intersections per square kilometer",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Number of street intersections per square kilometer",
       "data": {
         "url": "",
         "format": "",
@@ -2577,14 +3600,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 11,
-      "targets": "",
-      "indicator": "Existence and implementation of a national urban and human settlements policy framework",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Existence and implementation of a national urban and human settlements policy framework",
       "data": {
         "url": "",
         "format": "",
@@ -2592,14 +3621,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 11,
-      "targets": "",
-      "indicator": "Percentage of cities with more than 100, 000 inhabitants that are implementing risk reduction and resilience strategies informed by accepted international frameworks (such as forthcoming Hyogo-2 Framework)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of cities with more than 100, 000 inhabitants that are implementing risk reduction and resilience strategies informed by accepted international frameworks (such as forthcoming Hyogo-2 Framework)",
       "data": {
         "url": "",
         "format": "",
@@ -2607,14 +3642,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 11,
-      "targets": "",
-      "indicator": "Presence of urban building codes stipulating either the use of local materials and/or new energy efficient technologies or with incentives for the same",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Presence of urban building codes stipulating either the use of local materials and/or new energy efficient technologies or with incentives for the same",
       "data": {
         "url": "",
         "format": "",
@@ -2622,14 +3663,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 11,
-      "targets": "",
-      "indicator": "City biodiversity index (Singapore index)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "City biodiversity index (Singapore index)",
       "data": {
         "url": "",
         "format": "",
@@ -2637,14 +3684,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 11,
-      "targets": "",
-      "indicator": "Percentage of consumption of food and raw materials within urban areas that are produced and delivered in/from rural areas within the country",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of consumption of food and raw materials within urban areas that are produced and delivered in/from rural areas within the country",
       "data": {
         "url": "",
         "format": "",
@@ -2652,14 +3705,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 12,
-      "targets": "12.2",
-      "indicator": "Disclosure of Natural Resource Rights Holdings",
+      "targets": {
+        "primary-target": "12.2",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Disclosure of Natural Resource Rights Holdings",
       "data": {
         "url": "",
         "format": "",
@@ -2667,14 +3726,20 @@
       },
       "source": "http://indicators.report/indicators/i-72/",
       "leads": "IMF, NRGI, UN Global Compact, EITI, UNCTAD",
-      "other goals": "15, 16, 17",
+      "data-sources":"",
+      "other-goals": "15, 16, 17",
       "available": "C",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 12,
-      "targets": "12.3,12.5",
-      "indicator": "Global Food Loss Indicator [or other indicator to be developed to track the share of food lost or wasted in the value chain after harvest]",
+      "targets": {
+        "primary-target": "12.3,12.5",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Global Food Loss Indicator [or other indicator to be developed to track the share of food lost or wasted in the value chain after harvest]",
       "data": {
         "url": "",
         "format": "",
@@ -2682,14 +3747,20 @@
       },
       "source": "http://indicators.report/indicators/i-73/",
       "leads": "FAO",
-      "other goals": "2, 11",
+      "data-sources":"",
+      "other-goals": "2, 11",
       "available": "C",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 12,
-      "targets": "8.4,12.4",
-      "indicator": "Consumption of ozone-depleting substances",
+      "targets": {
+        "primary-target": "8.4,12.4",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Consumption of ozone-depleting substances",
       "data": {
         "url": "",
         "format": "",
@@ -2697,14 +3768,20 @@
       },
       "source": "http://indicators.report/indicators/i-74/",
       "leads": "UNEP Ozone Secretariat",
-      "other goals": "9",
+      "data-sources":"",
+      "other-goals": "9",
       "available": "A",
+      "priority": "",
       "category": "MDG Indicator, 100"
     },
     {
       "goal": 12,
-      "targets": "8.4,12.4",
-      "indicator": "Aerosol optical depth (AOD)",
+      "targets": {
+        "primary-target": "8.4,12.4",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Aerosol optical depth (AOD)",
       "data": {
         "url": "",
         "format": "",
@@ -2712,14 +3789,20 @@
       },
       "source": "http://indicators.report/indicators/i-75/",
       "leads": "UNEP",
-      "other goals": "9, 11, 13",
+      "data-sources":"",
+      "other-goals": "9, 11, 13",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 12,
-      "targets": "10.5,12.6",
-      "indicator": "[Share of companies valued at more than [$1 billion] that publish integrated monitoring]",
+      "targets": {
+        "primary-target": "10.5,12.6",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Share of companies valued at more than [$1 billion] that publish integrated monitoring]",
       "data": {
         "url": "",
         "format": "",
@@ -2727,14 +3810,20 @@
       },
       "source": "http://indicators.report/indicators/i-76/",
       "leads": "Global Compact, WBCSD, GRI, IIRC",
-      "other goals": "8, 17",
+      "data-sources":"",
+      "other-goals": "8, 17",
       "available": "B",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 12,
-      "targets": "",
-      "indicator": "[Strategic environmental and social impact assessments required]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Strategic environmental and social impact assessments required]",
       "data": {
         "url": "",
         "format": "",
@@ -2742,14 +3831,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 12,
-      "targets": "",
-      "indicator": "[Legislative branch oversight role regarding resource-based contracts and licenses]-to be developed",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Legislative branch oversight role regarding resource-based contracts and licenses]-to be developed",
       "data": {
         "url": "",
         "format": "",
@@ -2757,14 +3852,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 12,
-      "targets": "",
-      "indicator": "[Indicator on chemical pollution]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on chemical pollution]",
       "data": {
         "url": "",
         "format": "",
@@ -2772,14 +3873,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 12,
-      "targets": "",
-      "indicator": "CO2 intensity of the building sector and of new buildings (KgCO2/m2/year)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "CO2 intensity of the building sector and of new buildings (KgCO2/m2/year)",
       "data": {
         "url": "",
         "format": "",
@@ -2787,14 +3894,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 12,
-      "targets": "",
-      "indicator": "[Indicator on policies for sustainable tourism]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on policies for sustainable tourism]",
       "data": {
         "url": "",
         "format": "",
@@ -2802,14 +3915,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 12,
-      "targets": "",
-      "indicator": "[Indicator on sustainable public procurement processes]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on sustainable public procurement processes]",
       "data": {
         "url": "",
         "format": "",
@@ -2817,14 +3936,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 13,
-      "targets": "13.2,13.3,13.b,14.3",
-      "indicator": "Availability and implementation of a transparent and detailed deep decarbonization strategy, consistent with the 2¬∞C - or below - global carbon budget, and with GHG emission targets for 2020, 2030 and 2050.",
+      "targets": {
+        "primary-target": "13.2,13.3,13.b,14.3",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Availability and implementation of a transparent and detailed deep decarbonization strategy, consistent with the 2¬∞C - or below - global carbon budget, and with GHG emission targets for 2020, 2030 and 2050.",
       "data": {
         "url": "",
         "format": "",
@@ -2832,14 +3957,20 @@
       },
       "source": "http://indicators.report/indicators/i-77/",
       "leads": "UNFCCC",
-      "other goals": "9, 11, 12, 17",
+      "data-sources":"",
+      "other-goals": "9, 11, 12, 17",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 13,
-      "targets": "14.3",
-      "indicator": "CO2 intensity of new power generation capacity installed (gCO2 per kWh), and of new cars (gCO2/pkm) and trucks (gCO2/tkm)",
+      "targets": {
+        "primary-target": "14.3",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "CO2 intensity of new power generation capacity installed (gCO2 per kWh), and of new cars (gCO2/pkm) and trucks (gCO2/tkm)",
       "data": {
         "url": "",
         "format": "",
@@ -2847,14 +3978,20 @@
       },
       "source": "http://indicators.report/indicators/i-78/",
       "leads": "UNFCCC, IEA",
-      "other goals": "7, 8, 9, 11",
+      "data-sources":"",
+      "other-goals": "7, 8, 9, 11",
       "available": "Power sector A /Transport sector B",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 13,
-      "targets": "8.4,13.2,14.3",
-      "indicator": "Net GHG emissions in the Agriculture, Forest and other Land Use (AFOLU) sector (tCO2e)",
+      "targets": {
+        "primary-target": "8.4,13.2,14.3",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Net GHG emissions in the Agriculture, Forest and other Land Use (AFOLU) sector (tCO2e)",
       "data": {
         "url": "http://unfccc.int/ghg_data/ghg_data_unfccc/time_series_annex_i/items/3814.php",
         "format": "",
@@ -2862,14 +3999,20 @@
       },
       "source": "http://indicators.report/indicators/i-79/",
       "leads": "UNFCCC",
-      "other goals": "2, 15",
+      "data-sources":"",
+      "other-goals": "2, 15",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 13,
-      "targets": "13.2,13.3,13.a",
-      "indicator": "Official climate financing from developed countries that is incremental to ODA (in US$)",
+      "targets": {
+        "primary-target": "13.2,13.3,13.a",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Official climate financing from developed countries that is incremental to ODA (in US$)",
       "data": {
         "url": "",
         "format": "",
@@ -2877,14 +4020,20 @@
       },
       "source": "http://indicators.report/indicators/i-80/",
       "leads": "OECD DAC, UNFCCC",
-      "other goals": "17",
+      "data-sources":"",
+      "other-goals": "17",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 13,
-      "targets": "",
-      "indicator": "[Climate Change Action Index]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Climate Change Action Index]",
       "data": {
         "url": "",
         "format": "",
@@ -2892,14 +4041,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 13,
-      "targets": "",
-      "indicator": "GHG emissions intensity of areas under forest management (GtCO2e / ha)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "GHG emissions intensity of areas under forest management (GtCO2e / ha)",
       "data": {
         "url": "",
         "format": "",
@@ -2907,14 +4062,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 14,
-      "targets": "6.6,14.1,14.2,14.5",
-      "indicator": "Share of coastal and marine areas that are protected",
+      "targets": {
+        "primary-target": "6.6,14.1,14.2,14.5",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Share of coastal and marine areas that are protected",
       "data": {
         "url": "",
         "format": "",
@@ -2922,14 +4083,20 @@
       },
       "source": "http://indicators.report/indicators/i-81/",
       "leads": "UNEP-WCMC, IUCN, WDPA",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 14,
-      "targets": "2.3,14.4,14.6,14.7",
-      "indicator": "Percentage of fish tonnage landed within Maximum Sustainable Yield (MSY)",
+      "targets": {
+        "primary-target": "2.3,14.4,14.6,14.7",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of fish tonnage landed within Maximum Sustainable Yield (MSY)",
       "data": {
         "url": "",
         "format": "",
@@ -2937,14 +4104,20 @@
       },
       "source": "http://indicators.report/indicators/i-82/",
       "leads": "FAO",
-      "other goals": "2, 12",
+      "data-sources":"",
+      "other-goals": "2, 12",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 14,
-      "targets": "",
-      "indicator": "Eutrophication of major estuaries",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Eutrophication of major estuaries",
       "data": {
         "url": "",
         "format": "",
@@ -2952,14 +4125,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 14,
-      "targets": "",
-      "indicator": "Ocean acidity (measured as surface pH)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Ocean acidity (measured as surface pH)",
       "data": {
         "url": "",
         "format": "",
@@ -2967,14 +4146,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 14,
-      "targets": "",
-      "indicator": "[Indicator on the implementation of spatial planning strategies for coastal and marine areas]‚Äì to be developed",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on the implementation of spatial planning strategies for coastal and marine areas]‚Äì to be developed",
       "data": {
         "url": "",
         "format": "",
@@ -2982,14 +4167,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 14,
-      "targets": "",
-      "indicator": "Area of coral reef ecosystems and percentage live cover",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Area of coral reef ecosystems and percentage live cover",
       "data": {
         "url": "",
         "format": "",
@@ -2997,14 +4188,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 14,
-      "targets": "",
-      "indicator": "Proportion of fish stocks within safe biological limits",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Proportion of fish stocks within safe biological limits",
       "data": {
         "url": "",
         "format": "",
@@ -3012,14 +4209,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 14,
-      "targets": "",
-      "indicator": "Percentage of fisheries with a sustainable certification",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of fisheries with a sustainable certification",
       "data": {
         "url": "",
         "format": "",
@@ -3027,14 +4230,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 14,
-      "targets": "",
-      "indicator": "Does flag state require International Maritime Organization (IMO) numbers and transponders for all fishing vessels more than 24 meters or 100 tons?",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Does flag state require International Maritime Organization (IMO) numbers and transponders for all fishing vessels more than 24 meters or 100 tons?",
       "data": {
         "url": "",
         "format": "",
@@ -3042,14 +4251,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 14,
-      "targets": "",
-      "indicator": "Has Regional Fisheries Management Organizations (RFMO) established satellite- monitoring program?",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Has Regional Fisheries Management Organizations (RFMO) established satellite- monitoring program?",
       "data": {
         "url": "",
         "format": "",
@@ -3057,14 +4272,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 14,
-      "targets": "",
-      "indicator": "[Use of destructive fishing techniques]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Use of destructive fishing techniques]",
       "data": {
         "url": "",
         "format": "",
@@ -3072,14 +4293,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 14,
-      "targets": "",
-      "indicator": "[Indicator on access to marine resources for small-scale artisanal fishers]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on access to marine resources for small-scale artisanal fishers]",
       "data": {
         "url": "",
         "format": "",
@@ -3087,14 +4314,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 14,
-      "targets": "",
-      "indicator": "[Indicator on transferring marine technology]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on transferring marine technology]",
       "data": {
         "url": "",
         "format": "",
@@ -3102,14 +4335,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 14,
-      "targets": "",
-      "indicator": "Area of mangrove deforestation (hectares and as % of total mangrove area)",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Area of mangrove deforestation (hectares and as % of total mangrove area)",
       "data": {
         "url": "",
         "format": "",
@@ -3117,14 +4356,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 15,
-      "targets": "2.4,15.1",
-      "indicator": "Annual change in forest area and land under cultivation",
+      "targets": {
+        "primary-target": "2.4,15.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Annual change in forest area and land under cultivation",
       "data": {
         "url": "",
         "format": "",
@@ -3132,14 +4377,20 @@
       },
       "source": "http://indicators.report/indicators/i-83/",
       "leads": "FAO, UNEP",
-      "other goals": "2, 12, 13",
+      "data-sources":"",
+      "other-goals": "2, 12, 13",
       "available": "B",
+      "priority": "",
       "category": "modified MDG Indicator, 100"
     },
     {
       "goal": 15,
-      "targets": "6.6,15.1,15.2",
-      "indicator": "Area of forest under sustainable forest management as a percent of forest area",
+      "targets": {
+        "primary-target": "6.6,15.1,15.2",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Area of forest under sustainable forest management as a percent of forest area",
       "data": {
         "url": "",
         "format": "",
@@ -3147,14 +4398,20 @@
       },
       "source": "http://indicators.report/indicators/i-84/",
       "leads": "FAO, UNEP",
-      "other goals": "12",
+      "data-sources":"",
+      "other-goals": "12",
       "available": "B",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 15,
-      "targets": "2.4,15.2,15.3",
-      "indicator": "Annual change in degraded or desertified arable land (% or ha)",
+      "targets": {
+        "primary-target": "2.4,15.2,15.3",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Annual change in degraded or desertified arable land (% or ha)",
       "data": {
         "url": "",
         "format": "",
@@ -3162,14 +4419,20 @@
       },
       "source": "http://indicators.report/indicators/i-85/",
       "leads": "FAO, UNEP",
-      "other goals": "2",
+      "data-sources":"",
+      "other-goals": "2",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 15,
-      "targets": "11.4,15.5,15.7,15.c",
-      "indicator": "Red List Index",
+      "targets": {
+        "primary-target": "11.4,15.5,15.7,15.c",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Red List Index",
       "data": {
         "url": "",
         "format": "",
@@ -3177,14 +4440,20 @@
       },
       "source": "http://indicators.report/indicators/i-86/",
       "leads": "IUCN",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 15,
-      "targets": "11.4,14.2,15.5,15.c",
-      "indicator": "Protected areas overlay with biodiversity",
+      "targets": {
+        "primary-target": "11.4,14.2,15.5,15.c",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Protected areas overlay with biodiversity",
       "data": {
         "url": "http://www.bipindicators.net/paoverlays",
         "format": "",
@@ -3192,14 +4461,20 @@
       },
       "source": "http://indicators.report/indicators/i-87/",
       "leads": "UNEP-WCMC",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "B",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 15,
-      "targets": "",
-      "indicator": "Improved tenure security and governance of forests",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Improved tenure security and governance of forests",
       "data": {
         "url": "",
         "format": "",
@@ -3207,14 +4482,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 15,
-      "targets": "",
-      "indicator": "[Indicator on the conservation of mountain ecosystems]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on the conservation of mountain ecosystems]",
       "data": {
         "url": "",
         "format": "",
@@ -3222,14 +4503,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 15,
-      "targets": "",
-      "indicator": "Vitality Index of Traditional Environmental Knowledge",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Vitality Index of Traditional Environmental Knowledge",
       "data": {
         "url": "",
         "format": "",
@@ -3237,14 +4524,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 15,
-      "targets": "",
-      "indicator": "[Indicator on access to genetic resources]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on access to genetic resources]",
       "data": {
         "url": "",
         "format": "",
@@ -3252,14 +4545,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 15,
-      "targets": "",
-      "indicator": "Abundance of invasive alien species",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Abundance of invasive alien species",
       "data": {
         "url": "",
         "format": "",
@@ -3267,14 +4566,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 15,
-      "targets": "",
-      "indicator": "[Indicator on financial resources for biodiversity and ecosystems]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on financial resources for biodiversity and ecosystems]",
       "data": {
         "url": "",
         "format": "",
@@ -3282,14 +4587,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 15,
-      "targets": "",
-      "indicator": "[Indicator on financial resources for sustainable forest management]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on financial resources for sustainable forest management]",
       "data": {
         "url": "",
         "format": "",
@@ -3297,14 +4608,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 15,
-      "targets": "",
-      "indicator": "[Indicator on global support to combat poaching and trafficking of protected species]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on global support to combat poaching and trafficking of protected species]",
       "data": {
         "url": "",
         "format": "",
@@ -3312,14 +4629,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 15,
-      "targets": "",
-      "indicator": "Living Planet Index",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Living Planet Index",
       "data": {
         "url": "",
         "format": "",
@@ -3327,14 +4650,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 16,
-      "targets": "5.1,5.2,16.1,16.2",
-      "indicator": "Violent injuries and deaths per 100,000 population",
+      "targets": {
+        "primary-target": "5.1,5.2,16.1,16.2",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Violent injuries and deaths per 100,000 population",
       "data": {
         "url": "http://www.unodc.org/unodc/en/data-and-analysis/statistics/index.html; http://www.pcr.uu.se/research/ucdp/database",
         "format": "",
@@ -3342,14 +4671,20 @@
       },
       "source": "http://indicators.report/indicators/i-88/",
       "leads": "UNODC, WHO, UNOCHA",
-      "other goals": "3, 5, 11",
+      "data-sources":"",
+      "other-goals": "3, 5, 11",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 16,
-      "targets": "10.7,16.1",
-      "indicator": "Number of refugees",
+      "targets": {
+        "primary-target": "10.7,16.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Number of refugees",
       "data": {
         "url": "",
         "format": "",
@@ -3357,14 +4692,20 @@
       },
       "source": "http://indicators.report/indicators/i-89/",
       "leads": "UNHCR, OCHA, IOM",
-      "other goals": "3",
+      "data-sources":"",
+      "other-goals": "3",
       "available": "B",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 16,
-      "targets": "16.4,17.1",
-      "indicator": "Proportion of legal persons and arrangements for which beneficial ownership information is publicly available",
+      "targets": {
+        "primary-target": "16.4,17.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Proportion of legal persons and arrangements for which beneficial ownership information is publicly available",
       "data": {
         "url": "",
         "format": "",
@@ -3372,14 +4713,20 @@
       },
       "source": "http://indicators.report/indicators/i-90/",
       "leads": "OECD",
-      "other goals": "17",
+      "data-sources":"",
+      "other-goals": "17",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 16,
-      "targets": "12.2,16.5,16.6",
-      "indicator": "Revenues, expenditures, and financing of all central government entities are presented on a gross basis in public budget documentation and authorized by the legislature",
+      "targets": {
+        "primary-target": "12.2,16.5,16.6",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Revenues, expenditures, and financing of all central government entities are presented on a gross basis in public budget documentation and authorized by the legislature",
       "data": {
         "url": "",
         "format": "",
@@ -3387,14 +4734,20 @@
       },
       "source": "http://indicators.report/indicators/i-91/",
       "leads": "IMF, UN Global Compact, EITI, UNCTAD",
-      "other goals": "17",
+      "data-sources":"",
+      "other-goals": "17",
       "available": "C",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 16,
-      "targets": "16.9",
-      "indicator": "Percentage of children under age 5 whose birth is registered with a civil authority",
+      "targets": {
+        "primary-target": "16.9",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of children under age 5 whose birth is registered with a civil authority",
       "data": {
         "url": "http://mics.unicef.org/",
         "format": "",
@@ -3402,14 +4755,20 @@
       },
       "source": "http://indicators.report/indicators/i-92/",
       "leads": "UNICEF",
-      "other goals": "3, 5, 10",
+      "data-sources":"",
+      "other-goals": "3, 5, 10",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 16,
-      "targets": "16.10",
-      "indicator": "Existence and implementation of a national law and/or constitutional guarantee on the right to information",
+      "targets": {
+        "primary-target": "16.10",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Existence and implementation of a national law and/or constitutional guarantee on the right to information",
       "data": {
         "url": "",
         "format": "",
@@ -3417,14 +4776,20 @@
       },
       "source": "http://indicators.report/indicators/i-93/",
       "leads": "UNESCO",
-      "other goals": "10",
+      "data-sources":"",
+      "other-goals": "10",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 16,
-      "targets": "16.5,16.6",
-      "indicator": "Perception of public sector corruption",
+      "targets": {
+        "primary-target": "16.5,16.6",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Perception of public sector corruption",
       "data": {
         "url": "",
         "format": "",
@@ -3432,14 +4797,20 @@
       },
       "source": "http://indicators.report/indicators/i-94/",
       "leads": "Transparency International",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "C",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 16,
-      "targets": "",
-      "indicator": "Percentage of women and men who report feeling safe walking alone at night in the city or area where they live",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of women and men who report feeling safe walking alone at night in the city or area where they live",
       "data": {
         "url": "",
         "format": "",
@@ -3447,14 +4818,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 16,
-      "targets": "",
-      "indicator": "Compliance with recommendations from the Universal Periodic Review and UN Treaties",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Compliance with recommendations from the Universal Periodic Review and UN Treaties",
       "data": {
         "url": "",
         "format": "",
@@ -3462,14 +4839,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 16,
-      "targets": "",
-      "indicator": "Frequency of payment of salaries within security forces",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Frequency of payment of salaries within security forces",
       "data": {
         "url": "",
         "format": "",
@@ -3477,14 +4860,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 16,
-      "targets": "",
-      "indicator": "Percentage of people and businesses that paid a bribe to a public official, or were asked for a bribe by a public official, during the last 12 months",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of people and businesses that paid a bribe to a public official, or were asked for a bribe by a public official, during the last 12 months",
       "data": {
         "url": "",
         "format": "",
@@ -3492,14 +4881,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 16,
-      "targets": "",
-      "indicator": "Percentage of total detainees who have been held in detention for more than 12 months while awaiting sentencing or a final disposition of their case",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percentage of total detainees who have been held in detention for more than 12 months while awaiting sentencing or a final disposition of their case",
       "data": {
         "url": "",
         "format": "",
@@ -3507,14 +4902,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 16,
-      "targets": "",
-      "indicator": "[Indicator on illicit financial flows]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on illicit financial flows]",
       "data": {
         "url": "",
         "format": "",
@@ -3522,14 +4923,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 16,
-      "targets": "",
-      "indicator": "[Indicator on international cooperation in preventing violence and combating terrorism and crime]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on international cooperation in preventing violence and combating terrorism and crime]",
       "data": {
         "url": "",
         "format": "",
@@ -3537,14 +4944,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 16,
-      "targets": "",
-      "indicator": "Representation of women among mediators, negotiators and technical experts in formal peace negotiations",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Representation of women among mediators, negotiators and technical experts in formal peace negotiations",
       "data": {
         "url": "",
         "format": "",
@@ -3552,14 +4965,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 16,
-      "targets": "",
-      "indicator": "Number of journalists and associated media personnel that are physically attacked, unlawfully detained or killed as a result of pursuing their legitimate activities",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Number of journalists and associated media personnel that are physically attacked, unlawfully detained or killed as a result of pursuing their legitimate activities",
       "data": {
         "url": "",
         "format": "",
@@ -3567,14 +4986,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 17,
-      "targets": "1.b,2.a,3.c,3.d,4.c,7.a,11.3,11.a,15.a,15.b,17.1",
-      "indicator": "Domestic revenues allocated to sustainable development as percent of GNI, by sector",
+      "targets": {
+        "primary-target": "1.b,2.a,3.c,3.d,4.c,7.a,11.3,11.a,15.a,15.b,17.1",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Domestic revenues allocated to sustainable development as percent of GNI, by sector",
       "data": {
         "url": "",
         "format": "",
@@ -3582,14 +5007,20 @@
       },
       "source": "http://indicators.report/indicators/i-95/",
       "leads": "IMF",
-      "other goals": "10",
+      "data-sources":"",
+      "other-goals": "10",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 17,
-      "targets": "1.b,2.a,3.c,3.d,4.c,7.a,9.a,10.b,15.a,15.b,17.2,17.16",
-      "indicator": "Official development assistance and net private grants as percent of GNI",
+      "targets": {
+        "primary-target": "1.b,2.a,3.c,3.d,4.c,7.a,9.a,10.b,15.a,15.b,17.2,17.16",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Official development assistance and net private grants as percent of GNI",
       "data": {
         "url": "",
         "format": "",
@@ -3597,14 +5028,20 @@
       },
       "source": "http://indicators.report/indicators/i-96/",
       "leads": "OECD DAC",
-      "other goals": "10",
+      "data-sources":"",
+      "other-goals": "10",
       "available": "A",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 17,
-      "targets": "1.b,2.a,7.a,10.5,10.b,15.a,15.b,17.3",
-      "indicator": "Private net flows for sustainable development at market rates as share of high-income country GNI, by sector",
+      "targets": {
+        "primary-target": "1.b,2.a,7.a,10.5,10.b,15.a,15.b,17.3",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Private net flows for sustainable development at market rates as share of high-income country GNI, by sector",
       "data": {
         "url": "",
         "format": "",
@@ -3612,14 +5049,20 @@
       },
       "source": "http://indicators.report/indicators/i-97/",
       "leads": "OECD DAC",
-      "other goals": "10",
+      "data-sources":"",
+      "other-goals": "10",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 17,
-      "targets": "1.a,1.b,2.b,8.a,9.a,10.5,10.6,10.7,10.a,12.c,14.c,16.8,17.10,17.12,17.13,17.14,17.15",
-      "indicator": "Annual report by Bank for International Settlements (BIS), International Accounting Standards Board (IASB), International Financial Reporting Standards (IFRS), International Monetary Fund (IMF), World Intellectual Property Organization (WIPO), and World Trade Organization (WTO) [other organizations to be added] on the relationship between international rules and the SDGs and the implementation of relevant SDG targets",
+      "targets": {
+        "primary-target": "1.a,1.b,2.b,8.a,9.a,10.5,10.6,10.7,10.a,12.c,14.c,16.8,17.10,17.12,17.13,17.14,17.15",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Annual report by Bank for International Settlements (BIS), International Accounting Standards Board (IASB), International Financial Reporting Standards (IFRS), International Monetary Fund (IMF), World Intellectual Property Organization (WIPO), and World Trade Organization (WTO) [other organizations to be added] on the relationship between international rules and the SDGs and the implementation of relevant SDG targets",
       "data": {
         "url": "",
         "format": "",
@@ -3627,14 +5070,20 @@
       },
       "source": "http://indicators.report/indicators/i-98/",
       "leads": "BIS, IASB, IFRS, IMF, WIPO, WTO",
-      "other goals": "2, 10",
+      "data-sources":"",
+      "other-goals": "2, 10",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 17,
-      "targets": "1.a, 17.18",
-      "indicator": "Share of SDG Indicators that are reported annually",
+      "targets": {
+        "primary-target": "1.a, 17.18",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Share of SDG Indicators that are reported annually",
       "data": {
         "url": "",
         "format": "",
@@ -3642,14 +5091,20 @@
       },
       "source": "http://indicators.report/indicators/i-99/",
       "leads": "UNSD",
-      "other goals": "10, 11",
+      "data-sources":"",
+      "other-goals": "10, 11",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 17,
-      "targets": "17.19",
-      "indicator": "Evaluative Wellbeing and Positive Mood Affect",
+      "targets": {
+        "primary-target": "17.19",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Evaluative Wellbeing and Positive Mood Affect",
       "data": {
         "url": "",
         "format": "",
@@ -3657,14 +5112,20 @@
       },
       "source": "http://indicators.report/indicators/i-100/",
       "leads": "SDSN, OECD",
-      "other goals": "3",
+      "data-sources":"",
+      "other-goals": "3",
       "available": "",
+      "priority": "",
       "category": "100"
     },
     {
       "goal": 17,
-      "targets": "",
-      "indicator": "Total Official Support for Development",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Total Official Support for Development",
       "data": {
         "url": "",
         "format": "",
@@ -3672,14 +5133,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 17,
-      "targets": "",
-      "indicator": "Country Programmable Aid",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Country Programmable Aid",
       "data": {
         "url": "",
         "format": "",
@@ -3687,14 +5154,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 17,
-      "targets": "",
-      "indicator": "[Indicator on debt sustainability]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on debt sustainability]",
       "data": {
         "url": "",
         "format": "",
@@ -3702,14 +5175,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 17,
-      "targets": "",
-      "indicator": "Gross domestic expenditure on R&D as share of GDP",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Gross domestic expenditure on R&D as share of GDP",
       "data": {
         "url": "",
         "format": "",
@@ -3717,14 +5196,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 17,
-      "targets": "",
-      "indicator": "[Indicator on technology sharing and diffusion]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on technology sharing and diffusion]",
       "data": {
         "url": "",
         "format": "",
@@ -3732,14 +5217,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 17,
-      "targets": "",
-      "indicator": "[Indicator on the creation of / subscription to the Technology Bank and STI (Science, Technology and Innovation) Capacity Building Mechanism for LDCs by 2017]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on the creation of / subscription to the Technology Bank and STI (Science, Technology and Innovation) Capacity Building Mechanism for LDCs by 2017]",
       "data": {
         "url": "",
         "format": "",
@@ -3747,14 +5238,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 17,
-      "targets": "",
-      "indicator": "Average tariffs imposed by developed countries on agricultural products and textiles and clothing from developing countries",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Average tariffs imposed by developed countries on agricultural products and textiles and clothing from developing countries",
       "data": {
         "url": "",
         "format": "",
@@ -3762,14 +5259,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "MDG Indicator, Complementary National Indicator"
     },
     {
       "goal": 17,
-      "targets": "",
-      "indicator": "Value of LDC exports as a percentage of global exports",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Value of LDC exports as a percentage of global exports",
       "data": {
         "url": "",
         "format": "",
@@ -3777,14 +5280,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 17,
-      "targets": "",
-      "indicator": "[Indicator on investment promotion regimes for LDCs]",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "[Indicator on investment promotion regimes for LDCs]",
       "data": {
         "url": "",
         "format": "",
@@ -3792,14 +5301,20 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     },
     {
       "goal": 17,
-      "targets": "",
-      "indicator": "Percent of official development assistance (ODA), net private grants, and official climate finance channeled through priority pooled multilateral financing mechanisms",
+      "targets": {
+        "primary-target": "",
+        "other-targets":""
+      },
+      "indicator":"",
+      "title": "Percent of official development assistance (ODA), net private grants, and official climate finance channeled through priority pooled multilateral financing mechanisms",
       "data": {
         "url": "",
         "format": "",
@@ -3807,8 +5322,10 @@
       },
       "source": "http://unsdsn.org/wp-content/uploads/2014/02/140214-SDSN-indicator-report-DRAFT-for-consultation.pdf",
       "leads": "",
-      "other goals": "",
+      "data-sources":"",
+      "other-goals": "",
       "available": "",
+      "priority": "",
       "category": "Complementary National Indicator"
     }
   ],
