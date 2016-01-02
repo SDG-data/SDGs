@@ -91,7 +91,7 @@
           "priority": {
             "id": "priority",
             "type": "string",
-            "required": true
+            "required": false
           },
           "category": {
             "id": "category",
