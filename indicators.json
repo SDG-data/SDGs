@@ -13,7 +13,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "World Bank and ILO", 
             "data-sources": "Household surveys (LFS, HIES, LSMS, Integrated HH surveys, etc.)", 
             "available": "Tier I", 
@@ -32,7 +32,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "World Bank; Data availability: Unisex: Data available for all countries that have household income or consumption surveys. SPC: data are widely available and used by Pacific Island countries, most of which have by now two data points; ILO: working poverty available by employment status for 44 countries;", 
             "data-sources": "Household surveys", 
             "available": "Tier I", 
@@ -51,7 +51,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Nov2015", 
+            "source": "Nov2015-green", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -70,8 +70,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
-            "leads": "Responsible entity: ILO. Availability: Information on old age coverage for 175 countries; on jobless support for 79 countries; on disability for 171 countries; on maternity for 139 countries; on child benefits for 109 countries; on occupational injury coverage for 172 countries.  Also responsible: OECD.", 
+            "source": "modified-Aug2015, Nov2015-green", 
+            "leads": "Responsible entity: ILO. Availability: Information on old age coverage for 175 countries; on jobless support for 79 countries; on disability for 171 countries; on maternity for 139 countries; on child benefits for 109 countries; on occupational injury coverage for 172 countries. Also responsible: OECD.", 
             "data-sources": "Social Security administrative data consolidated by the ILO Social Security Inquiry.", 
             "available": "Tier II", 
             "category": ""
@@ -89,29 +89,10 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "World Bank, UNDP, UNICEF", 
             "data-sources": "MICS and DHS; household surveys", 
             "available": "Tier II", 
-            "category": ""
-        }, 
-        {
-            "goal": 1, 
-            "targets": {
-                "primary-target": "1.4", 
-                "other-targets": ""
-            }, 
-            "indicator": "1.4.2", 
-            "title": "Share of women among agricultural land owners by age and location (U/R)", 
-            "data": {
-                "url": "", 
-                "format": "", 
-                "meta": ""
-            }, 
-            "source": "Aug2015", 
-            "leads": "FAO and UNSD (EDGE)", 
-            "data-sources": "Included in Minimum Set Gender Indicators", 
-            "available": "Tier III soon Tier II", 
             "category": ""
         }, 
         {
@@ -127,7 +108,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNISDR", 
             "data-sources": "National Disaster Loss Databases, 85 (will be more than 115 by 2016)", 
             "available": "Tier II", 
@@ -146,7 +127,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "World Bank", 
             "data-sources": "", 
             "available": "Tier III", 
@@ -165,7 +146,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Nov2015", 
+            "source": "Nov2015-green", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -184,9 +165,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
-            "leads": "INFORMEA  (www.informea.org). Information currently available for more than 160 countries", 
-            "data-sources": "Data on all national action plans for MEAs can be found in INFORMEA, which in turn draws upon the data from individual MEAs such as the  National Biodiversity Strategy and Action Plans (http://www.bipindicators.net/statusofNBSAPs and http://www.cbd.int/nbsap/)", 
+            "source": "Aug2015, Dec2015-grey", 
+            "leads": "INFORMEA (www.informea.org). Information currently available for more than 160 countries", 
+            "data-sources": "Data on all national action plans for MEAs can be found in INFORMEA, which in turn draws upon the data from individual MEAs such as the National Biodiversity Strategy and Action Plans (http://www.bipindicators.net/statusofNBSAPs and http://www.cbd.int/nbsap/)", 
             "available": "Tier I", 
             "category": ""
         }, 
@@ -203,7 +184,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "FAO - Consistent time series for the indicator exist from 1990-92 for about 140 countries. The indicator is regularly reported in the annual State of Food Insecurity in the World Report published by FAO, IFAD and WFP since 1999 and in the Millennium Development Goal Report of the UN Statistics Division. Data on the indicators are published on the FAO Statistics website, at http://www.fao.org/economic/ess/ess-fs/ess-fadata/it/#.VM89cGjF-VM and updated every year.", 
             "data-sources": "The FAO methodology combines available micro-data on food consumption derived from surveys with macro-data from food balance sheets. The ability of the indicator to approximate access to food depends upon the extent to which existing data allow characterizing effectively the probability distribution of habitual food consumption in the reference population.", 
             "available": "Tier I", 
@@ -222,9 +203,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "FAO can ensure global coverage (about 150 countries every year covering more than 95% of the world population) annually. For countries that regularly use similar scales, national data will be used to inform the indicators for global monitoring. FAO provides the methodology for calibrating all measures against the common, global reference. Indicators values will be disseminated annually by FAO.", 
-            "data-sources": "For the FIES: FAO and National Data. Data are collected annually by FAO for about 150 countries through the Food Insecurity Experience Scale module included in the Gallup World Poll, starting from 2014. A number of countries already use similar tools for national food insecurity assessment (e.g., HFSSM in the US and Canada; EMSA in Mexico; EBIA in Brazil; ELCSA in Guatemala.) Data collected through these tools may be used to inform an assessment that would be comparable with the ones obtained by FAO using the FIES in other countries. Over time, ownership of the FIES indicators will be transferred to countries that may start producing their own data. FCS data is collected around the world by WFP, NGOs, and government partners are often collected within the context of larger/broader food security monitoring systems (FSMS). FSMS surveys and associated household questionnaires typically include a number of core modules; household demographics, income sources, expenditures, food consumption and food sources, coping strategies and shocks.  A typical completed FSMS household questionnaire, if collected using a conventional 'face-to-face' (i.e. on site enumerator and respondent) approach, costs approximately $30.  For the purpose of providing a rough estimate of the cost and feasibility of collecting only the FCS data together with the standard household demographic data, we estimate the cost at approximately $15 to $20 per household using the conventional face-to-face approach for data collection. See attached metadata for a more complete explanation.", 
+            "data-sources": "For the FIES: FAO and National Data. Data are collected annually by FAO for about 150 countries through the Food Insecurity Experience Scale module included in the Gallup World Poll, starting from 2014. A number of countries already use similar tools for national food insecurity assessment (e.g., HFSSM in the US and Canada; EMSA in Mexico; EBIA in Brazil; ELCSA in Guatemala.) Data collected through these tools may be used to inform an assessment that would be comparable with the ones obtained by FAO using the FIES in other countries. Over time, ownership of the FIES indicators will be transferred to countries that may start producing their own data. FCS data is collected around the world by WFP, NGOs, and government partners are often collected within the context of larger/broader food security monitoring systems (FSMS). FSMS surveys and associated household questionnaires typically include a number of core modules; household demographics, income sources, expenditures, food consumption and food sources, coping strategies and shocks. A typical completed FSMS household questionnaire, if collected using a conventional 'face-to-face' (i.e. on site enumerator and respondent) approach, costs approximately $30. For the purpose of providing a rough estimate of the cost and feasibility of collecting only the FCS data together with the standard household demographic data, we estimate the cost at approximately $15 to $20 per household using the conventional face-to-face approach for data collection. See attached metadata for a more complete explanation.", 
             "available": "Tier II", 
             "category": ""
         }, 
@@ -241,7 +222,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UNICEF, WHO, World Bank joint dataset (145 countries)", 
             "data-sources": "MICS, DHS and other national household surveys", 
             "available": "Tier I", 
@@ -260,7 +241,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Nov2015", 
+            "source": "Nov2015-green", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -279,9 +260,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
-            "leads": "FAO and the World bank. Data to compute the indicator for agricultural producers are currently available for nine developing countries through LSMS-ISA.  When the AGRIS program will be in operation, indicators will be published through FAOSTAT.", 
-            "data-sources": "National enterprise surveys.  For agriculture, specialized farm surveys , or integrated household surveys including an agricultural module already exist (eg., LSMS-ISA, Integrated Surveys for Agriculture) FAO and the World Bank are working to define a new Agricultural and Rural Integrated Survey (AGRIS) program, that may be used as a source of data to inform this and many others indicators of relevance for the SDG that depend on farm/enterprise level information.", 
+            "source": "modified-Aug2015, Nov2015-green", 
+            "leads": "FAO and the World bank. Data to compute the indicator for agricultural producers are currently available for nine developing countries through LSMS-ISA. When the AGRIS program will be in operation, indicators will be published through FAOSTAT.", 
+            "data-sources": "National enterprise surveys. For agriculture, specialized farm surveys , or integrated household surveys including an agricultural module already exist (eg., LSMS-ISA, Integrated Surveys for Agriculture) FAO and the World Bank are working to define a new Agricultural and Rural Integrated Survey (AGRIS) program, that may be used as a source of data to inform this and many others indicators of relevance for the SDG that depend on farm/enterprise level information.", 
             "available": "Tier II", 
             "category": ""
         }, 
@@ -298,7 +279,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Dec2015", 
+            "source": "Dec2015-grey", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -317,7 +298,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015, Dec2015", 
+            "source": "Aug2015, Nov2015-green, Dec2015-grey", 
             "leads": "FAO is carrying on a consultation process to develop an indicator on 'Area under sustainable land management', to be developed by the end of 2015. The process will be within the framework of the 'World Overview of Conservation Approaches and Technologies' (WOCAT) partnership and in the support of UNCCD implementation and will support countries to assess, map and monitor SLM as well as land degradation.", 
             "data-sources": "At global level, currently there is no data available. However many if not most of the countries record areas which are the object of practices contributing to environmental sustainability under various schemes, either of a regulatory nature, like protected areas for instance, or as part of a subsidies scheme or in a payment for environmental services scheme or as part of voluntary standards, public or private. Countries are also preparing, as part of national reports for the state of the world biodiversity for food and agriculture, statistics on practices contributing to biodiversity, most of which have a broader positive impact on the environment. Moreover, many countries are participating in internationally established strategic frameworks which promote the collection of data at country level. Hence, the data for computing the indicator should be collected through the records that are held in the process of the country participation to those schemes and strategies.", 
             "available": "Tier II", 
@@ -336,7 +317,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Nov2015, Dec2015", 
+            "source": "Nov2015-green, Dec2015-grey", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -355,7 +336,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Nov201, Dec2015", 
+            "source": "Nov201, Dec2015-grey", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -374,7 +355,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "FAO - The indicator has been calculated by FAO in 2008 and 2014. It will be calculated again in 2015 and then periodically every 2-3 years based on data reported by member countries to the Commission of Genetic Resources of Food and Agriculture. Country data are stored in WIEWS, the FAO PGRFA information system.", 
             "data-sources": "Data are reported by member countries to the Commission of Genetic Resources of Food and Agriculture on the implementation of the Second Global Plan of Action for PGRFA, as agreed at CGRFA-15", 
             "available": "Tier I", 
@@ -393,7 +374,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Dec2015", 
+            "source": "Dec2015-grey", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -412,9 +393,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
-            "leads": "FAO - Coverage is high, with 139 countries included.  However, some countries have not provided data for all 13 years from 2001 to 2012, and the level of government to which expenditures pertain can differ.", 
-            "data-sources": "FAO collects, in collaboration with the IMF, data on Government expenditure in Agriculture. The annual data and indicator value compiled by the Food and Agriculture Organization of the UN (FAO), can be found on the FAOSTAT domain at: http://faostat3.fao.org/download/I/IG/E, covering the periods 2001-2012.    The underlying annual data is official country data, from 2001 to 2012, reported by countries through a questionnaire jointly developed by FAO and the IMF using the COFOG and GFSM classifications.  The database currently covers 139 countries.", 
+            "source": "Aug2015, Dec2015-grey", 
+            "leads": "FAO - Coverage is high, with 139 countries included. However, some countries have not provided data for all 13 years from 2001 to 2012, and the level of government to which expenditures pertain can differ.", 
+            "data-sources": "FAO collects, in collaboration with the IMF, data on Government expenditure in Agriculture. The annual data and indicator value compiled by the Food and Agriculture Organization of the UN (FAO), can be found on the FAOSTAT domain at: http://faostat3.fao.org/download/I/IG/E, covering the periods 2001-2012. The underlying annual data is official country data, from 2001 to 2012, reported by countries through a questionnaire jointly developed by FAO and the IMF using the COFOG and GFSM classifications. The database currently covers 139 countries.", 
             "available": "Tier I", 
             "category": ""
         }, 
@@ -431,7 +412,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "WTO", 
             "data-sources": "WTO", 
             "available": "Tier I", 
@@ -450,7 +431,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "OECD", 
             "data-sources": "OECD", 
             "available": "Tier I", 
@@ -469,7 +450,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "FAO", 
             "data-sources": "", 
             "available": "Tier II", 
@@ -488,7 +469,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "Maternal Mortality Expert and Interagency Group (MMEIG), led by WHO with UNICEF, UNFPA, World Bank, UNDESA; data - all countries, global database available; bi-annual global reporting", 
             "data-sources": "CRVS, household surveys, censuses, health facility data, RAMOS, confidential enquiries, modelling", 
             "available": "Tier I", 
@@ -507,7 +488,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UNICEF and WHO", 
             "data-sources": "Household Surveys (will also start producing modelled time series from 2016)", 
             "available": "Tier I", 
@@ -526,9 +507,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UN Interagency Group on Child Mortality Estimation (IGME), led by UNICEF and WHO, with UNDESA and World Bank; 3.2.1: Data are available for 196 countries and territories for the period 1990-2014 for 3.2.1, and 191 countries for 3.2.2. For 196 countries and territories there are at least two available data points during this time period for 3.2.1, and for 186 countries for 3.2.2.", 
-            "data-sources": "Estimates by The UN Inter-agency Group for Child Mortality  Estimation (UN IGME) based on data from household surveys, censuses, vital registration systems, etc.", 
+            "data-sources": "Estimates by The UN Inter-agency Group for Child Mortality Estimation (UN IGME) based on data from household surveys, censuses, vital registration systems, etc.", 
             "available": "Tier I", 
             "category": ""
         }, 
@@ -545,9 +526,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UNICEF, WHO, UN Population Division, World Bank", 
-            "data-sources": "Estimates by The UN Inter-agency Group for Child Mortality  Estimation (UN IGME) based on data from household surveys, censuses, vital registration systems, etc.", 
+            "data-sources": "Estimates by The UN Inter-agency Group for Child Mortality Estimation (UN IGME) based on data from household surveys, censuses, vital registration systems, etc.", 
             "available": "Tier I", 
             "category": ""
         }, 
@@ -564,7 +545,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "UNAIDS; 158 countries; Updated annually", 
             "data-sources": "Country owned, internationally-consistent modelled estimates", 
             "available": "Tier I", 
@@ -583,7 +564,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "WHO; data - all countries; global database available; annual reporting", 
             "data-sources": "CRVS, household surveys, health facility data, modelling", 
             "available": "Tier I", 
@@ -602,7 +583,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "WHO; data - all countries; global database available; annual reporting", 
             "data-sources": "Household surveys, health facility data, modelling", 
             "available": "Tier I", 
@@ -621,7 +602,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "WHO - data: estimates under development for all countries;", 
             "data-sources": "Household surveys, health facility data, madling", 
             "available": "Tier I", 
@@ -640,7 +621,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Nov2015", 
+            "source": "Nov2015-green", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -659,7 +640,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "WHO; data - all countries", 
             "data-sources": "CRVS, household surveys", 
             "available": "Tier II", 
@@ -678,7 +659,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Nov2015", 
+            "source": "Nov2015-green", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -697,8 +678,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "WHO; data - all countries; global database available; regular global monitoring report; UNODC for drug-related treatments, all countries are mandated to report as a yearly cycle  (Response Rate=60-65% of MS)", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "WHO; data - all countries; global database available; regular global monitoring report; UNODC for drug-related treatments, all countries are mandated to report as a yearly cycle (Response Rate=60-65% of MS)", 
             "data-sources": "Administrative records; Annual Report Questionnaire Part II Comprehensive Approach to Drug Demand Reduction and Supply as mandated by the Drug Conventions and compiled annually by UNODC; WHO, Global Information System on Alcohol and Health (GISAH); WHO, ATLAS-SU: Resources for Treatment and Prevention of Substance Use Disorders", 
             "available": "Tier II", 
             "category": ""
@@ -716,7 +697,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Nov2015", 
+            "source": "Nov2015-green", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -735,7 +716,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "WHO and UN Road Safety Collaboration data collation; data - all countries; global database available; annual updating, regular global report", 
             "data-sources": "CRVS, household surveys, administrative records", 
             "available": "Tier I", 
@@ -754,8 +735,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "UNDESA, UNFPA; Data are available for 138 countries and territories for the period 1990-2014;  90 countries and territories have at least two available data points. 183 countries and territories have data on  contraceptive prevalence (one component of this indicator); 156 countries and territories have at least two data points.", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "UNDESA, UNFPA; Data are available for 138 countries and territories for the period 1990-2014; 90 countries and territories have at least two available data points. 183 countries and territories have data on contraceptive prevalence (one component of this indicator); 156 countries and territories have at least two data points.", 
             "data-sources": "Household surveys", 
             "available": "Tier I", 
             "category": ""
@@ -773,8 +754,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "UNDESA; Data for the adolescent birth rate (15-19) are available for 225 countries and territories for the period 1990-2014;  223 countries and territories have at least two data points.  Data on births to mothers under the age of 15 are available for at least 102 countries and territories for the period 2000-2014, UNFPA.", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "UNDESA; Data for the adolescent birth rate (15-19) are available for 225 countries and territories for the period 1990-2014; 223 countries and territories have at least two data points. Data on births to mothers under the age of 15 are available for at least 102 countries and territories for the period 2000-2014, UNFPA.", 
             "data-sources": "CRVS, household surveys, censuses", 
             "available": "Tier I", 
             "category": ""
@@ -792,7 +773,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "WHO and World Bank; data - all countries; WHO global database for tracer indicators available; biannual global progress report on UHC, first in 2015.", 
             "data-sources": "household surveys and facility data", 
             "available": "Tier II", 
@@ -811,8 +792,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
-            "leads": "WHO and World Bank; data - 89 countries;  global database under development; biannual global progress report on UHC, first in 2015", 
+            "source": "Aug2015, Dec2015-grey", 
+            "leads": "WHO and World Bank; data - 89 countries; global database under development; biannual global progress report on UHC, first in 2015", 
             "data-sources": "Household surveys", 
             "available": "Tier II", 
             "category": ""
@@ -831,7 +812,7 @@
                 "meta": ""
             }, 
             "source": "Aug2015", 
-            "leads": "WHO; data - 91 countries in global database; biannual updates planned;   OECD also has geospatially-based measures for air pollution exposure with significant granularity at local level. It is rather straightforward to extend country coverage to a global level.", 
+            "leads": "WHO; data - 91 countries in global database; biannual updates planned; OECD also has geospatially-based measures for air pollution exposure with significant granularity at local level. It is rather straightforward to extend country coverage to a global level.", 
             "data-sources": "Administrative records; satellite data", 
             "available": "Tier I", 
             "category": ""
@@ -849,7 +830,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Dec2015", 
+            "source": "Dec2015-grey", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -868,7 +849,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "WHO; data - all countries; global database available; regular global reporting", 
             "data-sources": "Household surveys", 
             "available": "Tier I", 
@@ -887,7 +868,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "WHO; data - all countries", 
             "data-sources": "Facility surveys", 
             "available": "Tier I", 
@@ -906,7 +887,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Nov2015", 
+            "source": "Nov2015-green", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -925,7 +906,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "WHO; data - all countries; global database available; annual updating", 
             "data-sources": "Census, household surveys, health facility data, administrative systems", 
             "available": "Tier I", 
@@ -944,7 +925,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "WHO; data - all countries; global database available; regular updating", 
             "data-sources": "Country report and independent assessment", 
             "available": "Tier II", 
@@ -963,9 +944,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UNESCO-UIS will form a broad technical group including Member States to develop and maintain measures. UNESCO-UIS will compile data from learning assessments conducted by other organizations and transform them to the common learning scale.", 
-            "data-sources": "Various international (eg PIRLS, PISA, TIMSS), regional learning assessments (eg LLECE, SACMEQ, PASEC) national and citizen-led learning assessments. Data are available at the primary level for about 50 countries from PIRLS  and at lower secondary level for about 70 countries from PISA and 65 countries from TIMSS. Once the learning scale has been created the existing results  can be reported according to a common scale. This is expected to take 3-5 years to achieve.", 
+            "data-sources": "Various international (eg PIRLS, PISA, TIMSS), regional learning assessments (eg LLECE, SACMEQ, PASEC) national and citizen-led learning assessments. Data are available at the primary level for about 50 countries from PIRLS and at lower secondary level for about 70 countries from PISA and 65 countries from TIMSS. Once the learning scale has been created the existing results can be reported according to a common scale. This is expected to take 3-5 years to achieve.", 
             "available": "Tier III", 
             "category": ""
         }, 
@@ -982,7 +963,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UNESCO-UIS will compile data from household surveys conducted by other organizations.", 
             "data-sources": "One possible source is the ECDI from MICS but other sources should be explored in order to ensure that the range of characteristics and their levels are relevant in all parts of the world. This is expected to take 3-5 years to achieve. The ECDI is currently available for about 30 countries.", 
             "available": "Tier III", 
@@ -1001,9 +982,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Nov2015", 
-            "leads": "", 
-            "data-sources": "", 
+            "source": "Nov2015-green", 
+            "leads": "UNESCO-UIS", 
+            "data-sources": "UOE questionnaire- UNESCO-UIS", 
             "available": "", 
             "category": ""
         },  
@@ -1020,9 +1001,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UNESCO-UIS will convene an inter-agency group of experts to develop common methodologies for, initially, completion and participation indicators derived from household surveys. UNESCO-UIS will compile data from household surveys conducted by other organizations.", 
-            "data-sources": "This indicator is usually calculated from individual level data collected in household surveys. One such source is the European Union's Adult Education Survey covering about 30 countries. Considerable work is required to develop a set of questions to be applied in labour force or other surveys globally. This is expected to take 1-3  years to achieve.", 
+            "data-sources": "This indicator is usually calculated from individual level data collected in household surveys. One such source is the European Union's Adult Education Survey covering about 30 countries. Considerable work is required to develop a set of questions to be applied in labour force or other surveys globally. This is expected to take 1-3 years to achieve.", 
             "available": "Tier II", 
             "category": ""
         }, 
@@ -1039,7 +1020,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "International Telecommunications Union (ITU)", 
             "data-sources": "Already collected by ITU. See ITU's response on indicator 5.b.2 for further details.", 
             "available": "Tier I", 
@@ -1058,7 +1039,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UIS; Data available for over 100 countries", 
             "data-sources": "Same sources and availability as the underlying indicators themselves", 
             "available": "Tier I", 
@@ -1077,9 +1058,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "OECD (PIAAC); World Bank (STEP); UNESCO-UIS will compile the data collected in assessment surveys run by other organizations.", 
-            "data-sources": "This indicator is collected via skills' assessment surveys of the adult population. Currently data are available for  33 mostly high-income countries from PIAAC. Similar information is available for (urban areas of) of 13 low- and middle-income countries from STEP. Considerable work is required to develop a cost-effective module that can be integrated into national and international surveys. This is expected to take 3-5 years to achieve.", 
+            "data-sources": "This indicator is collected via skills' assessment surveys of the adult population. Currently data are available for 33 mostly high-income countries from PIAAC. Similar information is available for (urban areas of) of 13 low- and middle-income countries from STEP. Considerable work is required to develop a cost-effective module that can be integrated into national and international surveys. This is expected to take 3-5 years to achieve.", 
             "available": "Tier III", 
             "category": ""
         }, 
@@ -1096,7 +1077,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "OECD (PISA), IEA (ICCS); UNESCO-UIS will compile data from assessments and surveys run by other organizations", 
             "data-sources": "PISA 2006, administered in 57 countries, estimated an 'environmental science performance index.' ICCS 2009, which included 38 countries, contains workable items for larger-scale tracking that will require validation in developing world settings. ICCS 2016 will provide globally-comparable data on civic knowledge and engagement, and students' roles in peaceful functioning of schools. Major efforts will be required to develop a tool for use in other surveys. This is expected to take 3-5 years to achieve.", 
             "available": "Tier III", 
@@ -1109,13 +1090,13 @@
                 "other-targets": "6.1, 6.2, 7.1, 9.c, 17.8"
             }, 
             "indicator": "4.a.1", 
-            "title": "Percentage of schools with access to (i) electricity; (ii) Internet for pedagogical purposes (iii) basic drinking water; (iv) basic sanitation facilities;  and (v) basic hand-washing facilities (as per the WASH indicator definitions)", 
+            "title": "Percentage of schools with access to (i) electricity; (ii) Internet for pedagogical purposes (iii) basic drinking water; (iv) basic sanitation facilities; and (v) basic hand-washing facilities (as per the WASH indicator definitions)", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UNESCO-UIS and UNICEF", 
             "data-sources": "The indicator can be calculated from administrative sources on school facilities. Data are currently available on electricity and Internet for c70 countries and on water and sanitation for c100 countries. Considerable efforts will be required to apply the WASH definitions fully and extend coverage to more countries. This is expected to take 1-3 years.", 
             "available": "Tier II", 
@@ -1128,13 +1109,13 @@
                 "other-targets": "1.a, 2.a, 9.5, 9.b, 10.b, 12.a, 13.b, 17.2, 17.6"
             }, 
             "indicator": "4.b.1", 
-            "title": "Volume of ODA flows for scholarships by sector and type of study; Total net official development assistance (ODA) for scholarships and student costs in donor countries (types of aid E01 and E02).  Data expressed in US dollars at the average annual exchange rate.", 
+            "title": "Volume of ODA flows for scholarships by sector and type of study; Total net official development assistance (ODA) for scholarships and student costs in donor countries (types of aid E01 and E02). Data expressed in US dollars at the average annual exchange rate.", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "OECD-DAC; Data are available for essentially all high-income countries, and for an increasing number of middle-income aid providers.", 
             "data-sources": "Data are compiled by the Development Assistance Committee (DAC) of the Organisation for Economic Co-operation and Development from returns submitted by its member countries and other aid providers.", 
             "available": "Tier I", 
@@ -1147,13 +1128,13 @@
                 "other-targets": "1.2, 1.4, 1.a, 2.1, 2.2, 2.3, 3.7, 3.c, 3.d, 5.1, 5.5, 5.b, 8.6, 8.7, 10.2, 12.8, 13.3, 13.b"
             }, 
             "indicator": "4.c.1", 
-            "title": "Percentage of teachers in (i) pre-primary (ii) primary, (iii) lower secondary and (iv) upper secondary education who have received at least the minimum organized teacher (i.e. pedagogical  training) pre-service or in-service required for teaching at the relevant level in a given country. (Disaggregations: sex (and others where data are available))", 
+            "title": "Percentage of teachers in (i) pre-primary (ii) primary, (iii) lower secondary and (iv) upper secondary education who have received at least the minimum organized teacher (i.e. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country. (Disaggregations: sex (and others where data are available))", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UNESCO-UIS", 
             "data-sources": "The indicator can be calculated from administrative sources on teachers. Data are currently available for c100 countries. Considerable further work would be required if a common standard for teacher training is to be applied across countries.", 
             "available": "Tier I/III", 
@@ -1172,7 +1153,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "Methodology being developed by OHCHR and UN Women. A tentative proposal is that the CEDAW Committee would monitor the indicator as part of their country reporting and review process using a standardized template to assess all countries in a comparable manner.", 
             "data-sources": "Member State responses to CEDAW, World Bank Women Business and Law Database", 
             "available": "Tier III", 
@@ -1191,9 +1172,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "The data would be compiled by UNICEF, UN Women and UNSD   -- around 100 but not fully comparable, UNFPA, WHO.", 
-            "data-sources": "The data would come from DHS and other specialized VAW surveys.         Included in the Minimum Set of Gender Indicators", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "The data would be compiled by UNICEF, UN Women and UNSD -- around 100 but not fully comparable, UNFPA, WHO.", 
+            "data-sources": "The data would come from DHS and other specialized VAW surveys. Included in the Minimum Set of Gender Indicators", 
             "available": "Tier II", 
             "category": ""
         }, 
@@ -1210,9 +1191,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "The data would be compiled by UNICEF, UN Women, UNSD, UNFPA, and WHO.", 
-            "data-sources": "The data would come from DHS and other specialized VAW surveys.   Included in the Minimum Set of Gender Indicators.", 
+            "data-sources": "The data would come from DHS and other specialized VAW surveys. Included in the Minimum Set of Gender Indicators.", 
             "available": "Tier II", 
             "category": ""
         }, 
@@ -1229,8 +1210,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "UNICEF maintains a global database on the issue since 2003. Fully comparable data are available for some 117 low- and middle-income countries. UNICEF is also the agency responsible for reporting on this indicator as part of the UN expert group on gender indicators.  UNFPA.", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "UNICEF maintains a global database on the issue since 2003. Fully comparable data are available for some 117 low- and middle-income countries. UNICEF is also the agency responsible for reporting on this indicator as part of the UN expert group on gender indicators. UNFPA.", 
             "data-sources": "Household surveys such as MICS and DHS. Included in the Minimum Set of Gender Indicators", 
             "available": "Tier I", 
             "category": ""
@@ -1248,9 +1229,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "UNICEF maintains a global database on the issue since 2004. Data are available for some 29 low- and middle-income countries where the practice is concentrated. UNICEF is also the agency responsible for reporting on this indicator as part of the UN expert group on gender indicators.  UNFPA.", 
-            "data-sources": "Household surveys such as MICS and DHS.                                                     Included in the Minimum Set of Gender Indicators", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "UNICEF maintains a global database on the issue since 2004. Data are available for some 29 low- and middle-income countries where the practice is concentrated. UNICEF is also the agency responsible for reporting on this indicator as part of the UN expert group on gender indicators. UNFPA.", 
+            "data-sources": "Household surveys such as MICS and DHS. Included in the Minimum Set of Gender Indicators", 
             "available": "Tier I", 
             "category": ""
         }, 
@@ -1267,7 +1248,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "UN Women and UNSD will monitor. Time use surveys data compiled from databases from ECLAC, OECD, UNECE and national statistical offices for 75 countries.", 
             "data-sources": "68 countries with TUS data since 2005; UNSD has compiled info on unpaid work for 51 countries. Included in the Minimum Set of Gender Indicators", 
             "available": "Tier II", 
@@ -1286,7 +1267,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "IPU, Country coverage: all countries with national parliaments; UN Women UCLG; Country coverage: All countries", 
             "data-sources": "Member States. Included in the Minimum Set of Gender Indicators.", 
             "available": "Tier I", 
@@ -1305,7 +1286,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Nov2015", 
+            "source": "Nov2015-green", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -1324,7 +1305,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UNFPA", 
             "data-sources": "DHS, MICS and other health and household surveys.", 
             "available": "Tier II", 
@@ -1343,7 +1324,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UNPFA, some baselines available.", 
             "data-sources": "Member States", 
             "available": "Tier II", 
@@ -1362,7 +1343,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "FAO and UNSD (EDGE), UN Women", 
             "data-sources": "Included in Minimum Set Gender Indicators", 
             "available": "Tier III soon Tier II", 
@@ -1381,8 +1362,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "FAO - FAO has the mandate to  collect and disseminate information related to agriculture and is working to monitor legal frameworks related to land tenure, as well as to collect, analyse and disseminate land-related statistics. This applies to both alternative indicators proposed. For the rights-based indicator, data is available for over 80 countries (Gender and Land Rights Database, http://www.fao.org/gender-landrights-database/en/ ). Data on the proportion of adult women landowners out of total landowners is available for 11 countries: http://www.fao.org/gender-landrights-database/data-map/statistics/en/?sta_id=1162", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "FAO - FAO has the mandate to collect and disseminate information related to agriculture and is working to monitor legal frameworks related to land tenure, as well as to collect, analyse and disseminate land-related statistics. This applies to both alternative indicators proposed. For the rights-based indicator, data is available for over 80 countries (Gender and Land Rights Database, http://www.fao.org/gender-landrights-database/en/ ). Data on the proportion of adult women landowners out of total landowners is available for 11 countries: http://www.fao.org/gender-landrights-database/data-map/statistics/en/?sta_id=1162", 
             "data-sources": "Data for both alternative proposals are available and currently disseminated by FAO. Indeed, some indicators are already available through FAO's Gender and Land Rights Database (see next section). In addition to existing data, FAO is working to strengthen and improve data collection through efforts such as the new Guidelines for the World Census of Agriculture (WCA 2020) as well as the development of the AGRIS toolkit. These are clear indications of the commitment of FAO in sex-disaggregated land indicators.", 
             "available": "Tier II", 
             "category": ""
@@ -1400,7 +1381,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "ITU", 
             "data-sources": "Data for the this indicator are collected by NSOs, through household surveys. A number of countries already collect this indicator but data will only be collected at the international level as of 2015", 
             "available": "Tier II", 
@@ -1419,7 +1400,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UN Women takes lead in monitoring progress on the indicator. Through its programmes, UN Women is providing technical support to the governments in setting up accountability systems to track gender equality allocations. The indicator is included in UN Women's Strategic Plan (SP) 2014-2017, allows systematic and regular monitoring on the progress. ** Data is available for 35 countries which reported on the indicator in the first round of monitoring. Detailed list of these countries can be found in Table A 6 of 'Making Development Cooperation more Effective: First Progress Report (2014)'.", 
             "data-sources": "Methodology being developed.", 
             "available": "Tier III", 
@@ -1438,28 +1419,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "WHO/UNICEF JMP already maintains a global database and regularly reports on progress in access to drinking water for all countries. WHO/UNICEF JMP is currently developing estimates for the safety and continuity of drinking water services based on available data.", 
             "data-sources": "Data on use of basic drinking water sources is already available from national household surveys and censuses for all developing countries and from administrative sources for all developed countries. Data on safety and continuity of supplies are currently available from household surveys and administrative sources including regulators for c.100 countries", 
-            "available": "Tier I", 
-            "category": ""
-        }, 
-        {
-            "goal": 6, 
-            "targets": {
-                "primary-target": "6.1", 
-                "other-targets": "5.4."
-            }, 
-            "indicator": "6.1.2", 
-            "title": "Average weekly time spent in water collection (including waiting time at public supply points), by sex, age, location and income.", 
-            "data": {
-                "url": "", 
-                "format": "", 
-                "meta": ""
-            }, 
-            "source": "Aug2015", 
-            "leads": "JMP on WASH could monitor this indicator. This data is collected in MICS and DHS, for over 100 countries.", 
-            "data-sources": "DHS/MICs", 
             "available": "Tier I", 
             "category": ""
         }, 
@@ -1476,9 +1438,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "WHO/UNICEF JMP already maintains a global database and regularly reports on progress in access to basic sanitation for all countries (http://www.wssinfo.org/).  **  WHO/UNICEF JMP is working with the GEMI initiative to develop global baseline estimates for safe management of faecal wastes.", 
-            "data-sources": "Data on use of basic sanitation facilities is already available from national household surveys and censuses for all developing countries and from administrative sources for all developed countries  ** Data on disposal or treatment of excreta are limited but estimates for safe management of faecal wastes can be calculated based on faecal waste flows associated with the use of different types of basic sanitation facility.", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "WHO/UNICEF JMP already maintains a global database and regularly reports on progress in access to basic sanitation for all countries (http://www.wssinfo.org/). ** WHO/UNICEF JMP is working with the GEMI initiative to develop global baseline estimates for safe management of faecal wastes.", 
+            "data-sources": "Data on use of basic sanitation facilities is already available from national household surveys and censuses for all developing countries and from administrative sources for all developed countries ** Data on disposal or treatment of excreta are limited but estimates for safe management of faecal wastes can be calculated based on faecal waste flows associated with the use of different types of basic sanitation facility.", 
             "available": "Tier II", 
             "category": ""
         }, 
@@ -1495,7 +1457,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "WHO and UN-Habitat, on behalf of UN-Water. Under the UN-Water umbrella, a partial monitoring framework is already in place, currently being finalized under the inter-agency monitoring initiative known as GEMI (Integrated Monitoring of Water and Sanitation Related Targets). GEMI is a new coherent monitoring framework, working closely with JMP), an autonomous programme affiliated with UN-Water, to ensure long-term monitoring for the entire SDG 6. The GEMI monitoring initiative in collaboration with WHO/UNICEF JMP will provide baseline estimates for safe management of faecal wastes. Through combined data sources, data is available for at least 85 countries. Less data are available for onsite and industrial.", 
             "data-sources": "Existing data are available from WHO/UNICEF JMP, FAO-QUASTAT, IBNET and UN-Water GLAAS, as well as population density data, and land-use/ land-cover data from earth observations. New data will come from a variety of sources combining utility and regulator data for off-site systems and potentially household surveys and measured data for onsite systems, supplemented by modelled estimates where no reliable national data exist. Modelled estimates can be generated using JMP data combined with treatment performance in different population density and income settings", 
             "available": "Tier II", 
@@ -1514,9 +1476,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "UNEP (through GEMS/Water), on behalf of UN-Water  A partial monitoring framework is already in place, currently being  finalized under the GEMI monitoring initiative under the UN-Water umbrella (see description under 6.3.1).   Related to indicator 6.3.2, GEMI will draw upon metadata standards which are already in place, among other sources on pre-existing datasets such as GEMStat and FAO-AQUASTAT.", 
-            "data-sources": "Existing data (direct values) are available from UNEP's GEMS/Water, GEMStat and OECD. Additional information on optical water properties from remote sensing can be used as proxies for sediments and eutrophication/nutrient loading.  Measurements would be completed at local laboratories and/or achieved using field measurements on appropriate protocols for sample collection and analysis. For data-poor areas estimates can be generated using existing - in situ - data combined with modelled data and remote sensing information.  Data is collected at the scale of the receiving water body basin scale and can be aggregated to the country and regional scale.", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "UNEP (through GEMS/Water), on behalf of UN-Water. A partial monitoring framework is already in place, currently being finalized under the GEMI monitoring initiative under the UN-Water umbrella (see description under 6.3.1). Related to indicator 6.3.2, GEMI will draw upon metadata standards which are already in place, among other sources on pre-existing datasets such as GEMStat and FAO-AQUASTAT.", 
+            "data-sources": "Existing data (direct values) are available from UNEP's GEMS/Water, GEMStat and OECD. Additional information on optical water properties from remote sensing can be used as proxies for sediments and eutrophication/nutrient loading. Measurements would be completed at local laboratories and/or achieved using field measurements on appropriate protocols for sample collection and analysis. For data-poor areas estimates can be generated using existing - in situ - data combined with modelled data and remote sensing information. Data is collected at the scale of the receiving water body basin scale and can be aggregated to the country and regional scale.", 
             "available": "Tier II", 
             "category": ""
         }, 
@@ -1533,7 +1495,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "FAO, on behalf of UN-Water A partial monitoring framework is already in place, currently being finalized under the GEMI monitoring initiative under the UN-Water umbrella (see description under 6.3.1). Data on efficiency are available for all countries. Data for baseline year will be used to track progress in successive years.", 
             "data-sources": "The indicator can be calculated using existing datasets from FAO-AQUASTAT on water withdrawals in different sectors, together with datasets on value generation from National Accounts Main Aggregates (UNSD), World Energy Outlook (International Energy Agency), World Bank demographic datasets, WaterStat Database (Water Footprint Network) and IBNET (the International Benchmarking Network for Water and Sanitation Utilities). The System of Environmental-Economic Accounting (SEEA, 2012) will provide robust withdrawal and consumption based statistics in the long-term but is currently only being compiled by a select number of countries. Modelled data could be used to fill in gaps while capacity is being developed, so that the indicator could be calculated for all countries immediately. The indicator provides an aggregated measure of overall change in productivity across sectors, but it is built on sectoral data and is therefore relevant to each of the sectors", 
             "available": "Tier I", 
@@ -1546,13 +1508,13 @@
                 "other-targets": "15.1"
             }, 
             "indicator": "6.4.2", 
-            "title": "Percentage of total available water resources used, taking environmental water requirements into account (Level of  Water Stress)", 
+            "title": "Percentage of total available water resources used, taking environmental water requirements into account (Level of Water Stress)", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "FAO, on behalf of UN-Water. A partial monitoring framework is already in place, currently being finalized under the GEMI monitoring initiative under the UN-Water umbrella. As one of the sources for GEMI, FAO-AQUASTAT data are available for all countries, with a track record (incomplete) starting in 1960.", 
             "data-sources": "Existing data are available from FAO-AQUASTAT. EWR data are presently not collected by AQUASTAT, but many feasible methods are available for countries that do not already have good institutional arrangements in place to collect this data on their own. Modelled data could be used to fill in gaps while capacity is being developed. The System of Environmental-Economic Accounting (SEEA, 2012) will provide robust withdrawal and consumption based statistics in the long-term but is currently only being compiled by a select number of countries. Data are collected at the scale of the river basin/aquifer and can be aggregated to the sub-national, national and regional scales.", 
             "available": "Tier I", 
@@ -1571,7 +1533,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNEP, on behalf of UN-Water. Under the UN-Water umbrella, the GEMI monitoring initiative (see further information and description under 6.3.1), will draw on UNEP-DHI data, which are available for 134 countries. This can be used to provide a baseline for measurements. The UN World Water Assessment Programme (WWAP) initiated a project in 2014 to develop a methodology for gender-disaggregated data collection and produce gender-sensitive indicators. In November 2014, the Gender-Disaggregated Indicators presented by WWAP were officially endorsed by the African Ministers' Council on Water (AMCOW). AMCOW officially committed to 'establish national targets and a monitoring and evaluation framework for each of the seven pillars of the AMCOW gender policy and strategy, including sex-disaggregated indicators in the African context following guidelines developed by WWAP, by 2016.'", 
             "data-sources": "Data for 134 countries are available from UNEP-DHI (e.g. http://www.unepdhi.org/rioplus20 (see data file zip link) - full data available on request). Data are collected through the use of national IWRM questionnaires (one per country), measuring both qualitative and quantitative aspects of IWRM. This approach has been successfully applied to measure the status of IWRM for the Commission on Sustainable Development in both 2008 and 2012 (Rio+20). Results can easily be disaggregated to give a more nuanced picture of status both at national and regional (transboundary) levels.", 
             "available": "Tier I", 
@@ -1590,7 +1552,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -1609,7 +1571,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "OECD-DAC", 
             "data-sources": "OECD-DAC", 
             "available": "Tier II", 
@@ -1628,7 +1590,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Nov2015", 
+            "source": "Nov2015-green", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -1647,7 +1609,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "World Bank (as part of SE4All)", 
             "data-sources": "", 
             "available": "Tier I", 
@@ -1666,7 +1628,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -1685,7 +1647,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "", 
             "data-sources": "", 
             "available": "Tier I", 
@@ -1704,7 +1666,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "", 
             "data-sources": "", 
             "available": "Tier I", 
@@ -1723,7 +1685,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Nov2015", 
+            "source": "Nov2015-green", 
             "leads": "UNFCCC", 
             "data-sources": "", 
             "available": "", 
@@ -1742,7 +1704,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNSD", 
             "data-sources": "Energy productivity indicators defined as value added generated over net domestic energy use. Such indicator can be calculated at the aggregate economy-wide level, as well as by industry and by primary energy source.", 
             "available": "Tier I", 
@@ -1761,7 +1723,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "World Bank", 
             "data-sources": "World Bank", 
             "available": "Tier I", 
@@ -1780,7 +1742,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "WB and ILO", 
             "data-sources": "GDP figures based on National Accounts and employment figures on Household surveys.", 
             "available": "Tier I", 
@@ -1799,8 +1761,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "Responsible entity: ILO.  Availability: Share of informal employment available for 62 countries.", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "Responsible entity: ILO. Availability: Share of informal employment available for 62 countries.", 
             "data-sources": "Household surveys (LFS, HIES, LSMS, Integrated HH surveys, etc.).", 
             "available": "Tier II", 
             "category": ""
@@ -1818,9 +1780,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
-            "leads": "- UNEP/International resources panel  is responsible for policy application of data but not on the data collection and dissemination per se. - UNIDO: Data are partially available for international reporting - The System of Environmental Economic Accounts provides a standard methodology for calculating this indicator. However, no international data collection mechanism is yet in place and countries are still in implementation phase.", 
-            "data-sources": "- Statistical surveys and administrative data on material use and value added  collected from the national statistics office", 
+            "source": "Aug2015, Dec2015-grey", 
+            "leads": "- UNEP/International resources panel is responsible for policy application of data but not on the data collection and dissemination per se. - UNIDO: Data are partially available for international reporting - The System of Environmental Economic Accounts provides a standard methodology for calculating this indicator. However, no international data collection mechanism is yet in place and countries are still in implementation phase.", 
+            "data-sources": "- Statistical surveys and administrative data on material use and value added collected from the national statistics office", 
             "available": "Tier II", 
             "category": ""
         }, 
@@ -1831,14 +1793,14 @@
                 "other-targets": "10.3, 10.4"
             }, 
             "indicator": "8.5.1", 
-            "title": "Average hourly earnings of female and male employees by occupations  (Wages/Gender wage gap)", 
+            "title": "Average hourly earnings of female and male employees by occupations (Wages/Gender wage gap)", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "Responsible entity: ILO.  Availability: Hourly earnings and gender wage gap: 66 countries.", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "Responsible entity: ILO. Availability: Hourly earnings and gender wage gap: 66 countries.", 
             "data-sources": "Household surveys (LFS, HIES, LSMS, Integrated HH surveys, etc.), Establishment surveys, Administrative records.", 
             "available": "Tier II", 
             "category": ""
@@ -1856,7 +1818,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "Responsible entity: ILO. Availability: 224 countries.", 
             "data-sources": "Household surveys (LFS, HIES, LSMS, Integrated HH surveys, etc.), Administrative records.", 
             "available": "Tier I/II", 
@@ -1875,7 +1837,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "Responsible entity: ILO/OECD.  Availability: 88 countries.", 
             "data-sources": "Household surveys (LFS, HIES, LSMS, Integrated HH surveys, etc.), Administrative records.", 
             "available": "Tier I", 
@@ -1894,8 +1856,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "Responsible entity: ILO.  Availability: Data available for about 60 countries (at least one data set collected in each of past 5 years for generating estimates of the proposed indicators).", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "Responsible entity: ILO. Availability: Data available for about 60 countries (at least one data set collected in each of past 5 years for generating estimates of the proposed indicators).", 
             "data-sources": "Household surveys (Child Labour Surveys, Mixed Surveys, LFS, HIES, LSMS, Integrated HH surveys, etc.).", 
             "available": "Tier II", 
             "category": ""
@@ -1913,8 +1875,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "Responsible entity: ILO.  Availability: Fatal rate: 117 countries; Non-fatal rate: 89 countries; Time lost: 107 countries. Breakdown by migrant status not currently available.", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "Responsible entity: ILO. Availability: Fatal rate: 117 countries; Non-fatal rate: 89 countries; Time lost: 107 countries. Breakdown by migrant status not currently available.", 
             "data-sources": "Household surveys (LFS, HIES, LSMS, Integrated HH surveys, etc.), Official estimates, Establishment surveys, Administrative records.", 
             "available": "Tier II", 
             "category": ""
@@ -1932,8 +1894,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
-            "leads": "Responsible entity: ILO.  Availability: All ILO member states (185). Breakdown by type of ILO convention (fundamental, governance, technical).", 
+            "source": "Aug2015, Dec2015-grey", 
+            "leads": "Responsible entity: ILO. Availability: All ILO member states (185). Breakdown by type of ILO convention (fundamental, governance, technical).", 
             "data-sources": "NORMLEX (Information System on International Labour Standards of the ILO).", 
             "available": "Tier I", 
             "category": ""
@@ -1951,8 +1913,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
-            "leads": "World Tourism Organisation (UNWTO).  Currently around 60 countries have a fully developed System of Tourism Statistics that allows to construct a Tourism Satellite Account (TSA) and obtain economic aggregates like tourism GDP. All countries have at least a basic system of Tourism Statistics that allows to gather information about physical flows and monetary aggregates like tourism expenditures.", 
+            "source": "Aug2015, Dec2015-grey", 
+            "leads": "World Tourism Organisation (UNWTO). Currently around 60 countries have a fully developed System of Tourism Statistics that allows to construct a Tourism Satellite Account (TSA) and obtain economic aggregates like tourism GDP. All countries have at least a basic system of Tourism Statistics that allows to gather information about physical flows and monetary aggregates like tourism expenditures.", 
             "data-sources": "Existing data sources: National Statistical Offices and National Tourism Administrations. Not all countries have GDP figures for tourism, therefore value added could be used instead. The same applies for employment: not all countries count the number of jobs, some will have only the number of employees (or the full-time equivalents) which is a good substitute.", 
             "available": "Tier II", 
             "category": ""
@@ -1970,7 +1932,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "IMF Financial Access Survey/189 countries", 
             "data-sources": "", 
             "available": "Tier I", 
@@ -1989,7 +1951,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "World Bank. Data availability: ~ 145 countries. Triennial. Available for 2011 and 2014.", 
             "data-sources": "World Bank Global Findex (individual survey - added module to Gallup World Poll)", 
             "available": "Tier I", 
@@ -2008,7 +1970,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "WTO/OECD", 
             "data-sources": "OECD/WTO", 
             "available": "Tier II", 
@@ -2027,8 +1989,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "Responsible entity: ILO.  Availability: Collective bargaining rates available for 84 countries.", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "Responsible entity: ILO. Availability: Collective bargaining rates available for 84 countries.", 
             "data-sources": "Household surveys (LFS, HIES, LSMS, Integrated HH surveys, etc.), Official estimates, Establishment surveys, Administrative records.", 
             "available": "Tier I", 
             "category": ""
@@ -2046,7 +2008,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "Methodology and initial test country data to be completed by June, data to be available for 7 pilot countries by Dec 2015, with dramatic expansion planned in 2016.", 
             "data-sources": "For Rural access, while historic data based on household surveys exists for many countries, current efforts are underway by the World Bank, DFID, and others to develop a new methodology using GIS data.", 
             "available": "Tier II", 
@@ -2065,7 +2027,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "World Bank, Passenger and freight data available from World Development Indicators, Baseline data exists for [80] countries, with the new methodology to be applied in an expanding set of countries.", 
             "data-sources": "For Passenger and Freight volumes, data available from World Bank World Development Indicators.", 
             "available": "Tier II", 
@@ -2084,7 +2046,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "UNIDO; Data are available in UNIDO for more than 200 economies", 
             "data-sources": "MVA data are available in a large number of countries. Currently UNIDO maintains the World MVA database which contains data for about 200 economies. Data are presented at constant and current prices. Data can be presented for country groups (LDCs, LLDC) and the world regions.", 
             "available": "Tier I", 
@@ -2103,7 +2065,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UNIDO Data are available in UNIDO for more than 180 countries", 
             "data-sources": "Industrial surveys (NSOs) and UNIDO Gender disaggregated data available", 
             "available": "Tier I", 
@@ -2122,7 +2084,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "Industrial surveys (NSO) and UNIDO/ UNIDO", 
             "data-sources": "Refers to valued added of small industries in relation to total value added (See UNIDO technical notes)", 
             "available": "Tier I/II", 
@@ -2141,7 +2103,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Nov2015", 
+            "source": "Nov2015-green", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -2160,8 +2122,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "UNIDO  Data available for more than 150 countries for international reporting", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "UNIDO. Data available for more than 150 countries for international reporting", 
             "data-sources": "Industrial surveys (NSO) / UNIDO database and estimates of emission", 
             "available": "Tier I", 
             "category": ""
@@ -2179,8 +2141,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "UNESCO-UIS  Data available for about 135 countries for international reporting", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "UNESCO-UIS. Data available for about 135 countries for international reporting", 
             "data-sources": "Research and development surveys (NSO, Line ministries)", 
             "available": "Tier I", 
             "category": ""
@@ -2198,7 +2160,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "Data not available for international reporting", 
             "data-sources": "Central Bank data", 
             "available": "Tier II", 
@@ -2217,8 +2179,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "UNIDO  Data available for more than 150 countries for international reporting", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "UNIDO. Data available for more than 150 countries for international reporting", 
             "data-sources": "Industrial surveys (NSO), UNIDO", 
             "available": "Tier I", 
             "category": ""
@@ -2236,7 +2198,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "ITU collects data annually. By 2014, data on 2G mobile population coverage were available for about 144 countries, from developed and developing regions, and covering all key global regions. Data on 3G mobile population coverage were available for 135 countries.", 
             "data-sources": "Data are produced by national regulatory telecom authorities or Information and Communication Technology Ministries, who collect the data from Internet service providers. By 2014, data on 2G mobile population coverage were available for about 144 countries, from developed and developing regions, and covering all key global regions. Data on 3G mobile population coverage were available for 135 countries.", 
             "available": "Tier I", 
@@ -2249,13 +2211,13 @@
                 "other-targets": "1.2"
             }, 
             "indicator": "10.1.1", 
-            "title": "Growth rates of household expenditure  or income per capita among the bottom 40 percent of the population and the total population", 
+            "title": "Growth rates of household expenditure or income per capita among the bottom 40 percent of the population and the total population", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "World Bank", 
             "data-sources": "Household Surveys", 
             "available": "Tier I", 
@@ -2274,8 +2236,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "UNDESA.  OECD. Widely available for OECD and EU countries.", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "UNDESA. OECD. Widely available for OECD and EU countries.", 
             "data-sources": "National income and expenditure surveys.", 
             "available": "Tier I", 
             "category": ""
@@ -2293,7 +2255,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "Data available at regional level, e.g. EU Fundamental Rights Agency collects for all 28 EU Member States. No current global collector.", 
             "data-sources": "Survey", 
             "available": "Tier II", 
@@ -2312,8 +2274,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "Responsible entities: IMF, ILO.  Availability: 200 countries.", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "Responsible entities: IMF, ILO. Availability: 200 countries.", 
             "data-sources": "SNA, IMF Government Finance Statistics, ILO", 
             "available": "Tier I", 
             "category": ""
@@ -2331,7 +2293,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "", 
             "data-sources": "", 
             "available": "Tier III", 
@@ -2340,7 +2302,7 @@
         {
             "goal": 10, 
             "targets": {
-                "primary-target": "10.6", 
+                "primary-target": "10.6, 16.8", 
                 "other-targets": "16.3, 16.7, 17.10"
             }, 
             "indicator": "10.6.1", 
@@ -2350,8 +2312,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "United Nations/DESA.   Data would be available for all international organizations.", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "United Nations/DESA. Data would be available for all international organizations.", 
             "data-sources": "Administrative data of international organizations.", 
             "available": "Tier I", 
             "category": ""
@@ -2369,7 +2331,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "National Statistical offices, Ministries of Labour. GMG", 
             "data-sources": "Annual cost surveys based on household surveys, labour force surveys or ad hoc surveys.", 
             "available": "Tier III", 
@@ -2388,9 +2350,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "Collective effort by members of the Global Migration Group, supported by national governments and statistical agencies", 
-            "data-sources": "Government agencies, including reporting to follow-up mechanisms of relevant human rights instruments.  The United Nations Inquiry among Governments on Population and Development.  World Population Policies Database.  Migration Profiles.  Existing migration policy indices", 
+            "data-sources": "Government agencies, including reporting to follow-up mechanisms of relevant human rights instruments. The United Nations Inquiry among Governments on Population and Development. World Population Policies Database. Migration Profiles. Existing migration policy indices", 
             "available": "Tier III", 
             "category": ""
         }, 
@@ -2407,7 +2369,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNODC, Data on the number of detected victims of TIP is available for over 130 countries", 
             "data-sources": "National governments/Field studies", 
             "available": "Tier II", 
@@ -2426,7 +2388,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "TRAINS data is available for 180+ countries", 
             "data-sources": "Computed with data from TRAINS-UNCTAD.", 
             "available": "Tier I", 
@@ -2445,7 +2407,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "OECD", 
             "data-sources": "OECD", 
             "available": "Tier II", 
@@ -2464,7 +2426,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "World Bank", 
             "data-sources": "Data already collected through quarterly surveys in 226 migration corridors. Information is compiled in existing remittance price database: http://remittanceprices.worldbank.org/en, (survey based, mystery shopping)", 
             "available": "Tier I", 
@@ -2483,7 +2445,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "UN-HABITAT. The data is available for all countries in the world. Global Urban Observatory and City Prosperity Initiative.", 
             "data-sources": "Census, DHS, MICs and household surveys", 
             "available": "Tier I", 
@@ -2502,7 +2464,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "Potential lead Agency UN-Habitat. Data is not yet available.", 
             "data-sources": "Administrative city information and private/public transport companies. Community-based information", 
             "available": "Tier II", 
@@ -2512,7 +2474,7 @@
             "goal": 11, 
             "targets": {
                 "primary-target": "11.3", 
-                "other-targets": "2.1, 3.9, 6.4, 6.6, 11.a,  11.1, 11.b, 12.1, 13.2, 15.3, 15.4"
+                "other-targets": "2.1, 3.9, 6.4, 6.6, 11.a, 11.1, 11.b, 12.1, 13.2, 15.3, 15.4"
             }, 
             "indicator": "11.3.1", 
             "title": "Ratio of land consumption rate to population growth rate", 
@@ -2521,7 +2483,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015",
+            "source": "modified-Aug2015, Nov2015-green",
             "leads": "UN-HABITAT. The data is available for all countries in the world. The City Prosperity Initiative is collecting data for this indicator in more than 300 cities. Lincoln Institute and University of New York and UN-Habitat collect for a Global Sample of Cities (200 cities)", 
             "data-sources": "population growth (UNDESA). Satellite images of cities (open source).", 
             "available": "Tier II", 
@@ -2540,7 +2502,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Dec2015",
+            "source": "Dec2015-grey",
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -2559,7 +2521,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNESCO-UIS (but there are no current data collections for this), UN-HABITAT", 
             "data-sources": "Ministry of Finance/Budget and National Statistical Offices", 
             "available": "Tier II", 
@@ -2578,7 +2540,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNISDR", 
             "data-sources": "National Disaster Loss Databases, 85 (will be more than 115 by 2016)", 
             "available": "Tier II", 
@@ -2597,7 +2559,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "UN-Habitat and WHO", 
             "data-sources": "Municipal bodies or private contractors. Informal collection data from NGOs and community organizations", 
             "available": "Tier III", 
@@ -2616,7 +2578,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "UNEP, UN-Habitat", 
             "data-sources": "Municipal bodies or private contractor", 
             "available": "Tier I", 
@@ -2635,7 +2597,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "UN-Habitat", 
             "data-sources": "Satellite imagery (open sources), legal documents outlining publicly owned land, community-based maps", 
             "available": "Tier III", 
@@ -2654,7 +2616,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Dec2015",
+            "source": "Dec2015-grey",
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -2673,7 +2635,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNFPA , UN-Habitat, DESA", 
             "data-sources": "UNDESA, Census information, city data", 
             "available": "Tier I", 
@@ -2692,7 +2654,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015, Dec2015", 
+            "source": "modified-Aug2015, Nov2015-green, Dec2015-grey", 
             "leads": "UN-Habitat, World Bank, ICLEI, UNISDR, Rockefeller Foundation, 100 Resilient Cities, Global Facility for Disaster Reduction and Reconstruction, Interamerican Development Bank, and C40 Climate Leadership Group", 
             "data-sources": "Government data, OCHA, NGO sources, UNHCR, IOM and IDMC", 
             "available": "Tier I", 
@@ -2711,7 +2673,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UN-Habitat, World Bank", 
             "data-sources": "National accounts and state, provincial and local budgets", 
             "available": "Tier II", 
@@ -2730,7 +2692,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UNEP", 
             "data-sources": "Data not available currently - quantitative data will be provided by mid-2015 as a result of the first Global Survey on SCP, and conducted on a regular basis", 
             "available": "Tier II", 
@@ -2749,8 +2711,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
-            "leads": "UNEP/OECD.  The OECD's Input/output tables could be used to compute this; see http://www.oecd.org/trade/input-outputtables.htm.", 
+            "source": "Aug2015, Dec2015-grey", 
+            "leads": "UNEP/OECD. The OECD's Input/output tables could be used to compute this; see http://www.oecd.org/trade/input-outputtables.htm.", 
             "data-sources": "For MF doable for the last two decades based on material extraction satellite accounts and standard MRIOs such as EXIOBASE, EORA or GTAP-WDIO; for DMI: reliable data available from UNEP and Eurostat for the last four decades", 
             "available": "Tier II", 
             "category": ""
@@ -2768,8 +2730,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "FAO will compile the  indicator on a regular basis as part of the Food Balance Sheets in FAOSTAT", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "FAO will compile the indicator on a regular basis as part of the Food Balance Sheets in FAOSTAT", 
             "data-sources": "The indicator is primarily model-based. The calculation of the indicator relies on primary data collected from government agencies in the Agricultural Production Questionnaire or harvested from official publications and other sources.", 
             "available": "Tier II", 
             "category": ""
@@ -2787,7 +2749,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "Secretariat of the Basel, Rotterdam and Stockholm Conventions, Interim Secretariat of the Minamata Convention, SAICM Secretariat . Countries covered: 183 Parties of the Basel Convention, 154 Parties to the Rotterdam Convention and 179 countries to the Stockholm Convention; Montreal Protocol Data are available for up to 196 countries.", 
             "data-sources": "Very good availability of information through the Secretariat of the Basel, Rotterdam and Stockholm Conventions, SAICM, Minamata Convention, and Montreal Protocol(Ozone).", 
             "available": "Tier I", 
@@ -2806,7 +2768,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Dec2015",
+            "source": "Dec2015-grey",
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -2825,7 +2787,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "Secretariat of the Basel, Rotterdam and Stockholm Conventions (partly). Countries covered: 183 Parties of the Basel Convention, 154 Parties to the Rotterdam Convention and 179 countries to the Stockholm Convention, UNSD", 
             "data-sources": "For national recycling rate: poor data availability and quality, waste and recycling statistics not well standardized, waste amount often underestimated; for 're-used goods': data availability and quality unknown, no info about such data collection so far. But Basel Convention (National reports) include information on the generation of hazardous and other wastes, also with the indication which wastes are destined for recycling and which are for disposal).", 
             "available": "Tier II", 
@@ -2844,7 +2806,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UNEP, GRI", 
             "data-sources": "Very Good; GRI, IIRC, UNGC or SASB all have data on company reporting and reporting content (though this would need to be pulled together and mapped against the companies listed in the Fortune Global 500", 
             "available": "Tier I", 
@@ -2863,9 +2825,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UNEP", 
-            "data-sources": "Medium.  Easy access to adopted policies and action plans - more difficult to have proof of implementation", 
+            "data-sources": "Medium. Easy access to adopted policies and action plans - more difficult to have proof of implementation", 
             "available": "Tier II", 
             "category": ""
         }, 
@@ -2882,7 +2844,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Dec2015", 
+            "source": "modified-Aug2015, Dec2015-grey", 
             "leads": "Union for Ethical Biotrade (Indicator under the BIP)", 
             "data-sources": "Data availability is poor. One source focusing on biodiversity is the Biodiversity Barometer (http://www.bipindicators.net/biodiversitybarometer) but other sources are still under development.", 
             "available": "Tier III", 
@@ -2901,7 +2863,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "modified-Aug2015, Dec2015-grey", 
             "leads": "WIPO", 
             "data-sources": "Poor; however, different patent granting norms prevail across countries. Green/SCP related patents can be selected from these databases", 
             "available": "Tier III", 
@@ -2920,7 +2882,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "World Tourism Organisation (UNWTO) does not collect this data since the conceptual framework is not yet in place.", 
             "data-sources": "to be developed: National Statistical Offices", 
             "available": "Tier III", 
@@ -2939,7 +2901,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "IEA", 
             "data-sources": "Good; EA is estimating fossil fuel subsidies in a regular manner, within the framework of the World Energy Outlook with database. Considerably less information on producer subsidies.", 
             "available": "Tier II", 
@@ -2958,7 +2920,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNISDR", 
             "data-sources": "National Disaster Loss Databases, 85 (will be more than 115 by 2016)", 
             "available": "Tier II", 
@@ -2977,9 +2939,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "Secretariats for IMEAs. Under the Montreal Protocol, such policies have been communicated by over 40 countries so far.", 
-            "data-sources": "Comment: The additional text proposed in the modified indicator aims to highlight the mitigation aspects of the relevant strategies.   Information from National reports of relevant conventions", 
+            "data-sources": "Comment: The additional text proposed in the modified indicator aims to highlight the mitigation aspects of the relevant strategies. Information from National reports of relevant conventions", 
             "available": "Tier II", 
             "category": ""
         }, 
@@ -2996,7 +2958,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNICEF", 
             "data-sources": "", 
             "available": "Tier III", 
@@ -3015,7 +2977,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UNFCCC", 
             "data-sources": "", 
             "available": "Tier I", 
@@ -3034,7 +2996,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "modified-Aug2015, Dec2015-grey", 
             "leads": "OECD", 
             "data-sources": "", 
             "available": "Tier III", 
@@ -3053,7 +3015,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "(sources will be identified)", 
             "data-sources": "GPNM and the European Nitrogen Expert Panel)", 
             "available": "Tier III", 
@@ -3072,9 +3034,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "(sources will be identified)", 
-            "data-sources": "UNEP will be monitoring a similar indicator under its Programme of Work 2016-2017 adopted by Member States. The process can support monitoring of revised indicator  14.2.1.", 
+            "data-sources": "UNEP will be monitoring a similar indicator under its Programme of Work 2016-2017 adopted by Member States. The process can support monitoring of revised indicator 14.2.1.", 
             "available": "Tier III", 
             "category": ""
         }, 
@@ -3091,9 +3053,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "", 
-            "data-sources": "Marine acidity -  SEEA Experimental Ecosystem Accounting condition accounts for Marine and coastal areas can be used as measurement framework for acidity.", 
+            "data-sources": "Marine acidity - SEEA Experimental Ecosystem Accounting condition accounts for Marine and coastal areas can be used as measurement framework for acidity.", 
             "available": "Tier II", 
             "category": ""
         }, 
@@ -3110,7 +3072,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "FAO has maintained and reported this indicator since 1974. The assessment is done at global level, not at country level, so is not comparable among countries", 
             "data-sources": "FAO has estimates for 584 fish stocks around world, representing 70% of global landings.", 
             "available": "Tier I", 
@@ -3129,7 +3091,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "UNEP-WCMC (Indicator under the BIP)", 
             "data-sources": "World Database on Protected Areas (WDPA)", 
             "available": "Tier I", 
@@ -3148,9 +3110,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNSD", 
-            "data-sources": "The SEEA Central Framework provides the measurement framework for environmental subsidies.  Further disaggregation may be needed for negative fishery subsidies depending on how they are defined.", 
+            "data-sources": "The SEEA Central Framework provides the measurement framework for environmental subsidies. Further disaggregation may be needed for negative fishery subsidies depending on how they are defined.", 
             "available": "Tier III", 
             "category": ""
         }, 
@@ -3167,9 +3129,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNSD", 
-            "data-sources": "SEEA Central Framework and the SEEA Agriculture Forestry and Fisheries provide information on the contribution to GDP of fisheries.  The Tourism Satellite Accounts provide information on the contribution of GDP to tourism.", 
+            "data-sources": "SEEA Central Framework and the SEEA Agriculture Forestry and Fisheries provide information on the contribution to GDP of fisheries. The Tourism Satellite Accounts provide information on the contribution of GDP to tourism.", 
             "available": "Tier I", 
             "category": ""
         }, 
@@ -3186,7 +3148,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "UNEP", 
             "data-sources": "", 
             "available": "Tier III", 
@@ -3205,7 +3167,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Dec2015", 
+            "source": "Dec2015-grey", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -3224,7 +3186,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015, Dec2015", 
+            "source": "Aug2015, Nov2015-green, Dec2015-grey", 
             "leads": "ILO", 
             "data-sources": "", 
             "available": "Tier II", 
@@ -3243,9 +3205,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "FAO carries out global forest resources assessments at 5 year intervals, the results of the FRA 2015 will be released in September 2015 and next assessment will most likely be in 2020", 
-            "data-sources": "FAO: Retain as most relevant indicator. The  indicator is already included among the indicators for the Millennium Development Goals (MDG) (indicator 7.1 'Proportion of land covered by forest'). In order to provide a precise definition of the indicator, it is crucial to provide a definition of 'Forest' and 'Total Land Area'. According to the FAO definitions, Forest is defined as 'land spanning more than 0.5 hectares with trees higher than 5 meters and a canopy cover of more than 10 percent, or trees able to reach these thresholds in situ. It does not include land that is predominantly under agricultural or urban land use.", 
+            "data-sources": "FAO: Retain as most relevant indicator. The indicator is already included among the indicators for the Millennium Development Goals (MDG) (indicator 7.1 'Proportion of land covered by forest'). In order to provide a precise definition of the indicator, it is crucial to provide a definition of 'Forest' and 'Total Land Area'. According to the FAO definitions, Forest is defined as 'land spanning more than 0.5 hectares with trees higher than 5 meters and a canopy cover of more than 10 percent, or trees able to reach these thresholds in situ. It does not include land that is predominantly under agricultural or urban land use.", 
             "available": "Tier I", 
             "category": ""
         }, 
@@ -3262,10 +3224,29 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
-            "leads": "FAO maintains this index based on country reporting beginning with the Global Forest Resources Assessment (FRA) 2015.  Data is collected globally every 5 years with reporting anticipated in 2015, 2020, 2025 and 2030.", 
-            "data-sources": "A quality descriptor is associated with the forest area, forest management planning and operational stakeholder involvement components of the index.  Coverage is aggregated to the country level in the country reports.  In 2015 some 155 countries reported for most of the elements in the index that add to a total of 2.200 M ha (55% global forest area).  A common definition is used for each element so comparability across countries is good.", 
+            "source": "Aug2015, Dec2015-grey", 
+            "leads": "FAO maintains this index based on country reporting beginning with the Global Forest Resources Assessment (FRA) 2015. Data is collected globally every 5 years with reporting anticipated in 2015, 2020, 2025 and 2030.", 
+            "data-sources": "A quality descriptor is associated with the forest area, forest management planning and operational stakeholder involvement components of the index. Coverage is aggregated to the country level in the country reports. In 2015 some 155 countries reported for most of the elements in the index that add to a total of 2.200 M ha (55% global forest area). A common definition is used for each element so comparability across countries is good.", 
             "available": "Tier II", 
+            "category": ""
+        }, 
+        {
+            "goal": 15, 
+            "targets": {
+                "primary-target": "15.2", 
+                "other-targets": ""
+            }, 
+            "indicator": "15.2.2", 
+            "title": "Net permanent forest loss", 
+            "data": {
+                "url": "", 
+                "format": "", 
+                "meta": ""
+            }, 
+            "source": "Nov2015-green", 
+            "leads": "", 
+            "data-sources": "", 
+            "available": "", 
             "category": ""
         }, 
         {
@@ -3281,7 +3262,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015, Dec2015", 
+            "source": "modified-Aug2015, Nov2015-green, Dec2015-grey", 
             "leads": "UNCCD, UNSD", 
             "data-sources": "** Trends in Land Cover/Land Use: (1) Global: e.g. http://www.glcn.org/databases/se_change_en.jsp, http://www.esa-landcover-cci.org/ (2) Regional: e.g. http://www.eea.europa.eu/data-and-maps/data/corine-land-cover ** Trends in Land Productivity: remote sensing data bases of NDVI and other Vegetation Indices/Variables, e.g. http://gcmd.gsfc.nasa.gov/index.html, http://land.copernicus.eu/global/themes/Vegetation, http://wad.jrc.ec.europa.eu/ ** Trends in Soil Organic Carbon: global spatial layers: Harmonized World Soil Database (HWSD), http://eusoils.jrc.ec.europa.eu/ESDB_Archive/octop/Global.html ** More detail on all elements of data sources may be found in the attached document on meta-data", 
             "available": "Tier II", 
@@ -3300,7 +3281,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "UNEP-WCMC (Indicator under the BIP) ( http://www.unep-wcmc.org/news/new-unep-report-unveils-world-on-track-to-meet-2020-target-for-protected-areas-on-land-and-sea )", 
             "data-sources": "World Database on Protected Areas (WDPA) ( http://www.protectedplanet.net/ )", 
             "available": "Tier I", 
@@ -3319,7 +3300,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "Thanks to the way GLC-SHARE is structured, FAO's Mountain Green Cover Index has a global coverage and it is possible to compute the indicator at the global, regional, national and sub-national level.", 
             "data-sources": "The data set GLC SHARE developed by FAO will be used as basis for the computation of the indicator, jointly with the definition of mountain areas as provided by UNEP-WCMC.", 
             "available": "Tier I", 
@@ -3338,7 +3319,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "IUCN (Indicator under the BIP)", 
             "data-sources": "IUCN Red List Index ( http://www.iucnredlist.org/about/publication/red-list-index )", 
             "available": "Tier I", 
@@ -3357,7 +3338,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "CBD (Indicator under the BIP)", 
             "data-sources": "CBD Nagoya Protocol Website, List of signatures and ratifications ( http://www.bipindicators.net/NagoyaProtocolratification )", 
             "available": "Tier I", 
@@ -3376,7 +3357,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015, Dec2015", 
+            "source": "Aug2015, Nov2015-green, Dec2015-grey", 
             "leads": "Responsible entities and national availability: IUCN Red List Partnership (http://www.iucnredlist.org/partners/partners-and-technical-support). Available globally since 1980s, and can be disaggregated to national and regional levels (Rodrigues et al. 2014 PLoS ONE 9(11): e113934).", 
             "data-sources": "Data sources: IUCN Red List of Threatened Species (http://www.iucnredlist.org/); specifically for species coded under '5 Biological resource use' in the Threats Classification Scheme (http://www.iucnredlist.org/technical-documents/classification-schemes/threats-classification-scheme).", 
             "available": "Tier I", 
@@ -3395,7 +3376,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNODC (in cooperation with the CITES Secretariat)", 
             "data-sources": "1. The records of the legal trade are collected by the CITES Secretariat and are maintained in a database by the UNEP-World Conservation Monitoring Centre, United Kingdom. All CITES Parties are required to report and data availability is good. 2.The wildlife seizure records are being collected by the CITES Secretariat and the World Customs Organization. UNODC has complied these data in a global database which contains over 125,000 seizure incidents at present. 3.Declared values for imported wildlife products. These are collected by national governments and are maintained in the World WISE database by UNODC.", 
             "available": "Tier II", 
@@ -3414,7 +3395,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "IUCN ISSG (Indicator under the BIP)", 
             "data-sources": "", 
             "available": "Tier I", 
@@ -3433,7 +3414,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "", 
             "data-sources": "", 
             "available": "Tier II", 
@@ -3452,7 +3433,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "OECD", 
             "data-sources": "OECD (Indicator under the BIP)", 
             "available": "Tier I", 
@@ -3471,7 +3452,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "OECD", 
             "data-sources": "", 
             "available": "Tier II", 
@@ -3490,7 +3471,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNODC (in cooperation with the CITES Secretariat)", 
             "data-sources": "1. The records of the legal trade are collected by the CITES Secretariat and are maintained in a database by the UNEP-World Conservation Monitoring Centre, United Kingdom. All CITES Parties are required to report and data availability is good. 2.The wildlife seizure records are being collected by the CITES Secretariat and the World Customs Organization. UNODC has complied these data in a global database which contains over 125,000 seizure incidents at present. 3.Declared values for imported wildlife products. These are collected by national governments and are maintained in the World WISE database by UNODC.", 
             "available": "Tier II", 
@@ -3509,9 +3490,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015,Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UNODC collects and publishes data from criminal justice systems through its annual data collection (UN Crime Trends Survey, UN-CTS); WHO collects and publishes data produced by public health/civil registration. UNODC and WHO are working together to harmonize data and procedures to produce joint UNODC-WHO homicide estimates at country, regional and global level. Considering data collected by both UNODC and WHO, national data on homicide are available for 174 countries (at least one data point after 2009). Time series data on homicide suitable for monitoring are available for 141 countries (at least 3 data points, the most recent for 2011 or later). When national data on homicide are not available, estimates are produced by WHO.", 
-            "data-sources": "Two separate sources exist at country level: a) criminal justice system  b) public health/civil registration", 
+            "data-sources": "Two separate sources exist at country level: a) criminal justice system b) public health/civil registration", 
             "available": "Tier I/II", 
             "category": ""
         }, 
@@ -3528,12 +3509,31 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015,Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "Data on conflict-related deaths is collected by the IISS Armed Conflict Database, the UCDP Battle-Related Deaths Dataset, PRIO Battle-Deaths Data and WHO estimates of deaths by cause.", 
             "data-sources": "Estimates of conflict related death is collected by the IISS Armed Conflict Database, the UCDP Battle-Related Deaths Dataset, PRIO Battle-Deaths Data and WHO.", 
             "available": "Tier II", 
             "category": ""
-        }, 
+        },
+        {
+            "goal": 16, 
+            "targets": {
+                "primary-target": "16.1", 
+                "other-targets": ""
+            }, 
+            "indicator": "16.1.3", 
+            "title": "Percentage of the population subjected to physical, psychological or sexual violence within the last 12 months", 
+            "data": {
+                "url": "", 
+                "format": "", 
+                "meta": ""
+            }, 
+            "source": "Nov2015-green", 
+            "leads": "", 
+            "data-sources": "", 
+            "available": "", 
+            "category": ""
+        },  
         {
             "goal": 16, 
             "targets": {
@@ -3547,7 +3547,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Dec2015",
+            "source": "Dec2015-grey",
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -3566,7 +3566,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "UNICEF. Fully comparable data are available for some 60 low- and middle-income countries", 
             "data-sources": "Household surveys such as MICS that have been collecting data on this indicator in low- and middle-income countries since 2005.", 
             "available": "Tier II", 
@@ -3585,7 +3585,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UNODC, Data on the number of detected victims of TIP is available for over 130 countries", 
             "data-sources": "National governments/Field studies", 
             "available": "Tier I", 
@@ -3604,7 +3604,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Dec2015",
+            "source": "Dec2015-grey",
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -3623,7 +3623,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Dec2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNODC collects data on crime reporting rate through the annual data collection UN-CTS. Data on crime reporting rates are currently available for approx. 35 countries.", 
             "data-sources": "Victimisation surveys", 
             "available": "Tier II", 
@@ -3642,9 +3642,28 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "UNODC collects data on prisons through its annual data collection (UN-CTS). Data on unsentenced and total detainees from the UN-CTS are available from 114 countries. The country coverage can improve if other sources (NGOs) are included (data for additional 70 countries are available,  bringing the total to 184 countries).", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "UNODC collects data on prisons through its annual data collection (UN-CTS). Data on unsentenced and total detainees from the UN-CTS are available from 114 countries. The country coverage can improve if other sources (NGOs) are included (data for additional 70 countries are available, bringing the total to 184 countries).", 
             "data-sources": "Prison administration", 
+            "available": "Tier II", 
+            "category": ""
+        }, 
+        {
+            "goal": 16, 
+            "targets": {
+                "primary-target": "16.4", 
+                "other-targets": "16.5, 8.3, 17.1"
+            }, 
+            "indicator": "16.4.1", 
+            "title": "Total value of inward and outward illicit financial flows (in current US$).", 
+            "data": {
+                "url": "", 
+                "format": "", 
+                "meta": ""
+            }, 
+            "source": "Aug2015, Dec2015-grey", 
+            "leads": "Perhaps the IMF should be responsible. The FfD draft text of 6 May 2015 'invite[s] the United Nations, IMF and the World Bank in collaboration with regional organizations, to publish official estimates of their volume and breakdown'. GFI publishes data for 151 countries.", 
+            "data-sources": "http://www.gfintegrity.org/issues/data-by-country/", 
             "available": "Tier II", 
             "category": ""
         }, 
@@ -3654,14 +3673,14 @@
                 "primary-target": "16.4", 
                 "other-targets": ""
             }, 
-            "indicator": "16.4.1", 
+            "indicator": "16.4.2", 
             "title": "Percentage of seized and collected firearms that are recorded and traced, in accordance with international standards and legal instruments", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UNODC has been mandated by the Conference of the Parties to the United Nations Convention Against Transnational Organized Crime to collect indicators related to firearm trafficking including the one proposed here.", 
             "data-sources": "", 
             "available": "Tier III", 
@@ -3673,14 +3692,14 @@
                 "primary-target": "16.4", 
                 "other-targets": ""
             }, 
-            "indicator": "16.4.2", 
+            "indicator": "16.4.3", 
             "title": "Percentage of small arms marked and recorded at the time of import in accordance with international standards", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Nov2015", 
+            "source": "Nov2015-green", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -3693,15 +3712,15 @@
                 "other-targets": "1.4, 1.a, 10.b, 16.3, 16.6, 16.10, 17.1"
             }, 
             "indicator": "16.5.1", 
-            "title": "Percentage of persons who had at least one contact with a public official, who paid a bribe to a public official, or were asked for a bribe by these public officials, during the last 12 months.                                                                                                            Disaggregate by age, sex, region and population group.  This concept of bribery prevalence makes clear that it has to be measured amongst those who had contact with a public official.", 
+            "title": "Percentage of persons who had at least one contact with a public official, who paid a bribe to a public official, or were asked for a bribe by these public officials, during the last 12 months. Disaggregate by age, sex, region and population group.", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNODC collects prevalence data on bribery from surveys through the annual United Nations Survey of Crime Trends and the Operations of Criminal Justice Systems mandated by the UN General Assembly (UN-CTS).", 
-            "data-sources": "Household corruption surveys and victimisation surveys with a module on bribery.  At least 72 countries have implemented at least one national victimisation survey after 2009.  In addition, 9 African countries have already implemented or are in the process of implementing a victimisation survey module as part of the Strategy for Harmonisation of Statistics for Africa (SHaSA).", 
+            "data-sources": "Household corruption surveys and victimisation surveys with a module on bribery. At least 72 countries have implemented at least one national victimisation survey after 2009. In addition, 9 African countries have already implemented or are in the process of implementing a victimisation survey module as part of the Strategy for Harmonisation of Statistics for Africa (SHaSA).", 
             "available": "Tier II", 
             "category": ""
         }, 
@@ -3718,7 +3737,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "PEFA Secretariat (World Bank); 149 countries", 
             "data-sources": "Data for 149 countries (collected on 398+ occasions) available at www.pefa.org.", 
             "available": "Tier I", 
@@ -3737,7 +3756,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Nov2015", 
+            "source": "Nov2015-green", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -3756,7 +3775,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UN Women, OHCHR, IPU.", 
             "data-sources": "National administrative sources. Global Barometer Study: http://www.jdsurvey.net/gbs/gbs.jsp , World Values Survey: http://www.worldvaluessurvey.org/wvs.jsp , Gallup World Poll: http://www.gallup.com/services/170945/world-poll.aspx , See SHaSA Harmonised Module on Democratic Governance, in the supplementary materials.", 
             "available": "Tier II", 
@@ -3775,7 +3794,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNFPA", 
             "data-sources": "UNFPA COAR database", 
             "available": "Tier III", 
@@ -3784,8 +3803,8 @@
         {
             "goal": 16, 
             "targets": {
-                "primary-target": "16.8", 
-                "other-targets": "10.6, 16.3, 16.7, 17.10"
+                "primary-target": "16.8, 10.6", 
+                "other-targets": "16.3, 16.7, 17.10"
             }, 
             "indicator": "16.8.1", 
             "title": "Percentage of members or voting rights of developing countries in international organizations.", 
@@ -3794,8 +3813,8 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
-            "leads": "United Nations/DESA.   Data would be available for all international organizations.", 
+            "source": "Aug2015, Nov2015-green", 
+            "leads": "United Nations/DESA. Data would be available for all international organizations.", 
             "data-sources": "Administrative data of international organizations.", 
             "available": "Tier I", 
             "category": ""
@@ -3813,7 +3832,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UNICEF, WHO, WB, UNSD, UNFPA", 
             "data-sources": "Household surveys and vital registration systems.", 
             "available": "Tier I", 
@@ -3832,9 +3851,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
-            "leads": "OHCHR, UNESCO, ILO, ITUC, IFJ.  Availability: Information from ILO on all ILO member states (185); from ITUC on all United Nations member states; and from IFJ (International Federation of Journalists) on 134 countries.", 
-            "data-sources": "This indicator collates data from multiple sources, including National Human Rights Institutions, national non-governmental organisations, associations of journalists, trades unions, ILO, and international non-governmental organisations. Information on the number of  violations committed against human rights defenders will be compiled annually by OHCHR from these data sources and further data collected through individual complaints to human rights treaty bodies, and Special Procedures of the Human Rights Council, including the Special Rapporteurs on human rights defenders, on freedom of opinion and expression, torture, the Working Group on Enforced or Involuntary Disappearances, and the Working Group on Arbitrary Detention. Additional data from OHCHR field offices and UN Country Teams will also be included. These data will be verified, cross-checked to ensure no duplication, and compiled in line with the agreed international definitions outlined above. Information on the number of journalists killed are compiled annually by UNESCO from data collected through multi-sourced research, including press reports, information from monitoring groups, direct reports, and information from UNESCO field offices and other UN bodies. Reports of killings compiled by UNESCO are then transmitted for clarification on the status of judicial investigation to Member States and categorized into the following: 1) no information received so far; 2) on-going; 3) resolved; 4) killed in cross-fire; and 5) others. This information can be found at the annual report by the UNESCO Director-General on 'The Safety of Journalists and the Danger of Impunity'.", 
+            "source": "Aug2015, Dec2015-grey", 
+            "leads": "OHCHR, UNESCO, ILO, ITUC, IFJ. Availability: Information from ILO on all ILO member states (185); from ITUC on all United Nations member states; and from IFJ (International Federation of Journalists) on 134 countries.", 
+            "data-sources": "This indicator collates data from multiple sources, including National Human Rights Institutions, national non-governmental organisations, associations of journalists, trades unions, ILO, and international non-governmental organisations. Information on the number of violations committed against human rights defenders will be compiled annually by OHCHR from these data sources and further data collected through individual complaints to human rights treaty bodies, and Special Procedures of the Human Rights Council, including the Special Rapporteurs on human rights defenders, on freedom of opinion and expression, torture, the Working Group on Enforced or Involuntary Disappearances, and the Working Group on Arbitrary Detention. Additional data from OHCHR field offices and UN Country Teams will also be included. These data will be verified, cross-checked to ensure no duplication, and compiled in line with the agreed international definitions outlined above. Information on the number of journalists killed are compiled annually by UNESCO from data collected through multi-sourced research, including press reports, information from monitoring groups, direct reports, and information from UNESCO field offices and other UN bodies. Reports of killings compiled by UNESCO are then transmitted for clarification on the status of judicial investigation to Member States and categorized into the following: 1) no information received so far; 2) on-going; 3) resolved; 4) killed in cross-fire; and 5) others. This information can be found at the annual report by the UNESCO Director-General on 'The Safety of Journalists and the Danger of Impunity'.", 
             "available": "Tier I", 
             "category": ""
         }, 
@@ -3845,15 +3864,15 @@
                 "other-targets": "5.2, 16.1, 16.3, 16.6, 16.10"
             }, 
             "indicator": "16.a.1", 
-            "title": "Percentage of victims who report physical and/or sexual crime to law enforcement agencies during past 12 months                                                                           Disaggregated by age, sex, region and population group", 
+            "title": "Percentage of victims who report physical and/or sexual crime to law enforcement agencies during past 12 months (Disaggregated by age, sex, region and population group)", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNODC, United Nations Survey of Crime Trends and the Operations of Criminal Justice Systems mandated by the UN General Assembly (UN-CTS).", 
-            "data-sources": "Crime victimisation surveys.  At least 72 countries have implemented at least one national victimisation survey after 2009.  In addition, 9 African countries have already implemented or are in the process of implementing a victimisation survey module as part of the Strategy for Harmonisation of Statistics for Africa (SHaSA).", 
+            "data-sources": "Crime victimisation surveys. At least 72 countries have implemented at least one national victimisation survey after 2009. In addition, 9 African countries have already implemented or are in the process of implementing a victimisation survey module as part of the Strategy for Harmonisation of Statistics for Africa (SHaSA).", 
             "available": "Tier II", 
             "category": ""
         }, 
@@ -3870,7 +3889,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "Data for this indicator are collected in an increasing number of countries. At the regional level, the EU Fundamental Rights Agency has collected the data for 27 EU Member States. Relevant data is also collected in Eurobarometer and Afrobarometer surveys, and this question could easily be added.", 
             "data-sources": "The primary data source is surveys conducted at the national or regional level. In many national contexts, surveys may exclude the homeless or low-income groups without access to telephones. Face-to-face surveys often exclude non-urban populations or members of linguistic minorities. There is evidence to suggest that the most marginalised populations are less likely to respond to surveys, but this effect is reduced by ensuring their participation in the preparation of the survey.", 
             "available": "Tier II", 
@@ -3889,7 +3908,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "IMF/OECD", 
             "data-sources": "National Accounts/IMF, OECD Revenue Statistics (covers large number of countries)", 
             "available": "Tier I", 
@@ -3908,9 +3927,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "OECD", 
-            "data-sources": "OECD/DAC.  The OECD prefers these simple indicators to the alternative 'ODA gap' and 'marginalised groups' suggestions below.  The 'raw' ODA/GNI ratios for total ODA and ODA to LDCs can be compared directly with the target levels of 0.7% and 0.15-0.20%.  'Gap' data would not be comparable in this way, and, expressed as percentages as GNI, would have the effect of making the gap seem small, even where it is large (e.g. a 'gap' of 0.5% of GNI means the aid provider country is only giving 28% of the 0.7% target level for total ODA).  There is no universally agreed target for ODA to Basic Social Services or marginalised groups.", 
+            "data-sources": "OECD/DAC. The OECD prefers these simple indicators to the alternative 'ODA gap' and 'marginalised groups' suggestions below. The 'raw' ODA/GNI ratios for total ODA and ODA to LDCs can be compared directly with the target levels of 0.7% and 0.15-0.20%. 'Gap' data would not be comparable in this way, and, expressed as percentages as GNI, would have the effect of making the gap seem small, even where it is large (e.g. a 'gap' of 0.5% of GNI means the aid provider country is only giving 28% of the 0.7% target level for total ODA). There is no universally agreed target for ODA to Basic Social Services or marginalised groups.", 
             "available": "Tier I", 
             "category": ""
         }, 
@@ -3927,7 +3946,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "IMF/WB", 
             "data-sources": "combined sources from WB, IMF, OECD and others", 
             "available": "Tier I/III", 
@@ -3946,7 +3965,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Nov2015", 
+            "source": "Nov2015-green", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -3965,7 +3984,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "IMF-World Bank", 
             "data-sources": "IMF-World Bank", 
             "available": "Tier I", 
@@ -3978,13 +3997,13 @@
                 "other-targets": "17.15"
             }, 
             "indicator": "17.5.1", 
-            "title": "Number of national &  investment policy reforms adopted that incorporate sustainable development objectives or safeguards x country", 
+            "title": "Number of national and investment policy reforms adopted that incorporate sustainable development objectives or safeguards by country", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNCTAD and other sources", 
             "data-sources": "UNCTAD Investment Policy Monitor (can be supplemented by other sources)", 
             "available": "Tier II", 
@@ -4003,7 +4022,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "WIPO", 
             "data-sources": "WIPO", 
             "available": "Tier I", 
@@ -4022,7 +4041,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Nov2015", 
+            "source": "Nov2015-green", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -4041,7 +4060,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "ITU", 
             "data-sources": "ITU-Household Surveys. Data available for 100 countries, others are estimated", 
             "available": "Tier I", 
@@ -4060,7 +4079,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "Various international, multilateral development banks, financial mechanisms and regional financial institutions including Multilateral Fund of the Montreal Protocol, GEF, Green Climate Fund, CDM, World Bank, Development Finance Institutions (DFIs), International Financial Institutions (IFIs), African Development Bank, Asian Development Bank etc.", 
             "data-sources": "Various international, multilateral development banks, financial mechanisms and regional financial institutions including Multilateral Fund of the Montreal Protocol, GEF, Green Climate Fund, CDM, World Bank, Development Finance Institutions (DFIs), International Financial Institutions (IFIs), African Development Bank, Asian Development Bank etc.", 
             "available": "Tier III", 
@@ -4079,7 +4098,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "WTO/UNCTAD/ITC; Data is widely available for most countries", 
             "data-sources": "WTO/UNCTAD/ITC", 
             "available": "Tier I", 
@@ -4098,7 +4117,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "WTO/UNCTAD/ITC; Data is widely available for most countries", 
             "data-sources": "WTO/UNCTAD/ITC", 
             "available": "Tier I", 
@@ -4117,7 +4136,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "WTO/UNCTAD/ITC", 
             "data-sources": "WTO/UNCTAD/ITC", 
             "available": "Tier I", 
@@ -4136,7 +4155,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "WB/UNSD", 
             "data-sources": "National Accounts/IMF/DESA", 
             "available": "Tier I", 
@@ -4155,7 +4174,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015-green", 
             "leads": "OHCHR, UNEP", 
             "data-sources": "OHCHR, UNEP, other agencies", 
             "available": "Tier I", 
@@ -4168,13 +4187,13 @@
                 "other-targets": ""
             }, 
             "indicator": "17.15.1", 
-            "title": "Numbers of constraints that are embodied in ODA or loan agreements, IIAs. RTAs etc.", 
+            "title": "Numbers of constraints that are embodied in ODA or loan agreements, IIAs, RTAs etc.", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNCTAD", 
             "data-sources": "OECD DAC+ (ODA); UNCTAD (IIAs + RTAs)", 
             "available": "Tier II", 
@@ -4193,9 +4212,9 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNDP", 
-            "data-sources": "OECD-UNDP Table A.7.  Global Partnership Website: http://www.effectivecooperation.org/", 
+            "data-sources": "OECD-UNDP Table A.7. Global Partnership Website: http://www.effectivecooperation.org/", 
             "available": "Tier II", 
             "category": ""
         }, 
@@ -4212,7 +4231,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "World Bank", 
             "data-sources": "World Bank", 
             "available": "Tier III", 
@@ -4231,10 +4250,29 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "UNFPA, UNDESA, UNDP", 
             "data-sources": "MDG/SDG reporting databases (UNDESA and UNDP) plus baseline assessment in 2015 by UNFPA.", 
             "available": "Tier I", 
+            "category": ""
+        }, 
+        {
+            "goal": 17, 
+            "targets": {
+                "primary-target": "17.18", 
+                "other-targets": ""
+            }, 
+            "indicator": "17.18.2", 
+            "title": "Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official statistics", 
+            "data": {
+                "url": "", 
+                "format": "", 
+                "meta": ""
+            }, 
+            "source": "Dec2015-grey", 
+            "leads": "", 
+            "data-sources": "", 
+            "available": "", 
             "category": ""
         }, 
         {
@@ -4250,7 +4288,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015-green", 
             "leads": "", 
             "data-sources": "", 
             "available": "Tier II", 
@@ -4269,7 +4307,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015-grey", 
             "leads": "UNEP", 
             "data-sources": "http://inclusivewealthindex.org/#the-world-wants-to-know-how-its-doing", 
             "available": "Tier I", 
