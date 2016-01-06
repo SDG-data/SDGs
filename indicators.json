@@ -4,7 +4,7 @@
             "goal": 1, 
             "targets": {
                 "primary-target": "1.1", 
-                "other-targets": "2.3,1.2,8.5"
+                "other-targets": "2.3, 1.2, 8.5"
             }, 
             "indicator": "1.1.1", 
             "title": "Proportion of population below international poverty line disaggregated by sex and age group and employment status (or: Proportion of employed people living below the international poverty line)", 
@@ -23,7 +23,7 @@
             "goal": 1, 
             "targets": {
                 "primary-target": "1.2", 
-                "other-targets": "1.1,8.5"
+                "other-targets": "1.1, 8.5"
             }, 
             "indicator": "1.2.1", 
             "title": "Proportion of population living below national poverty line, disaggregated by sex and age group", 
@@ -89,7 +89,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "World Bank, UNDP, UNICEF", 
             "data-sources": "MICS and DHS; household surveys", 
             "available": "Tier II", 
@@ -127,7 +127,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "UNISDR", 
             "data-sources": "National Disaster Loss Databases, 85 (will be more than 115 by 2016)", 
             "available": "Tier II", 
@@ -137,7 +137,7 @@
             "goal": 1, 
             "targets": {
                 "primary-target": "1.a", 
-                "other-targets": "[3.1, 3.2, 3.3, 3.4, 3.7, 3.8, 4.1, 4.2, 4.3, 4.6, 5.6]"
+                "other-targets": "3.1, 3.2, 3.3, 3.4, 3.7, 3.8, 4.1, 4.2, 4.3, 4.6, 5.6"
             }, 
             "indicator": "1.a.1", 
             "title": "Percentage of resources allocated by the government directly to poverty reduction programmes", 
@@ -175,7 +175,7 @@
             "goal": 1, 
             "targets": {
                 "primary-target": "1.b", 
-                "other-targets": "Targets 1.b, 13.2 and 15.9"
+                "other-targets": "1.b, 13.2, 15.9"
             }, 
             "indicator": "1.b.1", 
             "title": "Number of national action plans related to multi-lateral environmental agreements that support accelerated investment in actions that eradicate poverty and sustainably use natural resources.", 
@@ -184,7 +184,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "INFORMEA  (www.informea.org). Information currently available for more than 160 countries", 
             "data-sources": "Data on all national action plans for MEAs can be found in INFORMEA, which in turn draws upon the data from individual MEAs such as the  National Biodiversity Strategy and Action Plans (http://www.bipindicators.net/statusofNBSAPs and http://www.cbd.int/nbsap/)", 
             "available": "Tier I", 
@@ -213,7 +213,7 @@
             "goal": 2, 
             "targets": {
                 "primary-target": "2.1", 
-                "other-targets": "The severity of food insecurity is a determinant and early warning sign of possible malnutrition. The FIES based indicators can thus be used as predictors of various forms of malnutrition, and therefore be relevant for target 2.2. A number of experts have highlighted the contribution of the FCS indicator to information on nutrient adequacy estimates, caloric intake, and have also highlighted unique benefits not associated with other dietary diversity indicators. In that context the use of the FCS would also be an added value to target 2.2, 3.1, and 3.2."
+                "other-targets": "2.2, 3.1, 3.2."
             }, 
             "indicator": "2.1.2", 
             "title": "Prevalence of population with moderate or severe food insecurity, based on the Food Insecurity Experience Scale (FIES)", 
@@ -288,8 +288,27 @@
         {
             "goal": 2, 
             "targets": {
+                "primary-target": "2.3", 
+                "other-targets": ""
+            }, 
+            "indicator": "2.3.2", 
+            "title": "Total Factor Productivity", 
+            "data": {
+                "url": "", 
+                "format": "", 
+                "meta": ""
+            }, 
+            "source": "Dec2015", 
+            "leads": "", 
+            "data-sources": "", 
+            "available": "", 
+            "category": ""
+        }, 
+        {
+            "goal": 2, 
+            "targets": {
                 "primary-target": "2.4", 
-                "other-targets": "The proposed alternative is used as one component of indicator 15.3.2, Area of land/soils under sustainable management"
+                "other-targets": "15.3.2"
             }, 
             "indicator": "2.4.1", 
             "title": "Percentage of agricultural area under sustainable agricultural practices.", 
@@ -298,7 +317,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015, Dec2015", 
             "leads": "FAO is carrying on a consultation process to develop an indicator on 'Area under sustainable land management', to be developed by the end of 2015. The process will be within the framework of the 'World Overview of Conservation Approaches and Technologies' (WOCAT) partnership and in the support of UNCCD implementation and will support countries to assess, map and monitor SLM as well as land degradation.", 
             "data-sources": "At global level, currently there is no data available. However many if not most of the countries record areas which are the object of practices contributing to environmental sustainability under various schemes, either of a regulatory nature, like protected areas for instance, or as part of a subsidies scheme or in a payment for environmental services scheme or as part of voluntary standards, public or private. Countries are also preparing, as part of national reports for the state of the world biodiversity for food and agriculture, statistics on practices contributing to biodiversity, most of which have a broader positive impact on the environment. Moreover, many countries are participating in internationally established strategic frameworks which promote the collection of data at country level. Hence, the data for computing the indicator should be collected through the records that are held in the process of the country participation to those schemes and strategies.", 
             "available": "Tier II", 
@@ -317,7 +336,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Nov2015", 
+            "source": "Nov2015, Dec2015", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -336,7 +355,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Nov2015", 
+            "source": "Nov201, Dec2015", 
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -349,16 +368,35 @@
                 "other-targets": "15.5"
             }, 
             "indicator": "2.5.1", 
-            "title": "Ex Situ Crop Collections Enrichment index", 
+            "title": "Ex-Situ Crop Collections Enrichment index", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "FAO - The indicator has been calculated by FAO in 2008 and 2014. It will be calculated again in 2015 and then periodically every 2-3 years based on data reported by member countries to the Commission of Genetic Resources of Food and Agriculture. Country data are stored in WIEWS, the FAO PGRFA information system.", 
             "data-sources": "Data are reported by member countries to the Commission of Genetic Resources of Food and Agriculture on the implementation of the Second Global Plan of Action for PGRFA, as agreed at CGRFA-15", 
             "available": "Tier I", 
+            "category": ""
+        }, 
+        {
+            "goal": 2, 
+            "targets": {
+                "primary-target": "2.5", 
+                "other-targets": ""
+            }, 
+            "indicator": "2.5.2", 
+            "title": "Percentage of local crops and breeds and their wild relatives, classified as being at-risk, not at-risk or unknown level of risk of extinction", 
+            "data": {
+                "url": "", 
+                "format": "", 
+                "meta": ""
+            }, 
+            "source": "Dec2015", 
+            "leads": "", 
+            "data-sources": "", 
+            "available": "", 
             "category": ""
         }, 
         {
@@ -374,7 +412,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "FAO - Coverage is high, with 139 countries included.  However, some countries have not provided data for all 13 years from 2001 to 2012, and the level of government to which expenditures pertain can differ.", 
             "data-sources": "FAO collects, in collaboration with the IMF, data on Government expenditure in Agriculture. The annual data and indicator value compiled by the Food and Agriculture Organization of the UN (FAO), can be found on the FAOSTAT domain at: http://faostat3.fao.org/download/I/IG/E, covering the periods 2001-2012.    The underlying annual data is official country data, from 2001 to 2012, reported by countries through a questionnaire jointly developed by FAO and the IMF using the COFOG and GFSM classifications.  The database currently covers 139 countries.", 
             "available": "Tier I", 
@@ -425,13 +463,13 @@
                 "other-targets": ""
             }, 
             "indicator": "2.c.1", 
-            "title": "Indicator of (food) Price Anomalies (IPA) ( CBB )", 
+            "title": "Indicator of (food) Price Anomalies (IPA)", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "FAO", 
             "data-sources": "", 
             "available": "Tier II", 
@@ -517,7 +555,7 @@
             "goal": 3, 
             "targets": {
                 "primary-target": "3.3", 
-                "other-targets": "3.2, 3.1, 10.2; is partly overlapping with 6.1 and 6.2"
+                "other-targets": "3.2, 3.1, 10.2, 6.1, 6.2"
             }, 
             "indicator": "3.3.1", 
             "title": "Number of new HIV infections per 1,000 uninfected population (by age, sex, and key populations)", 
@@ -688,7 +726,7 @@
             "goal": 3, 
             "targets": {
                 "primary-target": "3.6", 
-                "other-targets": "is partly overlapping with 11.2"
+                "other-targets": "11.2"
             }, 
             "indicator": "3.6.1", 
             "title": "Number of road traffic fatal injury deaths per 100,000 population (age-standardized)", 
@@ -754,7 +792,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "WHO and World Bank; data - all countries; WHO global database for tracer indicators available; biannual global progress report on UHC, first in 2015.", 
             "data-sources": "household surveys and facility data", 
             "available": "Tier II", 
@@ -773,7 +811,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "WHO and World Bank; data - 89 countries;  global database under development; biannual global progress report on UHC, first in 2015", 
             "data-sources": "Household surveys", 
             "available": "Tier II", 
@@ -783,7 +821,7 @@
             "goal": 3, 
             "targets": {
                 "primary-target": "3.9", 
-                "other-targets": "is partly overlapping with 6.3, 11.6 and 12.4"
+                "other-targets": "6.3, 11.6, 12.4"
             }, 
             "indicator": "3.9.1", 
             "title": "Population in urban areas exposed to outdoor air pollution levels above WHO guideline values", 
@@ -796,6 +834,25 @@
             "leads": "WHO; data - 91 countries in global database; biannual updates planned;   OECD also has geospatially-based measures for air pollution exposure with significant granularity at local level. It is rather straightforward to extend country coverage to a global level.", 
             "data-sources": "Administrative records; satellite data", 
             "available": "Tier I", 
+            "category": ""
+        }, 
+        {
+            "goal": 3, 
+            "targets": {
+                "primary-target": "3.9", 
+                "other-targets": ""
+            }, 
+            "indicator": "3.9.2", 
+            "title": "Mortality rate attributed to hazardous chemicals, water and soil pollution and contamination", 
+            "data": {
+                "url": "", 
+                "format": "", 
+                "meta": ""
+            }, 
+            "source": "Dec2015", 
+            "leads": "", 
+            "data-sources": "", 
+            "available": "", 
             "category": ""
         }, 
         {
@@ -938,7 +995,7 @@
                 "other-targets": ""
             }, 
             "indicator": "4.2.2", 
-            "title": "Participation rate in organized learning (one year before the official primary entry age): [Consider participation rate of specific 'age' for all countries (i.e. 4 or 5 years)/Use UOE questionnaire - UNESCO-UIS].", 
+            "title": "Participation rate in organized learning (one year before the official primary entry age)", 
             "data": {
                 "url": "", 
                 "format": "", 
@@ -995,7 +1052,7 @@
                 "other-targets": "All equity targets and targets associated with the underlying indicators; covers also 4.1, 4.2, 4.3, 4.4, 4.6, 5.1"
             }, 
             "indicator": "4.5.1", 
-            "title": "Parity indices (female/male, urban/rural, bottom/top wealth quintile] for all indicators on this list that can be disaggregated", 
+            "title": "Parity indices (female/male, urban/rural, bottom/top wealth quintile) for all indicators on this list that can be disaggregated", 
             "data": {
                 "url": "", 
                 "format": "", 
@@ -1033,13 +1090,13 @@
                 "other-targets": "1.5, 3.d, 11.6, 12.2, 12.8, 13.1, 13.3, 13.b, 15.9"
             }, 
             "indicator": "4.7.1", 
-            "title": "Percentage of 15-year old students enrolled in secondary school demonstrating at least a fixed level of knowledge across a selection of topics in environmental science and geoscience. The exact choice/range of topics will depend on the survey or assessment in which the indicator is collected. Disaggregations: sex and location (and others where data are available)", 
+            "title": "Percentage of 15-year old students enrolled in secondary school demonstrating at least a fixed level of knowledge across a selection of topics in environmental science and geoscience. The exact choice/range of topics will depend on the survey or assessment in which the indicator is collected. (Disaggregations: sex and location (and others where data are available))", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "OECD (PISA), IEA (ICCS); UNESCO-UIS will compile data from assessments and surveys run by other organizations", 
             "data-sources": "PISA 2006, administered in 57 countries, estimated an 'environmental science performance index.' ICCS 2009, which included 38 countries, contains workable items for larger-scale tracking that will require validation in developing world settings. ICCS 2016 will provide globally-comparable data on civic knowledge and engagement, and students' roles in peaceful functioning of schools. Major efforts will be required to develop a tool for use in other surveys. This is expected to take 3-5 years to achieve.", 
             "available": "Tier III", 
@@ -1109,7 +1166,7 @@
                 "other-targets": ""
             }, 
             "indicator": "5.1.1", 
-            "title": "Whether or not legal  frameworks are in place to promote equality and non-discrimination on the basis of sex", 
+            "title": "Whether or not legal frameworks are in place to promote equality and non-discrimination on the basis of sex", 
             "data": {
                 "url": "", 
                 "format": "", 
@@ -1391,7 +1448,7 @@
             "goal": 6, 
             "targets": {
                 "primary-target": "6.1", 
-                "other-targets": "Additional could also monitor 5.4."
+                "other-targets": "5.4."
             }, 
             "indicator": "6.1.2", 
             "title": "Average weekly time spent in water collection (including waiting time at public supply points), by sex, age, location and income.", 
@@ -1410,7 +1467,7 @@
             "goal": 6, 
             "targets": {
                 "primary-target": "6.2", 
-                "other-targets": "Use of safely managed sanitation services is relevant to the achievement of targets 1.1, 1.2, 1.4, 1.5, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 3.9, 4.1, 4.2, 4a, 5.2, 5.4, 6.3, 6.4, 6.5, 6.6, 8.9, 10.3, 11.1, 11.3, 11.5, 13.1"
+                "other-targets": "1.1, 1.2, 1.4, 1.5, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 3.9, 4.1, 4.2, 4a, 5.2, 5.4, 6.3, 6.4, 6.5, 6.6, 8.9, 10.3, 11.1, 11.3, 11.5, 13.1"
             }, 
             "indicator": "6.2.1", 
             "title": "Percentage of population using safely managed sanitation services", 
@@ -1429,7 +1486,7 @@
             "goal": 6, 
             "targets": {
                 "primary-target": "6.3", 
-                "other-targets": "Safe treatment of wastewater is relevant to the achievement of targets 1.4, 1.5, 2.3, 3.2, 3.3, 3.9, 6.4, 8.9, 9.4, 10.3, 11.1, 11.3, 11.5, 1.6, 12.4, 13.1, 14.1."
+                "other-targets": "1.4, 1.5, 2.3, 3.2, 3.3, 3.9, 6.4, 8.9, 9.4, 10.3, 11.1, 11.3, 11.5, 1.6, 12.4, 13.1, 14.1."
             }, 
             "indicator": "6.3.1", 
             "title": "Percentage of wastewater safely treated, disaggregated by economic activity", 
@@ -1467,7 +1524,7 @@
             "goal": 6, 
             "targets": {
                 "primary-target": "6.4", 
-                "other-targets": "This indicator informs on the following targets: 2.4, 8.4, 9.4 12.2, 12.3, 15.1."
+                "other-targets": "2.4, 8.4, 9.4 12.2, 12.3, 15.1."
             }, 
             "indicator": "6.4.1", 
             "title": "Percentage change in water use efficiency over time.", 
@@ -1476,7 +1533,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "FAO, on behalf of UN-Water A partial monitoring framework is already in place, currently being finalized under the GEMI monitoring initiative under the UN-Water umbrella (see description under 6.3.1). Data on efficiency are available for all countries. Data for baseline year will be used to track progress in successive years.", 
             "data-sources": "The indicator can be calculated using existing datasets from FAO-AQUASTAT on water withdrawals in different sectors, together with datasets on value generation from National Accounts Main Aggregates (UNSD), World Energy Outlook (International Energy Agency), World Bank demographic datasets, WaterStat Database (Water Footprint Network) and IBNET (the International Benchmarking Network for Water and Sanitation Utilities). The System of Environmental-Economic Accounting (SEEA, 2012) will provide robust withdrawal and consumption based statistics in the long-term but is currently only being compiled by a select number of countries. Modelled data could be used to fill in gaps while capacity is being developed, so that the indicator could be calculated for all countries immediately. The indicator provides an aggregated measure of overall change in productivity across sectors, but it is built on sectoral data and is therefore relevant to each of the sectors", 
             "available": "Tier I", 
@@ -1486,7 +1543,7 @@
             "goal": 6, 
             "targets": {
                 "primary-target": "6.4", 
-                "other-targets": "Target 15.1:  This indicator provides information on the level of pressure on  freshwater ecosystems"
+                "other-targets": "15.1"
             }, 
             "indicator": "6.4.2", 
             "title": "Percentage of total available water resources used, taking environmental water requirements into account (Level of  Water Stress)", 
@@ -1495,7 +1552,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "FAO, on behalf of UN-Water. A partial monitoring framework is already in place, currently being finalized under the GEMI monitoring initiative under the UN-Water umbrella. As one of the sources for GEMI, FAO-AQUASTAT data are available for all countries, with a track record (incomplete) starting in 1960.", 
             "data-sources": "Existing data are available from FAO-AQUASTAT. EWR data are presently not collected by AQUASTAT, but many feasible methods are available for countries that do not already have good institutional arrangements in place to collect this data on their own. Modelled data could be used to fill in gaps while capacity is being developed. The System of Environmental-Economic Accounting (SEEA, 2012) will provide robust withdrawal and consumption based statistics in the long-term but is currently only being compiled by a select number of countries. Data are collected at the scale of the river basin/aquifer and can be aggregated to the sub-national, national and regional scales.", 
             "available": "Tier I", 
@@ -1505,7 +1562,7 @@
             "goal": 6, 
             "targets": {
                 "primary-target": "6.5", 
-                "other-targets": "6.a, 6.b, 1.b, 11.b."
+                "other-targets": "6.a, 6.b, 1.b, 11.b"
             }, 
             "indicator": "6.5.1", 
             "title": "Degree of integrated water resources management (IWRM) implementation (0-100)", 
@@ -1514,7 +1571,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "UNEP, on behalf of UN-Water. Under the UN-Water umbrella, the GEMI monitoring initiative (see further information and description under 6.3.1), will draw on UNEP-DHI data, which are available for 134 countries. This can be used to provide a baseline for measurements. The UN World Water Assessment Programme (WWAP) initiated a project in 2014 to develop a methodology for gender-disaggregated data collection and produce gender-sensitive indicators. In November 2014, the Gender-Disaggregated Indicators presented by WWAP were officially endorsed by the African Ministers' Council on Water (AMCOW). AMCOW officially committed to 'establish national targets and a monitoring and evaluation framework for each of the seven pillars of the AMCOW gender policy and strategy, including sex-disaggregated indicators in the African context following guidelines developed by WWAP, by 2016.'", 
             "data-sources": "Data for 134 countries are available from UNEP-DHI (e.g. http://www.unepdhi.org/rioplus20 (see data file zip link) - full data available on request). Data are collected through the use of national IWRM questionnaires (one per country), measuring both qualitative and quantitative aspects of IWRM. This approach has been successfully applied to measure the status of IWRM for the Commission on Sustainable Development in both 2008 and 2012 (Rio+20). Results can easily be disaggregated to give a more nuanced picture of status both at national and regional (transboundary) levels.", 
             "available": "Tier I", 
@@ -1524,7 +1581,7 @@
             "goal": 6, 
             "targets": {
                 "primary-target": "6.6", 
-                "other-targets": "This indicator can inform on the following targets:  Target 9.1 and 9.2, Target 11.5, Target 11.6,  Target 11.7,  Target 12.2, Target 12.4, Target 13.1, Target 14.1,  Target 14.2 and 14.5, Target 15.1, 15.2 and 15.3"
+                "other-targets": "9.1, 9.2, 11.5, 11.6, 11.7, 12.2, 12.4, 13.1, 14.1, 14.2, 14.5, 15.1, 15.2, 15.3"
             }, 
             "indicator": "6.6.1", 
             "title": "Percentage of change in fresh water ecosystem", 
@@ -1685,7 +1742,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "UNSD", 
             "data-sources": "Energy productivity indicators defined as value added generated over net domestic energy use. Such indicator can be calculated at the aggregate economy-wide level, as well as by industry and by primary energy source.", 
             "available": "Tier I", 
@@ -1761,7 +1818,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "- UNEP/International resources panel  is responsible for policy application of data but not on the data collection and dissemination per se. - UNIDO: Data are partially available for international reporting - The System of Environmental Economic Accounts provides a standard methodology for calculating this indicator. However, no international data collection mechanism is yet in place and countries are still in implementation phase.", 
             "data-sources": "- Statistical surveys and administrative data on material use and value added  collected from the national statistics office", 
             "available": "Tier II", 
@@ -1771,7 +1828,7 @@
             "goal": 8, 
             "targets": {
                 "primary-target": "8.5", 
-                "other-targets": "10.3,10.4"
+                "other-targets": "10.3, 10.4"
             }, 
             "indicator": "8.5.1", 
             "title": "Average hourly earnings of female and male employees by occupations  (Wages/Gender wage gap)", 
@@ -1869,13 +1926,13 @@
                 "other-targets": "8.5"
             }, 
             "indicator": "8.8.2", 
-            "title": "Number of ILO conventions ratified by type of convention.", 
+            "title": "Number of ILO conventions ratified by type of convention", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "Responsible entity: ILO.  Availability: All ILO member states (185). Breakdown by type of ILO convention (fundamental, governance, technical).", 
             "data-sources": "NORMLEX (Information System on International Labour Standards of the ILO).", 
             "available": "Tier I", 
@@ -1888,13 +1945,13 @@
                 "other-targets": ""
             }, 
             "indicator": "8.9.1", 
-            "title": "Tourism direct GDP (as % of total GDP and in growth rate); and                               Number of jobs in tourism industries (as % total jobs and growth rate of jobs, by gender)", 
+            "title": "Tourism direct GDP (as % of total GDP and in growth rate); and Number of jobs in tourism industries (as % total jobs and growth rate of jobs, by sex)", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "World Tourism Organisation (UNWTO).  Currently around 60 countries have a fully developed System of Tourism Statistics that allows to construct a Tourism Satellite Account (TSA) and obtain economic aggregates like tourism GDP. All countries have at least a basic system of Tourism Statistics that allows to gather information about physical flows and monetary aggregates like tourism expenditures.", 
             "data-sources": "Existing data sources: National Statistical Offices and National Tourism Administrations. Not all countries have GDP figures for tourism, therefore value added could be used instead. The same applies for employment: not all countries count the number of jobs, some will have only the number of employees (or the full-time equivalents) which is a good substitute.", 
             "available": "Tier II", 
@@ -2037,7 +2094,7 @@
             "goal": 9, 
             "targets": {
                 "primary-target": "9.2", 
-                "other-targets": "08/05/01"
+                "other-targets": "8.5.1"
             }, 
             "indicator": "9.2.2", 
             "title": "Manufacturing employment, in percent to total employment", 
@@ -2094,7 +2151,7 @@
             "goal": 9, 
             "targets": {
                 "primary-target": "9.4", 
-                "other-targets": "08/05/01"
+                "other-targets": "8.5.1"
             }, 
             "indicator": "9.4.1", 
             "title": "Carbon emission per unit of value added", 
@@ -2173,7 +2230,7 @@
                 "other-targets": "1.4, 2.3, 2.c, 9.1, 11.b, 13.1,"
             }, 
             "indicator": "9.c.1", 
-            "title": "Percentage of the population covered by a mobile network,  by technology", 
+            "title": "Percentage of the population covered by a mobile network, by technology", 
             "data": {
                 "url": "", 
                 "format": "", 
@@ -2189,7 +2246,7 @@
             "goal": 10, 
             "targets": {
                 "primary-target": "10.1", 
-                "other-targets": "is partly overlapping with 1.2"
+                "other-targets": "1.2"
             }, 
             "indicator": "10.1.1", 
             "title": "Growth rates of household expenditure  or income per capita among the bottom 40 percent of the population and the total population", 
@@ -2227,7 +2284,7 @@
             "goal": 10, 
             "targets": {
                 "primary-target": "10.3", 
-                "other-targets": "10.2, 10.3, 16.3, 16b"
+                "other-targets": "10.2, 10.3, 16.3, 16.b"
             }, 
             "indicator": "10.3.1", 
             "title": "Percentage of population reporting having personally felt discriminated against or harassed within the last 12 months on the basis of a ground of discrimination prohibited under international human rights law", 
@@ -2249,7 +2306,7 @@
                 "other-targets": "8.b.1"
             }, 
             "indicator": "10.4.1", 
-            "title": "Labour share of GDP, comprising wages and social protection transfers.", 
+            "title": "Labour share of GDP, comprising wages and social protection transfers", 
             "data": {
                 "url": "", 
                 "format": "", 
@@ -2274,7 +2331,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "", 
             "data-sources": "", 
             "available": "Tier III", 
@@ -2284,7 +2341,7 @@
             "goal": 10, 
             "targets": {
                 "primary-target": "10.6", 
-                "other-targets": "Target 16.3 (rule of law at international level).  Target 16.7 (which focuses on inclusive, participatory and representative decision-making AT ALL LEVELs).  Target 17.10 (non-discriminatory and equitable multilateral trading system)."
+                "other-targets": "16.3, 16.7, 17.10"
             }, 
             "indicator": "10.6.1", 
             "title": "Percentage of members or voting rights of developing countries in international organizations.", 
@@ -2331,7 +2388,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "Collective effort by members of the Global Migration Group, supported by national governments and statistical agencies", 
             "data-sources": "Government agencies, including reporting to follow-up mechanisms of relevant human rights instruments.  The United Nations Inquiry among Governments on Population and Development.  World Population Policies Database.  Migration Profiles.  Existing migration policy indices", 
             "available": "Tier III", 
@@ -2350,7 +2407,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "UNODC, Data on the number of detected victims of TIP is available for over 130 countries", 
             "data-sources": "National governments/Field studies", 
             "available": "Tier II", 
@@ -2473,6 +2530,25 @@
         {
             "goal": 11, 
             "targets": {
+                "primary-target": "11.3", 
+                "other-targets": ""
+            }, 
+            "indicator": "11.3.2", 
+            "title": "Percentage of cities with direct participation structure of civil society in urban planning and management, which operates regularly and democratically", 
+            "data": {
+                "url": "", 
+                "format": "", 
+                "meta": ""
+            }, 
+            "source": "Dec2015",
+            "leads": "", 
+            "data-sources": "", 
+            "available": "", 
+            "category": ""
+        }, 
+        {
+            "goal": 11, 
+            "targets": {
                 "primary-target": "11.4", 
                 "other-targets": "8.9, 11,7, 12.b"
             }, 
@@ -2483,7 +2559,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "UNESCO-UIS (but there are no current data collections for this), UN-HABITAT", 
             "data-sources": "Ministry of Finance/Budget and National Statistical Offices", 
             "available": "Tier II", 
@@ -2502,7 +2578,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "UNISDR", 
             "data-sources": "National Disaster Loss Databases, 85 (will be more than 115 by 2016)", 
             "available": "Tier II", 
@@ -2568,6 +2644,25 @@
         {
             "goal": 11, 
             "targets": {
+                "primary-target": "11.7", 
+                "other-targets": ""
+            }, 
+            "indicator": "11.7.2", 
+            "title": "Proportion of women subjected to physical or sexual harassment by perpetrator and place of occurrence (last 12 months)", 
+            "data": {
+                "url": "", 
+                "format": "", 
+                "meta": ""
+            }, 
+            "source": "Dec2015",
+            "leads": "", 
+            "data-sources": "", 
+            "available": "", 
+            "category": ""
+        }, 
+        {
+            "goal": 11, 
+            "targets": {
                 "primary-target": "11.a", 
                 "other-targets": ""
             }, 
@@ -2578,7 +2673,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "UNFPA , UN-Habitat, DESA", 
             "data-sources": "UNDESA, Census information, city data", 
             "available": "Tier I", 
@@ -2597,7 +2692,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015, Dec2015", 
             "leads": "UN-Habitat, World Bank, ICLEI, UNISDR, Rockefeller Foundation, 100 Resilient Cities, Global Facility for Disaster Reduction and Reconstruction, Interamerican Development Bank, and C40 Climate Leadership Group", 
             "data-sources": "Government data, OCHA, NGO sources, UNHCR, IOM and IDMC", 
             "available": "Tier I", 
@@ -2616,7 +2711,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "UN-Habitat, World Bank", 
             "data-sources": "National accounts and state, provincial and local budgets", 
             "available": "Tier II", 
@@ -2654,7 +2749,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "UNEP/OECD.  The OECD's Input/output tables could be used to compute this; see http://www.oecd.org/trade/input-outputtables.htm.", 
             "data-sources": "For MF doable for the last two decades based on material extraction satellite accounts and standard MRIOs such as EXIOBASE, EORA or GTAP-WDIO; for DMI: reliable data available from UNEP and Eurostat for the last four decades", 
             "available": "Tier II", 
@@ -2683,7 +2778,7 @@
             "goal": 12, 
             "targets": {
                 "primary-target": "12.4", 
-                "other-targets": "Applicable to target 17.14"
+                "other-targets": "17.14"
             }, 
             "indicator": "12.4.1", 
             "title": "Number of Parties to international multilateral environmental agreements on hazardous and other chemicals and waste that meet their commitments and obligations in transmitting information as required by each relevant agreement", 
@@ -2701,8 +2796,27 @@
         {
             "goal": 12, 
             "targets": {
+                "primary-target": "12.4", 
+                "other-targets": ""
+            }, 
+            "indicator": "12.4.2", 
+            "title": "Treatment of waste, generation of hazardous waste (tonnes), hazardous waste management by type of treatment", 
+            "data": {
+                "url": "", 
+                "format": "", 
+                "meta": ""
+            }, 
+            "source": "Dec2015",
+            "leads": "", 
+            "data-sources": "", 
+            "available": "", 
+            "category": ""
+        }, 
+        {
+            "goal": 12, 
+            "targets": {
                 "primary-target": "12.5", 
-                "other-targets": "Applicable to  target 11.6"
+                "other-targets": "11.6"
             }, 
             "indicator": "12.5.1", 
             "title": "National recycling rate, tonnes of material recycled", 
@@ -2759,16 +2873,16 @@
             "goal": 12, 
             "targets": {
                 "primary-target": "12.8", 
-                "other-targets": "Targets 4.1, 4.7 , 8.4, 12.1, and 12.8"
+                "other-targets": "4.1, 4.7, 8.4, 12.1, 12.8"
             }, 
             "indicator": "12.8.1", 
-            "title": "Number of countries reporting inclusion of sustainable development and lifestyles topics in formal education curricula", 
+            "title": "Percentage of educational institutions with formal and informal education curricula on sustainable development and lifestyle topics", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "modified-Aug2015, Dec2015", 
             "leads": "Union for Ethical Biotrade (Indicator under the BIP)", 
             "data-sources": "Data availability is poor. One source focusing on biodiversity is the Biodiversity Barometer (http://www.bipindicators.net/biodiversitybarometer) but other sources are still under development.", 
             "available": "Tier III", 
@@ -2781,13 +2895,13 @@
                 "other-targets": "8.9, 14.7"
             }, 
             "indicator": "12.a.1", 
-            "title": "Number of qualified green patent applications", 
+            "title": "Number of qualified green patent applications over total", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "WIPO", 
             "data-sources": "Poor; however, different patent granting norms prevail across countries. Green/SCP related patents can be selected from these databases", 
             "available": "Tier III", 
@@ -2806,7 +2920,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "World Tourism Organisation (UNWTO) does not collect this data since the conceptual framework is not yet in place.", 
             "data-sources": "to be developed: National Statistical Offices", 
             "available": "Tier III", 
@@ -2844,7 +2958,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "UNISDR", 
             "data-sources": "National Disaster Loss Databases, 85 (will be more than 115 by 2016)", 
             "available": "Tier II", 
@@ -2854,7 +2968,7 @@
             "goal": 13, 
             "targets": {
                 "primary-target": "13.2", 
-                "other-targets": "Target 17.16"
+                "other-targets": "17.16"
             }, 
             "indicator": "13.2.1", 
             "title": "Number of countries that have formally communicated the establishment of integrated low-carbon, climate-resilient, disaster risk reduction development strategies (e.g. a national adaptation plan process, national policies and measures to promote transition to environmentally-friendly substances and technologies).", 
@@ -2863,7 +2977,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "Secretariats for IMEAs. Under the Montreal Protocol, such policies have been communicated by over 40 countries so far.", 
             "data-sources": "Comment: The additional text proposed in the modified indicator aims to highlight the mitigation aspects of the relevant strategies.   Information from National reports of relevant conventions", 
             "available": "Tier II", 
@@ -2882,7 +2996,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "UNICEF", 
             "data-sources": "", 
             "available": "Tier III", 
@@ -2914,13 +3028,13 @@
                 "other-targets": ""
             }, 
             "indicator": "13.b.1", 
-            "title": "Number of LDCs that are receiving specialized support for mechanisms for raising capacities for effective climate change related planning and management, including focusing on women, youth, local and marginalized communities", 
+            "title": "Number of LDCs and SIDs that are receiving specialized support for mechanisms for raising capacities for effective climate change related planning and management, including focusing on women, youth, local and marginalized communities", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "OECD", 
             "data-sources": "", 
             "available": "Tier III", 
@@ -2939,7 +3053,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "(sources will be identified)", 
             "data-sources": "GPNM and the European Nitrogen Expert Panel)", 
             "available": "Tier III", 
@@ -2952,13 +3066,13 @@
                 "other-targets": ""
             }, 
             "indicator": "14.2.1", 
-            "title": "% of coastal and marine development (to be defined) with formulated or implemented ICM/MSP plans (that are harmonized where applicable), based on an ecosystem approach, that builds resilient human communities and ecosystems and provides for equitable benefit sharing and decent work", 
+            "title": "% of coastal and marine development (to be defined) with formulated or implemented ICM/MSP plans (that are harmonized where applicable), based on an ecosystem approach, that builds resilient human communities and ecosystems and provides for equitable sharing and decent work", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "(sources will be identified)", 
             "data-sources": "UNEP will be monitoring a similar indicator under its Programme of Work 2016-2017 adopted by Member States. The process can support monitoring of revised indicator  14.2.1.", 
             "available": "Tier III", 
@@ -3006,7 +3120,7 @@
             "goal": 14, 
             "targets": {
                 "primary-target": "14.5", 
-                "other-targets": "Targets 6.6, 14.2, 14.5, 15.1 and 15.4"
+                "other-targets": "6.6, 14.2, 14.5, 15.1, 15.4"
             }, 
             "indicator": "14.5.1", 
             "title": "Coverage of protected areas in relation to marine areas", 
@@ -3034,7 +3148,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "UNSD", 
             "data-sources": "The SEEA Central Framework provides the measurement framework for environmental subsidies.  Further disaggregation may be needed for negative fishery subsidies depending on how they are defined.", 
             "available": "Tier III", 
@@ -3085,16 +3199,16 @@
                 "other-targets": ""
             }, 
             "indicator": "14.b.1", 
-            "title": "Percentage of catches that are subject to a catch documentation scheme or similar traceability system as a percentage of the total catches that are less than x tons and traded in major markets.", 
+            "title": "'Proportion of national fishery production by country that are catches by small-medium fishery businesses' or FAO proposal of 'Progress by countries in adopting and implementing legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries'", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
-            "leads": "The feasibility of the indicator will primarily be determined by countries and regions that put in place a CDS, and if instituted the cost of data collection will be a part of the CDS, and will operate on a continuing basis. The information in a CDS is collected along the value chain and to precisely calculate the indicator, the country where distribution of the product ends will be the collector of the information since they will have the point of origin and destination and will be able to determine the total volume of product landed and the volume of product landed that is subject to a CDS for catch less than X tons.", 
-            "data-sources": "The indicator does not exist, but the information does exist for some countries where such catch documentation schemes already exist, which is primarily the case for developed countries. However, FAO is leading the development of guidelines for such schemes and it is anticipated that the guidelines will be discussed and possibly endorsed in 2016 (at COFI). There is sufficient interest in CDS to begin to discuss/develop a globally agreed indicator for products traded through major markets. A catch documentation scheme will provide the framework on which to build and manage the indicator.", 
-            "available": "Tier III", 
+            "source": "Dec2015", 
+            "leads": "", 
+            "data-sources": "", 
+            "available": "", 
             "category": ""
         }, 
         {
@@ -3110,7 +3224,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015, Dec2015", 
             "leads": "ILO", 
             "data-sources": "", 
             "available": "Tier II", 
@@ -3129,7 +3243,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "FAO carries out global forest resources assessments at 5 year intervals, the results of the FRA 2015 will be released in September 2015 and next assessment will most likely be in 2020", 
             "data-sources": "FAO: Retain as most relevant indicator. The  indicator is already included among the indicators for the Millennium Development Goals (MDG) (indicator 7.1 'Proportion of land covered by forest'). In order to provide a precise definition of the indicator, it is crucial to provide a definition of 'Forest' and 'Total Land Area'. According to the FAO definitions, Forest is defined as 'land spanning more than 0.5 hectares with trees higher than 5 meters and a canopy cover of more than 10 percent, or trees able to reach these thresholds in situ. It does not include land that is predominantly under agricultural or urban land use.", 
             "available": "Tier I", 
@@ -3142,23 +3256,23 @@
                 "other-targets": "15.3"
             }, 
             "indicator": "15.2.1", 
-            "title": "Net permanent forest loss", 
+            "title": "Forest cover under sustainable forest management", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
-            "leads": "", 
-            "data-sources": "", 
-            "available": "", 
+            "source": "Aug2015, Dec2015", 
+            "leads": "FAO maintains this index based on country reporting beginning with the Global Forest Resources Assessment (FRA) 2015.  Data is collected globally every 5 years with reporting anticipated in 2015, 2020, 2025 and 2030.", 
+            "data-sources": "A quality descriptor is associated with the forest area, forest management planning and operational stakeholder involvement components of the index.  Coverage is aggregated to the country level in the country reports.  In 2015 some 155 countries reported for most of the elements in the index that add to a total of 2.200 M ha (55% global forest area).  A common definition is used for each element so comparability across countries is good.", 
+            "available": "Tier II", 
             "category": ""
         }, 
         {
             "goal": 15, 
             "targets": {
                 "primary-target": "15.3", 
-                "other-targets": "1.5, 2.3, 2.4, 6.6, 12.2, 13.1, 14.1, 15.1, 15.2 and 15.5"
+                "other-targets": "1.5, 2.3, 2.4, 6.6, 12.2, 13.1, 14.1, 15.1, 15.2, 15.5"
             }, 
             "indicator": "15.3.1", 
             "title": "Percentage of land that is degraded over total land area", 
@@ -3167,7 +3281,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "modified-Aug2015, Nov2015, Dec2015", 
             "leads": "UNCCD, UNSD", 
             "data-sources": "** Trends in Land Cover/Land Use: (1) Global: e.g. http://www.glcn.org/databases/se_change_en.jsp, http://www.esa-landcover-cci.org/ (2) Regional: e.g. http://www.eea.europa.eu/data-and-maps/data/corine-land-cover ** Trends in Land Productivity: remote sensing data bases of NDVI and other Vegetation Indices/Variables, e.g. http://gcmd.gsfc.nasa.gov/index.html, http://land.copernicus.eu/global/themes/Vegetation, http://wad.jrc.ec.europa.eu/ ** Trends in Soil Organic Carbon: global spatial layers: Harmonized World Soil Database (HWSD), http://eusoils.jrc.ec.europa.eu/ESDB_Archive/octop/Global.html ** More detail on all elements of data sources may be found in the attached document on meta-data", 
             "available": "Tier II", 
@@ -3215,7 +3329,7 @@
             "goal": 15, 
             "targets": {
                 "primary-target": "15.5", 
-                "other-targets": "Targets 15.5, 12.2, 12.4,"
+                "other-targets": "15.5, 12.2, 12.4,"
             }, 
             "indicator": "15.5.1", 
             "title": "Red List Index", 
@@ -3234,7 +3348,7 @@
             "goal": 15, 
             "targets": {
                 "primary-target": "15.6", 
-                "other-targets": "Targets 1.4, 15.6"
+                "other-targets": "1.4, 15.6"
             }, 
             "indicator": "15.6.1", 
             "title": "Number of countries that have adopted legislative, administrative and policy frameworks for the implementation of the Nagoya Protocol", 
@@ -3253,7 +3367,7 @@
             "goal": 15, 
             "targets": {
                 "primary-target": "15.7", 
-                "other-targets": "15.5 (and disaggregated versions for other targets)"
+                "other-targets": "15.5"
             }, 
             "indicator": "15.7.1", 
             "title": "Red List Index for species in trade", 
@@ -3262,7 +3376,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015, Nov2015", 
+            "source": "Aug2015, Nov2015, Dec2015", 
             "leads": "Responsible entities and national availability: IUCN Red List Partnership (http://www.iucnredlist.org/partners/partners-and-technical-support). Available globally since 1980s, and can be disaggregated to national and regional levels (Rodrigues et al. 2014 PLoS ONE 9(11): e113934).", 
             "data-sources": "Data sources: IUCN Red List of Threatened Species (http://www.iucnredlist.org/); specifically for species coded under '5 Biological resource use' in the Threats Classification Scheme (http://www.iucnredlist.org/technical-documents/classification-schemes/threats-classification-scheme).", 
             "available": "Tier I", 
@@ -3271,7 +3385,7 @@
         {
             "goal": 15, 
             "targets": {
-                "primary-target": "15.7", 
+                "primary-target": "15.7, 15.c", 
                 "other-targets": ""
             }, 
             "indicator": "15.7.2", 
@@ -3281,7 +3395,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "UNODC (in cooperation with the CITES Secretariat)", 
             "data-sources": "1. The records of the legal trade are collected by the CITES Secretariat and are maintained in a database by the UNEP-World Conservation Monitoring Centre, United Kingdom. All CITES Parties are required to report and data availability is good. 2.The wildlife seizure records are being collected by the CITES Secretariat and the World Customs Organization. UNODC has complied these data in a global database which contains over 125,000 seizure incidents at present. 3.Declared values for imported wildlife products. These are collected by national governments and are maintained in the World WISE database by UNODC.", 
             "available": "Tier II", 
@@ -3300,7 +3414,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "IUCN ISSG (Indicator under the BIP)", 
             "data-sources": "", 
             "available": "Tier I", 
@@ -3319,7 +3433,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "", 
             "data-sources": "", 
             "available": "Tier II", 
@@ -3357,7 +3471,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "OECD", 
             "data-sources": "", 
             "available": "Tier II", 
@@ -3366,7 +3480,7 @@
         {
             "goal": 15, 
             "targets": {
-                "primary-target": "15.c", 
+                "primary-target": "15.c, 15.7", 
                 "other-targets": ""
             }, 
             "indicator": "15.c.1", 
@@ -3376,7 +3490,7 @@
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "UNODC (in cooperation with the CITES Secretariat)", 
             "data-sources": "1. The records of the legal trade are collected by the CITES Secretariat and are maintained in a database by the UNEP-World Conservation Monitoring Centre, United Kingdom. All CITES Parties are required to report and data availability is good. 2.The wildlife seizure records are being collected by the CITES Secretariat and the World Customs Organization. UNODC has complied these data in a global database which contains over 125,000 seizure incidents at present. 3.Declared values for imported wildlife products. These are collected by national governments and are maintained in the World WISE database by UNODC.", 
             "available": "Tier II", 
@@ -3405,16 +3519,35 @@
             "goal": 16, 
             "targets": {
                 "primary-target": "16.1", 
-                "other-targets": ""
+                "other-targets": "16.2, 16.3, 16.4, 16.6"
             }, 
             "indicator": "16.1.2", 
-            "title": "Percentage of the population subjected to physical, psychological or sexual violence within the last 12 months", 
+            "title": "Conflict-related deaths per 100,000 people (disaggregated by age, sex and cause)", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "modified-Aug2015, Nov2015", 
+            "source": "Aug2015,Dec2015", 
+            "leads": "Data on conflict-related deaths is collected by the IISS Armed Conflict Database, the UCDP Battle-Related Deaths Dataset, PRIO Battle-Deaths Data and WHO estimates of deaths by cause.", 
+            "data-sources": "Estimates of conflict related death is collected by the IISS Armed Conflict Database, the UCDP Battle-Related Deaths Dataset, PRIO Battle-Deaths Data and WHO.", 
+            "available": "Tier II", 
+            "category": ""
+        }, 
+        {
+            "goal": 16, 
+            "targets": {
+                "primary-target": "16.1", 
+                "other-targets": ""
+            }, 
+            "indicator": "16.1.4", 
+            "title": "Proportion of people that feel safe walking alone around the area they live", 
+            "data": {
+                "url": "", 
+                "format": "", 
+                "meta": ""
+            }, 
+            "source": "Dec2015",
             "leads": "", 
             "data-sources": "", 
             "available": "", 
@@ -3424,7 +3557,7 @@
             "goal": 16, 
             "targets": {
                 "primary-target": "16.2", 
-                "other-targets": "16.1.2.  The indicator also monitors other targets: 5.2 (women), 10.3 (hate crimes)."
+                "other-targets": "16.1.2, 5.2, 10.3"
             }, 
             "indicator": "16.2.1", 
             "title": "Percentage of children aged 1-17 years who experienced any physical punishment and violent disciplinary measures, in the past 12 months", 
@@ -3443,7 +3576,7 @@
             "goal": 16, 
             "targets": {
                 "primary-target": "16.2", 
-                "other-targets": "Target 5.2"
+                "other-targets": "5.2"
             }, 
             "indicator": "16.2.2", 
             "title": "Number of detected and non-detected victims of human trafficking per 100,000; by sex, age and form of exploitation", 
@@ -3461,17 +3594,36 @@
         {
             "goal": 16, 
             "targets": {
+                "primary-target": "16.2", 
+                "other-targets": ""
+            }, 
+            "indicator": "16.2.3", 
+            "title": "Percentage of young women and men aged 18-24 years who experienced sexual violence by age 18", 
+            "data": {
+                "url": "", 
+                "format": "", 
+                "meta": ""
+            }, 
+            "source": "Dec2015",
+            "leads": "", 
+            "data-sources": "", 
+            "available": "", 
+            "category": ""
+        }, 
+        {
+            "goal": 16, 
+            "targets": {
                 "primary-target": "16.3", 
                 "other-targets": "16.a"
             }, 
-            "indicator": "16.3.2", 
+            "indicator": "16.3.1", 
             "title": "Percentage of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms (also called crime reporting rate)", 
             "data": {
                 "url": "", 
                 "format": "", 
                 "meta": ""
             }, 
-            "source": "Aug2015", 
+            "source": "Aug2015, Dec2015", 
             "leads": "UNODC collects data on crime reporting rate through the annual data collection UN-CTS. Data on crime reporting rates are currently available for approx. 35 countries.", 
             "data-sources": "Victimisation surveys", 
             "available": "Tier II", 
@@ -3483,7 +3635,7 @@
                 "primary-target": "16.3", 
                 "other-targets": ""
             }, 
-            "indicator": "16.3.1", 
+            "indicator": "16.3.2", 
             "title": "Unsentenced detainees as percentage of overall prison population", 
             "data": {
                 "url": "", 
@@ -3538,7 +3690,7 @@
             "goal": 16, 
             "targets": {
                 "primary-target": "16.5", 
-                "other-targets": "This indicator is proposed to monitor the following targets: 1.4 (access to basic services), 1a (resource mobilization), 10.b (ODA), 16.3 (rule of law), 16.6 (accountable institutions), 16.10 (protection of fundamental freedoms), 17.1 (domestic resource mobilization)."
+                "other-targets": "1.4, 1.a, 10.b, 16.3, 16.6, 16.10, 17.1"
             }, 
             "indicator": "16.5.1", 
             "title": "Percentage of persons who had at least one contact with a public official, who paid a bribe to a public official, or were asked for a bribe by these public officials, during the last 12 months.                                                                                                            Disaggregate by age, sex, region and population group.  This concept of bribery prevalence makes clear that it has to be measured amongst those who had contact with a public official.", 
@@ -3671,7 +3823,7 @@
             "goal": 16, 
             "targets": {
                 "primary-target": "16.10", 
-                "other-targets": "This indicator is proposed to monitor the following targets: 5.2 (violence against women), 16.1 (violence and deaths), 16.3 (rule of law), 16.6 (accountable institutions), 16.10 (protection of fundamental freedoms)."
+                "other-targets": "5.2, 16.1, 16.3, 16.6, 16.10"
             }, 
             "indicator": "16.10.1", 
             "title": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months", 
@@ -3690,7 +3842,7 @@
             "goal": 16, 
             "targets": {
                 "primary-target": "16.a", 
-                "other-targets": "This indicator is proposed to monitor the following targets: 5.2 (violence against women), 16.1 (violence and deaths), 16.3 (rule of law), 16.6 (accountable institutions), 16.10 (protection of fundamental freedoms)."
+                "other-targets": "5.2, 16.1, 16.3, 16.6, 16.10"
             }, 
             "indicator": "16.a.1", 
             "title": "Percentage of victims who report physical and/or sexual crime to law enforcement agencies during past 12 months                                                                           Disaggregated by age, sex, region and population group", 
