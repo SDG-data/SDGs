@@ -78,20 +78,10 @@
             "type": "string",
             "required": true
           },
-          "other-goals": {
-            "id": "other-goals",
-            "type": "string",
-            "required": false
-          },
           "available": {
             "id": "available",
             "type": "string",
             "required": true
-          },
-          "priority": {
-            "id": "priority",
-            "type": "string",
-            "required": false
           },
           "category": {
             "id": "category",
@@ -105,37 +95,48 @@
     },
     "source": {
       "id": "source",
-      "type": "object",
-      "properties": {
-        "url": {
-          "id": "url",
-          "type": "string",
-            "required": true
+      "type": "array",
+      "items":{
+        "type": "object",
+        "properties": {
+          "id": {
+            "id": "id",
+            "type": "string",
+              "required": true
+          },
+          "url": {
+            "id": "url",
+            "type": "string",
+              "required": true
+          },
+          "description": {
+            "id": "description",
+            "type": "string",
+              "required": true
+          }
         },
-        "date": {
-          "id": "date",
-          "type": "string",
-            "required": true
-        }
-      },
-      "additionalProperties": false
+        "additionalProperties": false
+      }
     },
     "meta": {
       "id": "meta",
-      "type": "object",
-      "properties": {
-        "id": {
-          "id": "id",
-          "type": "string",
-            "required": true
+      "type": "array",
+      "items":{
+        "type": "object",
+        "properties": {
+          "id": {
+            "id": "id",
+            "type": "string",
+              "required": true
+          },
+          "description": {
+            "id": "description",
+            "type": "string",
+              "required": true
+          }
         },
-        "description": {
-          "id": "description",
-          "type": "string",
-            "required": true
-        }
-      },
-      "additionalProperties": false
+        "additionalProperties": false
+      }
     }
   },
   "additionalProperties": false

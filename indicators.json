@@ -4313,5 +4313,65 @@
             "available": "Tier I", 
             "category": ""
         }
+    ],
+    "source": [
+        {
+            "id": "Aug2015",
+            "url": "http://unstats.un.org/sdgs/files/open-consultation-iaeg/Summary%20of%20Comments%20on%20Indicator%20Proposals%2025-9-15.XLSX",
+            "description": "Suggested indicators as of Aug 11, 2015. This list contains the parameters such as other-targets (=Interlinkages), available (=Tier), leads (=Entity), and data-sources (=Source). See http://unstats.un.org/sdgs/iaeg-sdgs/open-consultation/"
+        },
+        {
+            "id": "modified-Aug2015",
+            "url": "http://unstats.un.org/sdgs/files/meetings/iaeg-sdgs-meeting-02/Outcomes/Agenda%20Item%204%20-%20Review%20of%20proposed%20indicators%20-%202%20Nov%202015.pdf",
+            "description": "Aug2015 suggested indicator that is modified but not significantly, mainly from the 'Results of the list of indicators reviewed at the second IAEG-SDG meeting' held in Oct 26-28, 2015."
+        },
+        {
+            "id": "Nov2015-green",
+            "url": "http://unstats.un.org/sdgs/files/open-consultation-iaeg-2/Open%20Consultation%204-7%20Nov%202015_All%20Goals_V6.xlsx",
+            "description": "a green coded indicator reviewed during the second open consultation in November 2015. The indicators correspond with the green indicators on file. See http://unstats.un.org/sdgs/iaeg-sdgs/open-consultation-2/"
+        },
+        {
+            "id": "Dec2015-grey",
+            "url": "http://unstats.un.org/sdgs/files/open-consultation-iaeg-3/Grey%20Indicator%20Consultation%20Compilation_18%20Dec%202015.xlsx",
+            "description": "a grey coded indicator reviewed during the third open consultation in December 2015. The indicators correspond with the updated grey indicators on file. See http://unstats.un.org/sdgs/iaeg-sdgs/open-consultation-3/"
+        }
+    ],
+    "meta": [
+        {
+          "id": "primary-target",
+          "description": "Target ID(s) the indicator directly corresponds to. Usually one primary-target per indicator, but sometimes two primary-targets when indicators are identical across two target. "
+        },
+        {
+          "id": "other-targets",
+          "description": "directly corresponds to 'Interlinkages' from Aug2015 source. The most cases it is a list of target IDs of the relevant targets, but in rare cases it contains a relevant indicator's ID."
+        },
+        {
+          "id": "indicator",
+          "description": "unique indicator ID, mostly based on http://unstats.un.org/sdgs/files/meetings/iaeg-sdgs-meeting-02/Outcomes/Agenda%20Item%204%20-%20Review%20of%20proposed%20indicators%20-%202%20Nov%202015.pdf unless indicator is added later."
+        },
+        {
+          "id": "title",
+          "description": "SDGs indicator"
+        },
+        {
+          "id": "data",
+          "description": ""
+        },
+        {
+          "id": "source",
+          "description": "The source of SDGs indicator list."
+        },
+        {
+          "id": "leads",
+          "description": "directly corresponds to 'Entity' from Aug2015 source. The organizations that are likely responsible for data collections of relevant data for the indicator."
+        },
+        {
+          "id": "data-sources",
+          "description": "directly corresponds to 'Source' from Aug2015 source. The source(s) of the relevant data."
+        },
+        {
+          "id": "available",
+          "description": "directly corresponds to 'Tier' from Aug2015 source. The source says 'a first tier for which an established methodology exists and data are already widely available; a second tier for which a methodology has been established but for which data are not easily available; and a third for which an internationally agreed methodology has not yet been developed. It should be noted that the coverage and level of detail of the metadata provided by the relevant agencies vary across indicators and that this initial evaluation may need to be revisited as more complete information becomes available.'"
+        }
     ]
 }
